@@ -1,7 +1,13 @@
 
+import java.io.FileNotFoundException;
+import java.io.FileReader;
 import java.io.IOException;
+import java.io.PrintWriter;
+import java.net.MalformedURLException;
 import java.net.URL;
+import java.net.UnknownHostException;
 import java.util.HashSet;
+import java.util.LinkedList;
 import java.util.Scanner;
 import java.util.TreeSet;
 
@@ -18,50 +24,88 @@ public class Crawl {
 	
     public static void main(String[] args) throws IOException 
     {
-    	HashSet<String> traversed = new HashSet<String>();
-    	TreeSet<String> linkSet = new TreeSet<String>();
+    	HashSet<String> traversed;
+    	TreeSet<String> linkSet;
     	HashSet<String> hosts = new HashSet<String>();
     	
-        System.out.println("Enter a url to traverse: ");
-        String url = scan.next();
-        traversed.add(url);
+        //System.out.println("Enter a url to traverse: ");
+        //String url = scan.next();
         
+        LinkedList<String> list = urlFromFile("data/wineries.txt");
+        int count = 0;
         
-        Document doc = Jsoup.connect(url).timeout(0).get();
-        Elements links = doc.select("a[href]");
-
-        //print("\nLinks: (%d)", links.size());
-        for (Element link : links) {
-            linkSet.add(link.attr("abs:href"));
-        }
-        
-        
-        url = new URL(url).getHost();
-        hosts.add(url);
-        
-        while (!linkSet.isEmpty())
+        while (!list.isEmpty())
         {
-        	String next = linkSet.first();
-        	linkSet.remove(next);
-        	if (next != "")
-        	{
-	        	if (next.contains(url) && !traversed.contains(next))
-	        	{
-	        		//System.out.println(next);
-	        		traverse(next, linkSet, traversed);
-	        	}
-	        	
-//	        	if (!next.contains(url))
-//	        		System.out.println(next);
-	        	traversed.add(next);
-	        	
-	        	hosts.add(new URL(next).getHost());
-        	}
+        	count++;
+        	traversed = new HashSet<String>();
+        	linkSet = new TreeSet<String>();
+        	
+        	String url = list.removeFirst();
+
+        	System.out.println("working on " + url);
+        	
+	        traversed.add(url);
+	        
+	        try
+	        {
+		        Document doc = Jsoup.connect(url).timeout(0).get();
+		        
+		        Elements links = doc.select("a[href]");
+		
+		        //print("\nLinks: (%d)", links.size());
+		        for (Element link : links) {
+		            linkSet.add(link.attr("abs:href"));
+		        }
+		        
+		        
+		        url = new URL(url).getHost();
+		        //hosts.add(url);
+		        
+		        while (!linkSet.isEmpty())
+		        {
+		        	String next = linkSet.first();
+		        	linkSet.remove(next);
+		        	if (next != "")
+		        	{
+			        	if (next.contains(url) && !traversed.contains(next))
+			        	{
+			        		//System.out.println(next);
+			        		traverse(next, linkSet, traversed);
+			        	}
+			        	
+		//	        	if (!next.contains(url))
+		//	        		System.out.println(next);
+			        	traversed.add(next);
+			        	
+			        	hosts.add(new URL(next).getHost());
+		        	}
+		        }
+	        }
+	        catch (HttpStatusException e)
+	    	{
+	    		//Oh no, 404
+	    	}
+	    	catch (UnsupportedMimeTypeException e)
+	    	{
+	    		//Oh no, some other exception
+	    	}
+	        catch (UnknownHostException e)
+	        {
+	        	//website is down, yo
+	        }
+	        catch (MalformedURLException e)
+	    	{
+	        	//website name is wrong
+	    	}
         }
+        
+        PrintWriter writer = new PrintWriter("data/results.txt", "UTF-8");
         
         System.out.println();
         for (String h : hosts)
-        	System.out.println(h);
+        	writer.println(h);
+        
+        writer.close();
 
     }
 
@@ -94,9 +138,46 @@ public class Crawl {
     	{
     		//Oh no, some other exception
     	}
-    	
-
+    	 catch (UnknownHostException e)
+        {
+        	//website is down, yo
+        }
+    	catch (MalformedURLException e)
+    	{
+    		//url probably doesn't have http://
+    		if (!url.startsWith("http"))
+    		{
+    			traverse("http://"+url, linkSet, traversed);
+    		}
+    	}
     }
 
+    private static LinkedList<String> urlFromFile(String filename)
+    {
+    	LinkedList<String> list = new LinkedList<String>();
+    	
+    	FileReader file = null;
+		try {
+			file = new FileReader(filename);
+		} catch (FileNotFoundException e) {
+			System.out.println("File " + filename + " could not be found.");
+			e.printStackTrace();
+		}
+
+		Scanner scan = new Scanner(file);
+
+		while (scan.hasNext()) {
+			list.add(scan.next());
+		}
+		try {
+			scan.close();
+			file.close();
+		} catch (IOException e) {
+			System.out.println("File " + filename + " could not be found.");
+			e.printStackTrace();
+		}
+		
+		return list;
+    }
 
 }
