@@ -72,16 +72,18 @@ public class Crawl {
 		        		URL temp = new URL(next);
 		        		next = temp.getProtocol() + "://" + temp.getHost() + temp.getPath();
 		        		
-		        		System.out.println("Traversed " + next);
+		        		
 		        		
 			        	if (next.contains(url) && !traversed.contains(next))
 			        	{
 			        		traverse(next, linkSet, traversed);
 			        	}
 			    
-			        	traversed.add(next);
+			        	if (traversed.add(next))
+			        		System.out.println("Traversed " + next);
 			        	
-			        	hosts.add(new URL(next).getHost());
+			        	if (!(new URL(next).getHost().equals(url)))
+			        		hosts.add(new URL(next).getHost());
 		        	}
 		        }
 		        
