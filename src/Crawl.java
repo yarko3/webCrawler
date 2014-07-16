@@ -97,6 +97,10 @@ public class Crawl {
 	    	{
 	        	//website name is wrong
 	    	}
+	        catch (Exception e)
+	        {
+	        	//everything else happened
+	        }
         }
         
         PrintWriter writer = new PrintWriter("data/results.txt", "UTF-8");
@@ -149,6 +153,10 @@ public class Crawl {
     		{
     			traverse("http://"+url, linkSet, traversed);
     		}
+    	}
+    	catch (Exception e)
+    	{
+    		//everything else happened
     	}
     }
 
