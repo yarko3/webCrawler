@@ -34,7 +34,7 @@ public class Crawl {
         LinkedList<String> list = urlFromFile("data/wineries.txt");
         int count = 0;
         
-        while (!list.isEmpty())
+        while (!list.isEmpty() && count < 2)
         {
         	count++;
         	traversed = new HashSet<String>();
@@ -80,6 +80,15 @@ public class Crawl {
 			        	hosts.add(new URL(next).getHost());
 		        	}
 		        }
+		        
+		        //dump current hosts to file
+		        PrintWriter writer = new PrintWriter("data/results.txt", "UTF-8");
+		        
+		       
+		        for (String h : hosts)
+		        	writer.println(h);
+		        
+		        writer.close();
 	        }
 	        catch (HttpStatusException e)
 	    	{
@@ -103,13 +112,6 @@ public class Crawl {
 	        }
         }
         
-        PrintWriter writer = new PrintWriter("data/results.txt", "UTF-8");
-        
-        System.out.println();
-        for (String h : hosts)
-        	writer.println(h);
-        
-        writer.close();
 
     }
 
