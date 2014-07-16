@@ -34,11 +34,12 @@ public class Crawl {
         LinkedList<String> list = urlFromFile("data/wineries.txt");
         int count = 0;
         
-        while (!list.isEmpty() && count < 2)
+        while (!list.isEmpty())
         {
         	count++;
         	traversed = new HashSet<String>();
         	linkSet = new TreeSet<String>();
+        	
         	
         	String url = list.removeFirst();
 
@@ -61,20 +62,23 @@ public class Crawl {
 		        url = new URL(url).getHost();
 		        //hosts.add(url);
 		        
-		        while (!linkSet.isEmpty())
+		        while (!linkSet.isEmpty() && traversed.size() < 100)
 		        {
 		        	String next = linkSet.first();
 		        	linkSet.remove(next);
 		        	if (next != "")
 		        	{
+		        		//normalize url
+		        		URL temp = new URL(next);
+		        		next = temp.getProtocol() + "://" + temp.getHost() + temp.getPath();
+		        		
+		        		System.out.println("Traversed " + next);
+		        		
 			        	if (next.contains(url) && !traversed.contains(next))
 			        	{
-			        		//System.out.println(next);
 			        		traverse(next, linkSet, traversed);
 			        	}
-			        	
-		//	        	if (!next.contains(url))
-		//	        		System.out.println(next);
+			    
 			        	traversed.add(next);
 			        	
 			        	hosts.add(new URL(next).getHost());
@@ -125,10 +129,15 @@ public class Crawl {
     	{
 	    	 Document doc = Jsoup.connect(url).timeout(0).get();
 	         Elements links = doc.select("a[href]");
-	
+	         
+	         
 	         //print("\nLinks: (%d)", links.size());
 	         for (Element link : links) {
 	        	 String next = link.attr("abs:href");
+
+	        	 //normalize url
+	        	 URL temp = new URL(next);
+	        	 next = temp.getProtocol() + "://" + temp.getHost() + temp.getPath();
 	        	 
 	        	 if (!traversed.contains(next) && (next.startsWith("http://") || next.startsWith("https://")))
 	        	 {
@@ -148,14 +157,6 @@ public class Crawl {
         {
         	//website is down, yo
         }
-    	catch (MalformedURLException e)
-    	{
-    		//url probably doesn't have http://
-    		if (!url.startsWith("http"))
-    		{
-    			traverse("http://"+url, linkSet, traversed);
-    		}
-    	}
     	catch (Exception e)
     	{
     		//everything else happened
