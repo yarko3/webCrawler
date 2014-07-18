@@ -3,26 +3,74 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.io.PrintWriter;
-import java.net.MalformedURLException;
+import java.io.UnsupportedEncodingException;
 import java.net.URL;
-import java.net.UnknownHostException;
 import java.util.HashSet;
 import java.util.LinkedList;
+import java.util.List;
 import java.util.Scanner;
 import java.util.TreeSet;
 
-import org.jsoup.HttpStatusException;
 import org.jsoup.Jsoup;
-import org.jsoup.UnsupportedMimeTypeException;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
+
+import se.walkercrou.places.GooglePlaces;
+import se.walkercrou.places.Place;
+
+
 
 
 public class Crawl {
 	static Scanner scan = new Scanner(System.in);
 	
-    public static void main(String[] args) throws IOException 
+	public static void main(String[] args) throws FileNotFoundException, UnsupportedEncodingException
+	{
+		//parseFileForExternals();
+		tagFile();
+	}
+	
+	public static void tagFile() throws FileNotFoundException, UnsupportedEncodingException
+	{
+		LinkedList<String> list = urlFromFile("data/results.txt");
+		
+		GooglePlaces client = new GooglePlaces("AIzaSyAjia1NdqXrNmBVVwe8TTmd7YqvX5BYJRA");
+		
+		
+		PrintWriter writer = new PrintWriter("data/tagged.txt", "UTF-8");
+        
+	       
+        for (String l : list)
+        {
+        	
+        	List<Place> places = client.getPlacesByQuery("Empire State Building", 1);
+        	
+        	
+        	writer.println(l + " - ");
+        	
+        	if (!places.isEmpty())
+        	{
+	        	Place top = (Place) places.get(0);
+				
+				
+				
+				for (String s : top.getTypes())
+				{
+					writer.print(s + ", ");
+				}
+				
+				writer.print("\b");
+        	}
+        }
+        
+        writer.close();
+		
+		
+	}
+	
+	
+    public static void parseFileForExternals()
     {
     	HashSet<String> traversed;
     	TreeSet<String> linkSet;
@@ -51,6 +99,7 @@ public class Crawl {
 	        {
 		        Document doc = Jsoup.connect(url).timeout(0).get();
 		        
+		        
 		        Elements links = doc.select("a[href]");
 		
 		        //print("\nLinks: (%d)", links.size());
@@ -66,6 +115,7 @@ public class Crawl {
 		        {
 		        	String next = linkSet.first();
 		        	linkSet.remove(next);
+		        	
 		        	if (next != "")
 		        	{
 		        		//normalize url
@@ -96,22 +146,6 @@ public class Crawl {
 		        
 		        writer.close();
 	        }
-	        catch (HttpStatusException e)
-	    	{
-	    		//Oh no, 404
-	    	}
-	    	catch (UnsupportedMimeTypeException e)
-	    	{
-	    		//Oh no, some other exception
-	    	}
-	        catch (UnknownHostException e)
-	        {
-	        	//website is down, yo
-	        }
-	        catch (MalformedURLException e)
-	    	{
-	        	//website name is wrong
-	    	}
 	        catch (Exception e)
 	        {
 	        	//everything else happened
@@ -147,18 +181,6 @@ public class Crawl {
 	        	 }
 	         }
     	}
-    	catch (HttpStatusException e)
-    	{
-    		//Oh no, 404
-    	}
-    	catch (UnsupportedMimeTypeException e)
-    	{
-    		//Oh no, some other exception
-    	}
-    	 catch (UnknownHostException e)
-        {
-        	//website is down, yo
-        }
     	catch (Exception e)
     	{
     		//everything else happened
@@ -192,5 +214,7 @@ public class Crawl {
 		
 		return list;
     }
+    
+    
 
 }
