@@ -31,12 +31,12 @@ public class Crawl {
 	
 	public static void main(String[] args) throws FileNotFoundException, UnsupportedEncodingException, MalformedURLException
 	{
-		//parseFileForExternals();
-		tagFile();
+		parseFileForExternals();
+		//tagFile();
 		//parseFile("data/wineries.txt");
 		//parseWithKnowns();
 		
-		buildEdgeSet();
+		//buildEdgeSet();
 	}
 	
 	public static void buildEdgeSet() throws FileNotFoundException, UnsupportedEncodingException
@@ -100,7 +100,7 @@ public class Crawl {
 	}
 	
 	
-	public static void tagFile() throws FileNotFoundException, UnsupportedEncodingException
+	public static void tagFile() throws FileNotFoundException, UnsupportedEncodingException, MalformedURLException
 	{
 		LinkedList<String> list = urlFromFile("data/wineries.txt");
 		
@@ -115,8 +115,17 @@ public class Crawl {
 	    
 	    for (String url : list)
         {
+	    	String urlCopy = url;
+	        String p = new URL(urlCopy).getProtocol();
+	        String h = new URL(urlCopy).getHost();
+	        
+	        if (!h.contains("www."))
+    			urlCopy = p + "://www." + h;
+    		else
+    			urlCopy = p +"://" + h;
 	    	
-	    	writer.print(url);
+	        
+	        writer.print(urlCopy);
 	    	
 	    	
 		    try
@@ -149,29 +158,31 @@ public class Crawl {
 		        	String address = top.getAddress();
 		        	
 		        	//if ((!address.isEmpty() && address.contains("Canada")) || address.isEmpty())
-		        	{
-			        	String name = top.getName();
-			        	writer.print("\t" + name);
-			        	
-			        	if (!address.isEmpty())
-			        		writer.print("\t" + address + "\t");
-			        	else
-			        		writer.print("\t\t");
-			        	
-			        	
-			        	Iterator<String> it = top.getTypes().iterator();
-						while (it.hasNext())
-						{
-							writer.print(it.next());
-							if (it.hasNext())
-								writer.print(", ");
-							
-						}
-						
-						
-						writer.print("\t" + top.getLatitude() + "\t" + top.getLongitude());
-						
-		        	}
+//		        	{
+//			        	String name = top.getName();
+//			        	writer.print("\t" + name);
+//			        	
+//			        	if (!address.isEmpty())
+//			        		writer.print("\t" + address + "\t");
+//			        	else
+//			        		writer.print("\t\t");
+//			        	
+//			        	
+//			        	Iterator<String> it = top.getTypes().iterator();
+//						while (it.hasNext())
+//						{
+//							writer.print(it.next());
+//							if (it.hasNext())
+//								writer.print(", ");
+//							
+//						}
+//						
+//						
+//						writer.print("\t" + top.getLatitude() + "\t" + top.getLongitude());
+//						
+//		        	}
+		        	
+		        	writer.print("\t" + top.getLatitude() + "\t" + top.getLongitude());
 	        	}
 		    }
 		    catch (Exception e)
@@ -336,24 +347,38 @@ public class Crawl {
 	
     public static void parseFileForExternals()
     {
+    	//traversed urls
     	HashSet<String> traversed;
+    	//set of links from the given winery to be traversed
     	TreeSet<String> linkSet;
+    	//found hosts of externals
     	HashSet<String> hosts = new HashSet<String>();
     	
-        //System.out.println("Enter a url to traverse: ");
-        //String url = scan.next();
+    	
+    	//store winery adjacency list
+    	HashMap<String, Set<String>> wineryMap = new HashMap<String, Set<String>>();
+    	
+    	//store regular adjacency list
+    	HashMap<String, Set<String>> externalMap = new HashMap<String, Set<String>>();
+    	
+    
+    	
+    	
+    	
         
-        LinkedList<String> list = urlFromFile("data/wineries.txt");
+        LinkedList<String> wineries = urlFromFile("data/wineries.txt");
         int count = 0;
         
-        while (!list.isEmpty())
+        
+        
+        while (!wineries.isEmpty())
         {
         	count++;
         	traversed = new HashSet<String>();
         	linkSet = new TreeSet<String>();
         	
         	
-        	String url = list.removeFirst();
+        	String url = wineries.removeFirst().toLowerCase();
 
         	System.out.println("working on " + url);
         	
@@ -372,23 +397,28 @@ public class Crawl {
 		        }
 		        
 		        
-		        url = new URL(url).getHost();
-		        //hosts.add(url);
+//		        //normalize url
+//		        if (url.contains("www"))
+//		        	url = "http://" + new URL(url).getHost();
+//		        else
+//		        	url = "http://www." + new URL(url).getHost();
 		        
-		        while (!linkSet.isEmpty() && traversed.size() < 100)
+		        String host = new URL(url).getHost().replace("www.", "");
+		        
+		        while (!linkSet.isEmpty() && traversed.size() < 200)
 		        {
 		        	String next = linkSet.first();
 		        	linkSet.remove(next);
 		        	
-		        	if (next != "")
+		        	if (!next.equals(""))
 		        	{
 		        		//normalize url
-		        		URL temp = new URL(next);
+		        		URL temp = new URL(next.toLowerCase());
 		        		next = temp.getProtocol() + "://" + temp.getHost() + temp.getPath();
 		        		
 		        		
 		        		
-			        	if (next.contains(url) && !traversed.contains(next))
+			        	if (next.contains(host) && !traversed.contains(next))
 			        	{
 			        		traverse(next, linkSet, traversed);
 			        	}
@@ -396,28 +426,64 @@ public class Crawl {
 			        	if (traversed.add(next))
 			        		System.out.println("Traversed " + next);
 			        	
-			        	if (!(new URL(next).getHost().equals(url)))
+			        	if (!(new URL(next).getHost().contains(host)))
 			        	{
 			        		next = new URL(next).getHost();
 			        		
-			        		if (next.contains("www."))
-				        		next = next.replace("www.", "");
-			        		hosts.add(next);
+			        		//normalize next
+			        		if (!next.contains("www"))
+				        		next = "http://www." + next;
+			        		else
+			        			next = "http://" + next;
+			        		
+			        		//add to 
+			        		//hosts.add(next);
+			        		
+			        		
+			        		if (wineries.contains(next))
+			        		{
+			        			if (!wineryMap.containsKey(url))
+			        			{
+			        				wineryMap.put(url, new HashSet<String>());
+			        			}
+			        			wineryMap.get(url).add(next);
+			        		}
+			        		
+			        		
+			        		if (!externalMap.containsKey(url))
+			        			externalMap.put(url, new HashSet<String>());
+			        		
+			        		externalMap.get(url).add(next);
 			        	}
 			        		
 		        	}
 		        }
 		        
 		        //dump current hosts to file
-		        PrintWriter writer = new PrintWriter("data/results.txt", "UTF-8");
+		        PrintWriter writer = new PrintWriter("data/edgeSet.txt", "UTF-8");
 		        
 		       
-		        for (String h : hosts)
+		        for (String h : externalMap.keySet())
 		        {
-		        	writer.println(h);
+		        	for (String link : externalMap.get(h))
+		        		writer.println(h + " " + link);
 		        }
 		        
 		        writer.close();
+		        
+		        
+		        writer = new PrintWriter("data/wineryEdgeSet.txt", "UTF-8");
+		        
+			       
+		        for (String h : wineryMap.keySet())
+		        {
+		        	for (String link : wineryMap.get(h))
+		        		writer.println(h + " " + link);
+		        }
+		        
+		        writer.close();
+		        
+		        
 		        
 	        }
 	        catch (Exception e)
@@ -430,9 +496,6 @@ public class Crawl {
 
     }
 
-    private static void print(String msg, Object... args) {
-        System.out.println(String.format(msg, args));
-    }
     
     private static void traverse(String url, TreeSet<String> linkSet, HashSet<String> traversed) throws IOException
     {
@@ -447,12 +510,12 @@ public class Crawl {
 	        	 String next = link.attr("abs:href");
 
 	        	 //normalize url
-	        	 URL temp = new URL(next);
+	        	 URL temp = new URL(next.toLowerCase());
 	        	 next = temp.getProtocol() + "://" + temp.getHost() + temp.getPath();
 	        	 
-	        	 if (!traversed.contains(next) && (next.startsWith("http://") || next.startsWith("https://")))
+	        	 if (!traversed.contains(next) && next!= "http://www.")
 	        	 {
-	        		 linkSet.add(link.attr("abs:href"));
+	        		 linkSet.add(next);
 	        	 }
 	         }
     	}
