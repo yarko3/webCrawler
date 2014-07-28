@@ -1,0 +1,1760 @@
+http://www.marionateovernight.ca
+http://www.vancouverislandtravel.blogspot.ca
+http://www.amantebistro.com
+http://www.g-beizakaya.ca
+http://www.tribunebay.com	Tribune Bay Campsite	5200 Shields Rd, Hornby Island, BC, Canada	campground, park, lodging, establishment	49.524453	-124.642718	49.524453	-124.642718
+http://www.metropolitan.com	Metropolitan	85, Colombo, Sri Lanka	establishment	6.918114	79.859362	6.918114	79.859362
+http://www.golfbc.com	GolfBC Group	1030 W Georgia St, Vancouver, BC, Canada	establishment	49.284658	-123.121376	49.284658	-123.121376
+http://www.spiritmerchants.ca	Spinnakers Spirit Merchants	Suite 130-176 Wilson St, Victoria, BC, Canada	liquor_store, store, establishment	48.432653	-123.381057	48.432653	-123.381057
+http://www.strathconahotel.ivictoria.com
+http://www.kiosk.eztix.co
+http://www.kelownaoutdoorweddings.ca	Belgo Wedding Chapel	2547 Belgo Rd, Kelowna, BC, Canada	establishment	49.85553	-119.380386	49.85553	-119.380386
+http://www.regionaldistrict.com	Ellison Fire Department	4411 Old Vernon Rd, Kelowna, BC, Canada	fire_station, establishment	49.94747	-119.368064	49.94747	-119.368064
+http://www.drceaser.com	Dr. Sean Ceaser - Naturopathic Physician	1555 McKenzie Ave, Victoria, BC, Canada	hospital, doctor, health, establishment	48.468449	-123.334203	48.468449	-123.334203
+http://www.obeikaneducation.com
+http://www.thecravecompany.com
+http://www.cowichancommonsliquorstore.com
+http://www.thirtybench.com	Thirty Bench Wine Makers	4281 Mountainview Rd, Beamsville, ON, Canada	food, establishment	43.165487	-79.49706	43.165487	-79.49706
+http://www.l.facebook.com	shreyasphotography	shreyasphotography, 2nd Cross Rd, Vyalikaval, Kodandarampura, Malleshwaram, Bangalore, Karnataka 560003, India	point_of_interest, establishment	13.0020698	77.5734758	13.0020698	77.5734758
+http://www.sunsetgrill.ca	Sunset Grill	2200 Bloor St W, Toronto, Canada	restaurant, food, establishment	43.651432	-79.475562	43.651432	-79.475562
+http://www.freedigitalphotos.net	Martlesham Playschool	Deben Ave, Ipswich, United Kingdom	establishment	52.065942	1.262931	52.065942	1.262931
+http://www.jimmystaphouse.com	Jimmys Taphouse	783 Homer St, Vancouver, BC, Canada	bar, restaurant, food, establishment	49.279692	-123.116874	49.279692	-123.116874
+http://www.westernlivingmagazine.com	Western Living Magazine	Suite 235A-560 Johnson St, Victoria, BC, Canada	establishment	48.427734	-123.369465	48.427734	-123.369465
+http://www.galaviewbnb.com	Gala View Bed and Breakfast	Gala View Dr, West Kelowna, BC, Canada	lodging, establishment	49.835994	-119.585286	49.835994	-119.585286
+http://www.wildbc.com	Wild BC Tours and Guiding	Maple Ridge, BC, Canada	travel_agency, establishment	54.87914	-121.652576	54.87914	-121.652576
+http://www.theedgeongranville.com	Edge Social Grille & Lounge	1100 Granville St, Vancouver, BC, Canada	night_club, bar, restaurant, food, establishment	49.277866	-123.124695	49.277866	-123.124695
+http://www.distinctlykelownatours.ca	Distinctly Kelowna Tours	1310 Water St, Kelowna, BC, Canada	food, travel_agency, establishment	49.892033	-119.496842	49.892033	-119.496842
+http://www.hiredbelly.com
+http://www.cobble-house.com	Cobble House Bed & Breakfast	3105 Cameron Taggart Rd, Cobble Hill, BC, Canada	lodging, establishment	48.669113	-123.59588	48.669113	-123.59588
+http://www.cellarhand.ca
+http://www.kelowna-okanagan-bc-tours.com	Heart & Sol Tours	962 Ryder Dr, Kelowna, BC, Canada	travel_agency, establishment	49.898344	-119.444394	49.898344	-119.444394
+http://www.glovictoria.com	Glo Restaurant & Lounge	2940 Jutland Rd, Victoria, BC, Canada	night_club, bar, restaurant, food, establishment	48.439123	-123.378932	48.439123	-123.378932
+http://www.leap-ads.com
+http://www.registration.acebakery.com
+http://www.sperlingvineyards.com	Sperling Vineyards	1405 Pioneer Rd, Kelowna, BC, Canada	food, establishment	49.85263	-119.466002	49.85263	-119.466002
+http://www.trevor-murray.com
+http://www.modelmilk.ca	Model Milk	308 17 Ave SW, Calgary, AB, Canada	restaurant, food, establishment	51.038033	-114.069039	51.038033	-114.069039
+http://www.theglobeandmail.com	The Globe and Mail	444 Front St W, Toronto, ON, Canada	establishment	43.642588	-79.395395	43.642588	-79.395395
+http://www.labocca.moonfruit.com	La Bocca Restaurant	4232 Village Stroll, Whistler, BC, Canada	restaurant, food, establishment	50.114583	-122.9558	50.114583	-122.9558
+http://www.kettlevalleyrail.org	The Kettle Valley Steam Railway	18404 Bathville Road, Summerland, BC, Canada	establishment	49.58701	-119.732997	49.58701	-119.732997
+http://www.winepressnw.com	Chateau Champoux-Ringe	524 Alderdale Rd, Prosser, WA, United States	establishment	45.903139	-119.909233	45.903139	-119.909233
+http://www.exilebistro.com
+http://www.andreadezso.com
+http://www.us4.campaign-archive2.com
+http://www.customwinnipeg.com	Lasting Exchange Manitoba Marriage Commissioner Custom Wedding and Vow Renewals	Lasting Exchange Manitoba Marriage Commissioner Custom Wedding and Vow Renewals, 43 Manring Cove, Winnipeg, MB R2J 3X1, Canada	point_of_interest, establishment	49.8428013	-97.05976869999999	49.8428013	-97.05976869999999
+http://www.nancyangermeyer.com
+http://www.tastingroomconfidential.com	Tasting Room Confidential.com	2625 Alberta St, Vancouver, BC, Canada	establishment	49.261949	-123.111183	49.261949	-123.111183
+http://www.vimeo.com	Hungry Man	1-2 Herbal Hill, London, United Kingdom	establishment	51.522262	-0.108348	51.522262	-0.108348
+http://www.winescores.ca	Midfield Wine Bar	1434 Dundas St W, Toronto, ON, Canada	food, bar, establishment	43.649658	-79.430044	43.649658	-79.430044
+http://www.super8castlegar.com
+http://www.vancouverfoodster.com
+http://www.thegreedypig.ca	The Greedy Pig	307 W Cordova St, Vancouver, BC, Canada	restaurant, food, establishment	49.283822	-123.10941	49.283822	-123.10941
+http://www.duncanbylodgemarina.com
+http://www.vista-doro-farms-winery.myshopify.com
+http://www.aocfinewines.com	Nancy's Wines	313 Columbus Ave, New York, NY, United States	liquor_store, food, store, establishment	40.779096	-73.977217	40.779096	-73.977217
+http://www.vernonsquareliquorstore.ca
+http://www.squamishliquorstore.com	Squamish Liquor Store	Squamish Liquor Store, 38241 Cleveland Ave, Squamish, BC V8B 0B4, Canada	liquor_store, store, point_of_interest, establishment	49.7023702	-123.1504339	49.7023702	-123.1504339
+http://www.ithemes.com
+http://www.rieslingrendezvous.com
+http://www.uvawinebar.ca
+http://www.crestaurant.com	C Restaurant	1600 Howe St #2, Vancouver, BC, Canada	restaurant, food, establishment	49.27394	-123.132789	49.27394	-123.132789
+http://www.winebc.com	British Columbia Wine Institute	1726 Dolphin Ave #1, Kelowna, BC, Canada	food, establishment	49.879316	-119.458343	49.879316	-119.458343
+http://www.blastedchurch.com	Blasted Church Vineyards	378 Parsons Rd, Okanagan-Similkameen D, BC, Canada	food, establishment	49.388976	-119.556558	49.388976	-119.556558
+http://www.doverarmspub.com	Dover Arms Pub	961 Denman St, Vancouver, BC, Canada	bar, establishment	49.289936	-123.137969	49.289936	-123.137969
+http://www.deerheartsanctuary.com	Deerheart Sanctuary	7720 Central Rd, Hornby Island, BC, Canada	health, establishment	49.50685	-124.648509	49.50685	-124.648509
+http://www.multimap.com	GSC Gesellschaft für Organisations- und Wirtschaftsberatung GmbH	Beutenlaystraße 14, Münsingen, Deutschland	establishment	48.406747	9.500118	48.406747	9.500118
+http://www.vijsrestaurant.ca	Vij's	1480 W 11th Ave, Vancouver, BC, Canada	restaurant, food, establishment	49.26156	-123.13807	49.26156	-123.13807
+http://www.coasthotels.com	Coast Edmonton Plaza Hotel	10155 105 St, Edmonton, AB, Canada	lodging, establishment	53.54232	-113.500962	53.54232	-113.500962
+http://www.hellobc.com	Tourism British Columbia	PO Box 2682, Vancouver, BC, Canada	establishment	49.280448	-123.114558	49.280448	-123.114558
+http://www.hornbyeagles.com
+http://www.okanaganwineawards.com
+http://www.joiefarm.com
+http://www.wedgewoodhotel.com	Wedgewood Hotel and Spa	845 Hornby St, Vancouver, BC, Canada	lodging, establishment	49.282214	-123.122951	49.282214	-123.122951
+http://www.roguewetbar.com	Rogue Kitchen & Wetbar	601 W Cordova St, Vancouver, BC, Canada	bar, restaurant, food, establishment	49.285645	-123.112027	49.285645	-123.112027
+http://www.anenglishrosegarden.com	An English Rose Garden B&B	305 Stellar Dr, Kelowna, BC, Canada	lodging, establishment	49.791756	-119.525923	49.791756	-119.525923
+http://www.liquorconnect.com	Liquor Connection	13248 137 Ave NW, Edmonton, AB, Canada	liquor_store, store, establishment	53.600262	-113.550131	53.600262	-113.550131
+http://www.okwinetours.com
+http://www.garryoakswinery.com
+http://www.applesnwine.com	A Apples ~N~ Wine B&B	5680 Hespeler Rd, Summerland, BC, Canada	lodging, establishment	49.594634	-119.654407	49.594634	-119.654407
+http://www.bluewatercafe.net	Blue Water Cafe + Raw Bar	1095 Hamilton St, Vancouver, BC, Canada	restaurant, food, establishment	49.276162	-123.121091	49.276162	-123.121091
+http://www.b-zign.ca
+http://www.validator.w3.org
+http://www.imdb.com	Grand Teatret	Mikkel Bryggers Gade 8, Copenhagen, Denmark	movie_theater, establishment	55.676505	12.571023	55.676505	12.571023
+http://www.brewerycreekliquorstore.com	Brewery Creek Cold Beer & Wine Store	3045 Main St, Vancouver, BC, Canada	liquor_store, store, establishment	49.25788	-123.101466	49.25788	-123.101466
+http://www.webmastercms.com
+http://www.rollingdale.ca	Rollingdale Winery Inc	2306 Hayman Rd, West Kelowna, BC, Canada	food, establishment	49.869546	-119.544435	49.869546	-119.544435
+http://www.harbour-air.com	Harbour Air	Nanaimo, BC, Canada	airport, transit_station, establishment	49.169085	-123.935952	49.169085	-123.935952
+http://www.vinoetic.wordpress.com
+http://www.calgaryherald.com	Calgary Herald	215 16 St SE, Calgary, AB, Canada	establishment	51.050621	-114.015038	51.050621	-114.015038
+http://www.boucherville.ch	Boucherville AG	Kinkelstrasse 40, Zurich, Switzerland	liquor_store, food, store, establishment	47.38756	8.543802	47.38756	8.543802
+http://www.magellansbc.ca
+http://www.nsnews.com	Maximum Music Group	345 13th St E, North Vancouver, BC, Canada	store, establishment	49.319883	-123.064142	49.319883	-123.064142
+http://www.thebeachhouserestaurant.ca	The Beach House	150 25th St, West Vancouver, BC, Canada	restaurant, food, establishment	49.333269	-123.182198	49.333269	-123.182198
+http://www.huffingtonpost.com	Huff & Associates	1717 K St NW, Washington, DC, United States	establishment	38.902854	-77.040218	38.902854	-77.040218
+http://www.us5.campaign-archive2.com
+http://www.conquercancer.ca	Black Oak Brewing Co. Ltd	75 Horner Ave #1, Etobicoke, ON, Canada	liquor_store, food, store, establishment	43.614305	-79.51721	43.614305	-79.51721
+http://www.carlton.ch	Carlton	Bahnhofstrasse 41, Zurich, Switzerland	bar, restaurant, food, establishment	47.371409	8.537774	47.371409	8.537774
+http://www.clouds.ch	CLOUDS	Maagplatz 5, Zurich, Switzerland	bar, restaurant, food, establishment	47.385994	8.517054	47.385994	8.517054
+http://www.player.vimeo.com
+http://www.chbcnews.ca	Raven Aviation Ltd.	249 Mabel Lake Rd, Lumby, BC, Canada	establishment	50.267112	-118.967293	50.267112	-118.967293
+http://www.okchildrensfest.com	Okanagan International Children's Festival	205-212 Main St, Penticton, BC, Canada	establishment	49.500125	-119.593179	49.500125	-119.593179
+http://www.libertyliquor.com
+http://www.info2grow.com
+http://www.lifestylemagazine.ca
+http://www.followmefoodie.com
+http://www.foodandwinepairing.org
+http://www.flickr.com	Märchenhafte Keramik	Unterneuses 22, Burgebrach, Deutschland	establishment	49.824919	10.780355	49.824919	10.780355
+http://www.mywinepal.blogspot.ca
+http://www.real-cider.co.uk
+http://www.valleyfirst.com	Valley First	507 Bernard Ave, Kelowna, BC, Canada	bank, finance, establishment	49.886195	-119.493343	49.886195	-119.493343
+http://www.mizuna.ca
+http://www.synchromeshwines.ca
+http://www.contest.eatdrinkbelocal.com
+http://www.vin65.com
+http://www.threepoundcloud.com
+http://www.norwoods.ca	Norwoods Restaurant	1714 Peninsula Rd, Ucluelet, BC, Canada	restaurant, food, establishment	48.94273	-125.549066	48.94273	-125.549066
+http://www.legendspub.com
+http://www.buycheese.com	les amis du FROMAGE	1752 W 2nd Ave, Vancouver, BC, Canada	home_goods_store, grocery_or_supermarket, food, store, establishment	49.269624	-123.144735	49.269624	-123.144735
+http://www.okestatewineshop.com
+http://www.clayrooftiles.org	Team Fritz Clay Roof Tiles Inc	1595 Golden View Dr, Westbank, BC, Canada	store, establishment	49.835874	-119.582145	49.835874	-119.582145
+http://www.erpsrilanka.com
+http://www.50thparallel.com	50th Parallel Estate	17101 Terrace View Rd, BC, Canada	food, establishment	50.130937	-119.449812	50.130937	-119.449812
+http://www.whiterockchocolatecompany.com
+http://www.coalharbourliquorstore.com	Coal Harbour Liqour Store	1218 W Pender St, Vancouver, BC, Canada	liquor_store, store, establishment	49.288485	-123.124109	49.288485	-123.124109
+http://www.phillewisart.com
+http://www.islandlakecatskiing.com	Island Lake Lodge	602 2 Ave, Fernie, BC, Canada	lodging, establishment	49.503863	-115.060675	49.503863	-115.060675
+http://www.blueskydesign.ca	Blue Sky Design	S230-4936 Yonge St, North York, ON, Canada	museum, establishment	43.764489	-79.41217	43.764489	-79.41217
+http://www.linkedin.com	http://www.linkedin.com/in/zztwp	703 S Throckmorton St, Sherman, TX, United States	school, establishment	33.632211	-96.599269	33.632211	-96.599269
+http://www.wellnanaimo.com
+http://www.ambrosiatours.ca	Ambrosia Tours Ltd	119-88 Duncan Ave W, Penticton, BC, Canada	travel_agency, establishment	49.483524	-119.587945	49.483524	-119.587945
+http://www.basiloliveoil.com	Basil Olive Oil Products Ltd	18939 120B Ave, Pitt Meadows, BC, Canada	food, establishment	49.221699	-122.697159	49.221699	-122.697159
+http://www.saq.com.	SAQ	705 Boulevard de la Carrière, Hull, QC, Canada	liquor_store, store, casino, establishment	45.450376	-75.728951	45.450376	-75.728951
+http://www.sockeyecity.com	Sockeye City Grill * Steveston Waterfront Seafood Restaurant	108, 3800 Bayview St, Steveston, BC, Canada	bar, restaurant, food, establishment	49.12411	-123.184192	49.12411	-123.184192
+http://www.eauvivrewinery.ca	Eauvivre Winery & Vinyards Ltd	716 Lowe Dr, Cawston, BC, Canada	food, establishment	49.17428	-119.744491	49.17428	-119.744491
+http://www.wildebeest.ca	Wildebeest	120 W Hastings St, Vancouver, BC, Canada	restaurant, food, establishment	49.281977	-123.107703	49.281977	-123.107703
+http://www.ticketweb.ca	TicketWeb Canada	1 Blue Jays Way, Toronto, ON, Canada	establishment	43.641571	-79.390293	43.641571	-79.390293
+http://www.bacchussommelier.com
+http://www.blackhillswinery.com	Black Hills Estate Winery	30880 71 St, Oliver, BC, Canada	food, establishment	49.116628	-119.556893	49.116628	-119.556893
+http://www.figsandwalnutwine.blogspot.com
+http://www.vintageflames.com
+http://www.weebly.com	Weebly, Inc	564 Pacific Ave, San Francisco, CA, United States	establishment	37.797365	-122.404641	37.797365	-122.404641
+http://www.abcnews.go.com	ABC National Television Sales	3000 Town Center, Southfield, MI, United States	establishment	42.477999	-83.246315	42.477999	-83.246315
+http://www.kelowna.com	April Dunn - Kelowna Mortgage Broker	1631 Dickson Ave #1100, Kelowna, BC, Canada	finance, establishment	49.882056	-119.466902	49.882056	-119.466902
+http://www.shanatinglipton.com
+http://www.flavoursworld.ca	Flavours Magazine	Suite A-2151 Portage Ave, St James, MB, Canada	establishment	49.877116	-97.237839	49.877116	-97.237839
+http://www.courtenayvqawines.com
+http://www.greatbearpub.com	The Great Bear Pub and Liquor Store	5665 Kingsway, Burnaby, BC, Canada	liquor_store, store, bar, restaurant, food, establishment	49.22302	-122.981665	49.22302	-122.981665
+http://www.deepsouth.ca	Deep South Technologies	RM 70 sw27-07-22 w2nd, 700 Main Street North, Ogema, SK, Canada	establishment	49.581124	-104.918307	49.581124	-104.918307
+http://www.kateonairblog.blogspot.ca
+http://www.coursenligne.net
+http://www.bootsonsalecheapu.com
+http://www.kelownafabfive.com
+http://www.scenicsip.ca
+http://www.fin.gov.nt.ca
+http://www.a-s-lakeviewbedbreakfast.ca
+http://www.sssicamous.com	SS Sicamous Heritage Park	1099 Lakeshore Dr W, Penticton, BC, Canada	establishment	49.501506	-119.610387	49.501506	-119.610387
+http://www.myratrestles.com	Myra Canyon Trestles - Myra Station	Kettle Valley Rail Trail, Kelowna, BC, Canada	establishment	49.803655	-119.311815	49.803655	-119.311815
+http://www.mnp.ca	MNP LLP	201 Portage Ave, Winnipeg, MB, Canada	accounting, finance, establishment	49.895522	-97.139199	49.895522	-97.139199
+http://www.wineenthusiast.com	Wine Enthusiast	333 N Bedford Rd, Mt Kisco, NY, United States	liquor_store, food, home_goods_store, store, establishment	41.221567	-73.718829	41.221567	-73.718829
+http://www.organicauthority.com	Buffalo Trail Orchard	1890 Dodd Branch Rd, Greeneville, TN, United States	food, establishment	36.026571	-82.886732	36.026571	-82.886732
+http://www.amazon.com	Amazon	410 Terry Ave N, Seattle, WA, United States	establishment	47.622451	-122.336583	47.622451	-122.336583
+http://www.riverbedbistro.com
+http://www.thaivillagerestaurant.com	Thai Village Restaurant	Thai Village Restaurant, 2512 Times Blvd, Houston, TX 77005, USA	restaurant, food, point_of_interest, establishment	29.7167219	-95.4171361	29.7167219	-95.4171361
+http://www.danielleolliges.com
+http://www.ylc.yk.ca	Yukon Liquor Corporation	2190 2nd Ave, Whitehorse, YT, Canada	liquor_store, store, establishment	60.725768	-135.058322	60.725768	-135.058322
+http://www.mcssl.com	supplementwarehouseatlanta.com	560 Amsterdam Ave NE, Atlanta, GA, United States	establishment	33.788604	-84.368958	33.788604	-84.368958
+http://www.bcvqa.ca	British Columbia Wine Authority	888 Westminster Ave W, Penticton, BC, Canada	food, establishment	49.497266	-119.607262	49.497266	-119.607262
+http://www.borgatalodge.net	Borgata Lodge	3185 Via Centrale, Kelowna, BC, Canada	real_estate_agency, travel_agency, lodging, establishment	49.954279	-119.397453	49.954279	-119.397453
+http://www.trafalgars.com	Trafalgars Bistro	2603 W 16th Ave, Vancouver, BC, Canada	restaurant, food, establishment	49.257828	-123.165059	49.257828	-123.165059
+http://www.wineaccess.ca
+http://www.visavisoakbay.com	Vis-a-Vis	2232 Oak Bay Ave, Oak Bay, BC, Canada	restaurant, food, establishment	48.426599	-123.314975	48.426599	-123.314975
+http://www.tagpubs.com	QB Liquor Store New Westminster	805 Boyd St, New Westminster, BC, Canada	liquor_store, store, establishment	49.190866	-122.946674	49.190866	-122.946674
+http://www.fourmilehouse.com	Four Mile Bar & Grill	199 Island Hwy, View Royal, BC, Canada	bar, restaurant, food, establishment	48.452548	-123.43461	48.452548	-123.43461
+http://www.deerwoodgardens.com
+http://www.strathconahotel.com	Strathcona Hotel	919 Douglas St, Victoria, BC, Canada	liquor_store, store, night_club, bar, lodging, establishment	48.42349	-123.365486	48.42349	-123.365486
+http://www.bcwineclub.ca	BC Wine Club	2585 Stoney Creek Pl, Burnaby, BC, Canada	food, establishment	49.261902	-122.899011	49.261902	-122.899011
+http://www.greenway.kelowna.bc.ca
+http://www.mudbaypainters.com
+http://www.thestuffedpepper.ca
+http://www.oooysterfestival.com
+http://www.langleychristmasbureau.com
+http://www.fourseasons.com	Four Seasons	Alexandria, Egypt	establishment	31.245573	29.999309	31.245573	29.999309
+http://www.mywinepal.com	MyWinePal	4703 Driftwood Pl, Burnaby, BC, Canada	food, store, establishment	49.24748	-122.997174	49.24748	-122.997174
+http://www.stylemepretty.com	Table 6 Productions	5825 Glenridge Dr NE, Atlanta, GA, United States	establishment	33.914865	-84.361625	33.914865	-84.361625
+http://www.artseenokanagan.wordpress.com
+http://www.okanaganpride.com	Okanagan Rainbow Coalition	1476 Water St, Kelowna, BC, Canada	establishment	49.886937	-119.496744	49.886937	-119.496744
+http://www.minamirestaurant.com	Minami Restaurant	1118 Mainland St, Vancouver, BC, Canada	restaurant, food, establishment	49.275388	-123.120669	49.275388	-123.120669
+http://www.spintheblackdisc.com
+http://www.robynandryleigh.com
+http://www.niagaragrocery.com	Niagara Grocery	579 Niagara St, Victoria, BC, Canada	cafe, restaurant, grocery_or_supermarket, food, store, establishment	48.412211	-123.372446	48.412211	-123.372446
+http://www.3dcart.com	3dCart Shopping Cart Software	7515 W Oakland Park Blvd, Lauderhill, FL, United States	store, establishment	26.16691	-80.248372	26.16691	-80.248372
+http://www.pressingmatter.ca
+http://www.investkootenay.com	Funktion Design & Media	273 Baker St, Nelson, BC, Canada	establishment	49.490885	-117.297165	49.490885	-117.297165
+http://www.instagram.com	Lensa Lebar	53 Jalan 5/76b, Desa Pandan, Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia	establishment	3.146275	101.738142	3.146275	101.738142
+http://www.oooysterfestival.ambergoodwin.com
+http://www.oldrosenursery.com	Rose Ct	Rose Ct, Panama City, FL 32401, USA	route	30.1386958	-85.6396427	30.1386958	-85.6396427
+http://www.jdfarms.ca	JD Farms Specialty Turkey	24726 52 Ave, Langley, BC, Canada	restaurant, food, establishment	49.096573	-122.537308	49.096573	-122.537308
+http://www.lakeside.bc.ca	The Lakeside Resort	81st St, Oliver, BC, Canada	lodging, establishment	49.192422	-119.541894	49.192422	-119.541894
+http://www.winebc.org	Westwood Wines	1410 Parkway Blvd, Coquitlam, BC, Canada	food, establishment	49.296261	-122.80365	49.296261	-122.80365
+http://www.winecountrybc.wordpress.com
+http://www.homesandland.com	Homes And Land | HomesAndLand.com	12805 Kingston Pike, Knoxville, TN, United States	establishment	35.867419	-84.212085	35.867419	-84.212085
+http://www.digitalmediaassociates.com
+http://www.canpages.ca	Canpages Inc	212 Meridian Rd NE, Calgary, AB, Canada	establishment	51.053597	-114.000707	51.053597	-114.000707
+http://www.dinehere.ca	Portobello Restaurant	1429 W Broadway, Vancouver, BC, Canada	restaurant, food, establishment	49.263685	-123.136809	49.263685	-123.136809
+http://www.quenchbytidings.com
+http://www.stlukescollege.edu	St. Luke's College	2800 Pierce St #410, Sioux City, IA, United States	university, health, school, establishment	42.519447	-96.405368	42.519447	-96.405368
+http://www.blueskiesthetrio.com
+http://www.vanlawn.com	Vancouver Lawn Tennis and Badminton Club	1630 W 15th Ave, Vancouver, BC, Canada	establishment	49.257918	-123.14141	49.257918	-123.14141
+http://www.tokyo.grand.hyatt.com	SHUNBOU	グランド ハイアット 東京6F, ６丁目10−3 Roppongi, Minato, Tokyo, Japan	restaurant, food, establishment	35.659783	139.728913	35.659783	139.728913
+http://www.61.147.75.45	Prawo jazdy Poznań - www.Automaniak.net.pl	Prawo jazdy Poznań - www.Automaniak.net.pl, Święty Marcin 45, 61-001 Poznan, Poland	point_of_interest, establishment	52.4065001	16.9234268	52.4065001	16.9234268
+http://www.shopinkelowna.com	Olympia Greek Taverna Pizza Delivery	145 British Columbia 33, Kelowna, BC, Canada	restaurant, food, establishment	49.889016	-119.38613	49.889016	-119.38613
+http://www.foodserviceworld.com	Foodservice and Hospitality Magazine	Suite 101, 23 Lesmill Rd, Toronto, ON, Canada	establishment	43.756655	-79.352614	43.756655	-79.352614
+http://www.sookeharbourhouse.com	Sooke Harbour House	1528 Whiffin Spit Rd, Sooke, BC, Canada	restaurant, lodging, food, establishment	48.356762	-123.727855	48.356762	-123.727855
+http://www.tonyaspler.com	Tony Aspler Enterprises Ltd	53 Craighurst, Toronto, ON, Canada	liquor_store, store, establishment	43.714961	-79.401748	43.714961	-79.401748
+http://www.gallaghersgolf.com
+http://www.bell2lodge.com	Bell 2 Lodge	249 Hwy 37, Bell 2 Crossing, BC, Canada	lodging, establishment	56.743733	-129.794197	56.743733	-129.794197
+http://www.legacyliquorstore.com	Legacy Liquor Store	1633 Manitoba St, Vancouver, BC, Canada	liquor_store, food, store, establishment	49.271263	-123.106827	49.271263	-123.106827
+http://www.thefortwinecoblog.com
+http://www.artisansakemaker.com
+http://www.luckysliquor.ca
+http://www.caponescellar.ca
+http://www.bouchonsbistro.com	Bouchons Bistro	1180 Sunset Dr #105, Kelowna, BC, Canada	bar, restaurant, food, establishment	49.894414	-119.495723	49.894414	-119.495723
+http://www.summerlandsweets.com	Summerland Sweets	6206 Canyon View Dr, Summerland, BC, Canada	store, establishment	49.568444	-119.657823	49.568444	-119.657823
+http://www.canadianpacificballet.org	Canadian Pacific Ballet	Suite 9-560 Johnson St, Victoria, BC, Canada	establishment	48.427734	-123.369465	48.427734	-123.369465
+http://www.buetique.com
+http://www.search.twitter.com
+http://www.baldface.net	Baldface Lodge	309 Jam Factory Ln, Nelson, BC, Canada	establishment	49.492538	-117.297225	49.492538	-117.297225
+http://www.visa.ca	VISA Canada Association	40 King St W, Toronto, ON, Canada	establishment	43.648747	-79.380259	43.648747	-79.380259
+http://www.fablekitchen.ca	Fable Kitchen	1944 W 4th Ave, Vancouver, BC, Canada	restaurant, food, establishment	49.267977	-123.149041	49.267977	-123.149041
+http://www.mygazines.com	Uberflip	1183 King St W, Toronto, ON, Canada	establishment	43.639218	-79.425427	43.639218	-79.425427
+http://www.straight.com	The Georgia Straight	1701 W Broadway, Vancouver, BC, Canada	establishment	49.263823	-123.143541	49.263823	-123.143541
+http://www.bellevuewine.com	Bellevue Wine Co LTD	1471 Bellevue Ave, West Vancouver, BC, Canada	food, establishment	49.327517	-123.15641	49.327517	-123.15641
+http://www.ams.usda.gov	US Agricultural Marketing Services	1445 Federal Dr, Montgomery, AL, United States	veterinary_care, establishment	32.399716	-86.272338	32.399716	-86.272338
+http://www.g.co	Safe N Sound	Safe N Sound, Unit 25, Croydon House, 1 Peall Rd, Croydon, Greater London CR0 3EX, UK	point_of_interest, establishment	51.3885527	-0.1221308	51.3885527	-0.1221308
+http://www.blogs.theprovince.com
+http://www.fightspam.gc.ca
+http://www.sowins.com	South Okanagan Women in Need Society	218-246 Martin St, Penticton, BC, Canada	health, establishment	49.499425	-119.593918	49.499425	-119.593918
+http://www.krazelegs.com
+http://www.abigailsparty.ca	Abigail's Party	1651-1699 Yew St, Vancouver, BC, Canada	restaurant, food, establishment	49.27107	-123.155216	49.27107	-123.155216
+http://www.bluecrab.ca	Blue Crab Seafood House	146 Kingston St, Victoria, BC, BC, Canada	night_club, bar, restaurant, food, establishment	48.422202	-123.379626	48.422202	-123.379626
+http://www.pyramidwineexportsltd.com
+http://www.okanaganlavender.com	Okanagan Lavender Herb Farm	4380 Takla Rd, Kelowna, BC, Canada	florist, store, establishment	49.823498	-119.447993	49.823498	-119.447993
+http://www.savourychef.com	Savoury Chef Foods Catering Company	1175 Union St, Vancouver, BC, Canada	store, food, establishment	49.277444	-123.0795	49.277444	-123.0795
+http://www.abbaes.com	Abbaes B and B	907 Sutherland Ave, Kelowna, BC, Canada	lodging, establishment	49.879754	-119.482523	49.879754	-119.482523
+http://www.trentonlofts.com
+http://www.joyroadcatering.com
+http://www.witter.com	Cook-Witter Inc	225 E Cook St, Springfield, IL, United States	establishment	39.794849	-89.653247	39.794849	-89.653247
+http://www.reservations.andrewpeller.com
+http://www.bing.com	www.bing.com	N55 st313 sk_bungkok2 K_tuol Kok Phnom Pehn, Cambodia	establishment	12.565679	104.990963	12.565679	104.990963
+http://www.cdn.shopify.com
+http://www.best4grilling.blogspot.ca
+http://www.tours59.com
+http://www.closetcanuck.com
+http://www.thewanderfulltraveler.com
+http://www.sunvalleylimousine.com
+http://www.lopezdeheredia.com	R. López de Heredia Viña Tondonia, S.A.	Avda. de Vizcaya, 3, Haro, La Rioja, Spain	food, establishment	42.584505	-2.847966	42.584505	-2.847966
+http://www.eatsquid.com	Theo's Restaurant	687 Main St, Penticton, BC, Canada	restaurant, food, establishment	49.493218	-119.589729	49.493218	-119.589729
+http://www.jetblackmusic.ca
+http://www.saq.com	SAQ	705 Boulevard de la Carrière, Hull, QC, Canada	liquor_store, store, casino, establishment	45.450376	-75.728951	45.450376	-75.728951
+http://www.laughingstock.ca	Laughing Stock Vineyards	1548 Naramata Rd, Penticton, BC, Canada	food, establishment	49.541382	-119.565493	49.541382	-119.565493
+http://www.steamworks.com	Steamworks Brewing Co	601 W Cordova St, Vancouver, BC, Canada	bar, establishment	49.285661	-123.112051	49.285661	-123.112051
+http://www.cycletherapy.ca	Cycle Therapy	360 Duncan St, Duncan, BC, Canada	bicycle_store, store, establishment	48.778544	-123.706238	48.778544	-123.706238
+http://www.thefortwineco.wordpress.com
+http://www.tourismmall.victoria.bc.ca	Vanisle Tourism	625 Windman Ct, Victoria, BC, Canada	establishment	48.450787	-123.492378	48.450787	-123.492378
+http://www.mcole89.wix.com
+http://www.loghousepub.ca	Loghouse Pub	2323 Millstream Rd, Langford, BC, Canada	bar, establishment	48.46476	-123.500496	48.46476	-123.500496
+http://www.feastvancouver.com
+http://www.winecountrystudios.ca	Bristish Columbia Wine Trails	2250 Camrose St, Penticton, BC, Canada	food, establishment	49.474935	-119.576853	49.474935	-119.576853
+http://www.myshanti.com
+http://www.thewineclub.in
+http://www.moneris.com	Moneris Solutions	3300 Bloor St W, Toronto, ON, Canada	bank, finance, establishment	43.6452	-79.522319	43.6452	-79.522319
+http://www.ruthiefoster.com	Old Quarter	413 20th St, Galveston, TX, United States	night_club, establishment	29.306157	-94.79042	29.306157	-94.79042
+http://www.winecountrytourshuttle.com
+http://www.johnschreiner.blogspot.com
+http://www.flowerpowerylw.ca
+http://www.3sistersmarket.com	The Market at Three Sisters	Suite 102-75 Dyrgas Gate, Canmore, AB, Canada	restaurant, food, establishment	51.055296	-115.321873	51.055296	-115.321873
+http://www.keyworddissection.com
+http://www.buddypress.org
+http://www.newportliquor.com	Creative Answers Corporation	4853 Aho Rd, Ladysmith, BC, Canada	establishment	49.041394	-123.826887	49.041394	-123.826887
+http://www.ikmkravmaga.us	IKM Krav Maga NY	250 W 100 St, New York, NY, United States	school, establishment	40.797406	-73.970761	40.797406	-73.970761
+http://www.hells-kitchen.ca
+http://www.kensingtonwinemarket.com	Kensington Wine Market	1257 Kensington Rd NW, Calgary, AB, Canada	liquor_store, food, store, establishment	51.052407	-114.091546	51.052407	-114.091546
+http://www.cavavictoria.com
+http://www.islandrestaurant.ca	The Island Restaurant	101 10th Avenue, Golden, BC, Canada	restaurant, food, establishment	51.298603	-116.964215	51.298603	-116.964215
+http://www.glowbalgroup.com	Afterglow	1082 Hamilton St, Vancouver, BC, Canada	night_club, bar, establishment	49.276148	-123.120668	49.276148	-123.120668
+http://www.paintedrock.ca
+http://www.bcwineguysnelson.ca
+http://www.thelocalgroup.ca	Local Lounge • Grille	12817 Lakeshore Dr S, Summerland, BC, Canada	bar, restaurant, food, establishment	49.600934	-119.652464	49.600934	-119.652464
+http://www.infocusmagazine.ca
+http://www.stregisfinewines.com	St Regis Fine Wines & Spirits	678 Dunsmuir St #30, Vancouver, BC, Canada	liquor_store, food, store, establishment	49.283372	-123.116186	49.283372	-123.116186
+http://www.scottiesliquor.com	Scotties Liquor Store	37991 Second Ave, POB 1158, Squamish, BC, Canada	liquor_store, food, store, establishment	49.698712	-123.155118	49.698712	-123.155118
+http://www.zanzibarcafe.ca	Cafe Zanzibar	1164 Stelly's Cross Road, Brentwood Bay, BC, Canada	restaurant, food, establishment	48.579998	-123.451066	48.579998	-123.451066
+http://www.eventbee.com
+http://www.planitbc.com	Planit Inc	54A-701 Georgia St W, Vancouver, BC, Canada	establishment	49.282494	-123.118129	49.282494	-123.118129
+http://www.premierenyc.com
+http://www.foxsreachspecialtyliquorstore.ca
+http://www.rogerspublishingestore.com
+http://www.wines.cowichan.net
+http://www.qualityfoods.com	Quality Foods	2275 Guthrie Rd, Comox, BC, Canada	food, store, establishment	49.688476	-124.946413	49.688476	-124.946413
+http://www.pdcrs.com	Penticton & District Community Resources Society	470 Edmonton Ave, Penticton, BC, Canada	establishment	49.490294	-119.582334	49.490294	-119.582334
+http://www.spierheadwinery.com	SpierHead Winery	3950 Spiers Rd, Kelowna, BC, Canada	food, establishment	49.839867	-119.431273	49.839867	-119.431273
+http://www.weblocal.ca	Salon de Coiffure Mordicus Sebastian - Coiffeur Montréal	541 Ontario St E, Montreal, QC, Canada	beauty_salon, hair_care, establishment	45.517684	-73.564605	45.517684	-73.564605
+http://www.peadig.com
+http://www.myspace.com	www.thelanddepot.net	712 Winters St, West Palm Beach, FL, United States	real_estate_agency, dentist, health, establishment	26.654219	-80.061106	26.654219	-80.061106
+http://www.bcwineguys.blogspot.com	BC Wineguys VQA Wine Store	2579 Cadboro Bay Rd, Victoria, BC, Canada	liquor_store, store, establishment	48.437814	-123.31268	48.437814	-123.31268
+http://www.glendurrell.com
+http://www.thelinkpaper.ca
+http://www.napwine.com	北美精华酒庄酒餐厅	安家楼50号院A9号楼 Liangmaqiao E St, 朝阳区, Beijing, China	restaurant, food, establishment	39.957902	116.474901	39.957902	116.474901
+http://www.bellissimopizzakelowna.com	Bellissimo! Pizza	4125 Spiers Rd, Kelowna, BC, Canada	restaurant, food, establishment	49.833458	-119.424166	49.833458	-119.424166
+http://www.richmondhillwines.com	Richmond Hill Wines	Suite 108-3715 51 St SW, Calgary, AB, Canada	liquor_store, store, establishment	51.02171	-114.161131	51.02171	-114.161131
+http://www.liquordepot.ca	Liquor Depot Dalhousie	Suite 159-5005 Dalhousie Dr NW, Calgary, AB, Canada	liquor_store, store, establishment	51.106257	-114.160818	51.106257	-114.160818
+http://www.bbvancouverisland-bc.com	Copes Islander Oceanfront Bed and Breakfast	1484 Wilkinson Rd, Comox, BC, Canada	lodging, establishment	49.743322	-124.933259	49.743322	-124.933259
+http://www.dollarhost.com
+http://www.stagsheadliquorstore.com	Stag's Head Liquor Store	402-1801 Princeton-Kamloops Hwy, Kamloops, BC, Canada	liquor_store, store, establishment	50.653299	-120.366302	50.653299	-120.366302
+http://www.tpsgc-pwgsc.gc.ca	Terrasses de la Chaudière	15 Eddy Rue, Hull, QC, Canada	establishment	45.425041	-75.721759	45.425041	-75.721759
+http://www.iconscores.blogspot.com
+http://www.churchandstatewines.com	Church & State Wines	1445 Benvenuto Ave, Central Saanich, BC, Canada	food, establishment	48.56514	-123.440036	48.56514	-123.440036
+http://www.merridalecider.zenutech.com
+http://www.genoabaycafe.com	Genoa Bay Cafe	5000 Genoa Bay Rd #9, Duncan, BC, Canada	cafe, restaurant, food, establishment	48.758964	-123.598684	48.758964	-123.598684
+http://www.dng23.com
+http://www.anitamccomas.com
+http://www.tagliquorstores.com
+http://www.constantcontact.com	Constant Contact	85 2nd St #100, San Francisco, CA, United States	establishment	37.788266	-122.399828	37.788266	-122.399828
+http://www.liquorplus.ca	Douglas Liquor Plus Ltd	2915 Douglas St, Victoria, BC, Canada	liquor_store, store, establishment	48.442004	-123.368624	48.442004	-123.368624
+http://www.verallia.com	Verrallia	Place de la Verrerie, Saint-Romain-le-Puy, France	establishment	45.557786	4.121225	45.557786	4.121225
+http://www.galianoinn.com	Galiano Oceanfront Inn and Spa	134 Madrona Dr, Galiano Island, BC, Canada	lodging, spa, health, establishment	48.877328	-123.318646	48.877328	-123.318646
+http://www.vqawineshop.ca	V Q a Wine Shop at Mattick's Farm	5325 Cordova Rd Bay, Saanich, BC, Canada	liquor_store, store, establishment	48.52963	-123.373662	48.52963	-123.373662
+http://www.altabistro.com	Alta Bistro	4319 Main St, Whistler, BC, Canada	restaurant, food, establishment	50.117272	-122.957217	50.117272	-122.957217
+http://www.internationalcellars.ca	International Cellars Inc	Suite 200-1122 Mainland St, Vancouver, BC, Canada	food, establishment	49.274952	-123.120759	49.274952	-123.120759
+http://www.kelownasjuicytips.com
+http://www.skisilverstar.com	Silver Star Mountain Resort	123 Shortt St, Silver Star Mountain, BC, Canada	lodging, establishment	50.359793	-119.058859	50.359793	-119.058859
+http://www.pangcouver.com
+http://www.us1.campaign-archive2.com
+http://www.kelownagolfandcountryclub.com	Kelowna Golf & Country Club	1297 Glenmore Rd, Kelowna, BC, Canada	store, establishment	49.89128	-119.453173	49.89128	-119.453173
+http://www.stregishotel.com	St Regis Hotel	602 Dunsmuir St, Vancouver, BC, Canada	lodging, establishment	49.282962	-123.115723	49.282962	-123.115723
+http://www.culinairemagazine.ca
+http://www.ourokanagan.ca	Penticton Klassic Kabs Ltd.	2219 Government St, Penticton, BC, Canada	airport, transit_station, establishment	49.476091	-119.574258	49.476091	-119.574258
+http://www.jodiegallantphotography.com
+http://www.seachangecanadiangifts.ca	SeaChange Seafoods	334 Upper Ganges Rd, Salt Spring Island, BC, Canada	food, store, establishment	48.867748	-123.503339	48.867748	-123.503339
+http://www.oakbaybeachhotel.com	Oak Bay Beach Hotel	1175 Beach Dr, Victoria, BC, Canada	store, bar, restaurant, lodging, food, spa, establishment	48.419837	-123.29942	48.419837	-123.29942
+http://www.krauseberryfarms.com	Krause Berry Farms	6179 248 St, Langley, BC, Canada	food, establishment	49.113074	-122.540264	49.113074	-122.540264
+http://www.bclocalnews.com	Black Press Community Papers	818 Broughton St, Victoria, BC, Canada	store, establishment	48.423468	-123.361454	48.423468	-123.361454
+http://www.blog.finevintageltd.com
+http://www.womansday.com	Woman's Day	1633 Broadway, New York, NY, United States	establishment	40.762066	-73.984196	40.762066	-73.984196
+http://www.navigatormm.com	Navigator Multimedia Inc	1628 Dickson Ave, Kelowna, BC, Canada	establishment	49.88125	-119.46179	49.88125	-119.46179
+http://www.united.com	United Airlines	5915 Airport Rd #205, Mississauga, ON, Canada	establishment	43.686146	-79.608156	43.686146	-79.608156
+http://www.missionhillwineclub.com
+http://www.cancer.org	American Cancer Society	225 N Michigan Ave #1210, Chicago, IL, United States	health, establishment	41.886444	-87.623763	41.886444	-87.623763
+http://www.saltwatercowboyfishing.com
+http://www.thefortwineco.com	Fort Wine Co Inc The	26151 84 Ave, Langley, BC, Canada	food, establishment	49.15472	-122.498948	49.15472	-122.498948
+http://www.bcwinesipperdotorg.wordpress.com
+http://www.atplive.com	Alberta Theatre Projects	Martha Cohen Theatre, 220 9 Ave SE, Calgary, AB, Canada	establishment	51.045311	-114.059261	51.045311	-114.059261
+http://www.divinovancouver.com
+http://www.hyssteakhouse.com	Hy's Steakhouse & Cocktail Bar	637 Hornby St, Vancouver, BC, Canada	restaurant, food, establishment	49.284593	-123.119148	49.284593	-123.119148
+http://www.annebowen.ca
+http://www.intervin.ca
+http://www.eastsideliquorcompany.com	East Side Liquor Company	4209 27 St, Vernon, BC, Canada	liquor_store, store, establishment	50.274613	-119.266478	50.274613	-119.266478
+http://www.beadtrails.com
+http://www.hastingshouse.com	Hastings House Country House Hotel	160 Upper Ganges Rd, Salt Spring Island, BC, Canada	lodging, establishment	48.859146	-123.499528	48.859146	-123.499528
+http://www.mudbaywines.com	Mud Bay Wines : Delta BC Wine Store	1315 56 St, Delta, BC, Canada	food, establishment	49.025279	-123.068876	49.025279	-123.068876
+http://www.saltspringmarket.com	Salt Spring Saturday Market	Salt Spring Island, BC, Canada	grocery_or_supermarket, food, store, establishment	48.852459	-123.498798	48.852459	-123.498798
+http://www.alcoholprofessor.com
+http://www.celestinodrago.com	Drago Catering & Special Events	415 N Beverly Dr #208, Beverly Hills, CA, United States	food, establishment	34.070045	-118.402543	34.070045	-118.402543
+http://www.merridalecider.disqus.com
+http://www.theparkervancouver.com	The Parker	237 Union St, Vancouver, BC, Canada	bar, restaurant, food, establishment	49.277658	-123.098328	49.277658	-123.098328
+http://www.markjamesgroup.com	Yaletown Brewing Company	1111 Mainland St, Vancouver, BC, Canada	bar, restaurant, food, establishment	49.275489	-123.120894	49.275489	-123.120894
+http://www.cpc.unc.edu	Carolina Population Center Library	123 W Franklin St, Chapel Hill, NC, United States	library, establishment	35.9118	-79.057819	35.9118	-79.057819
+http://www.okgowild.ca
+http://www.tastevibrantvines.com
+http://www.johnbpub.com	John B Pub	1000 Austin Ave, Coquitlam, BC, Canada	liquor_store, store, bar, restaurant, food, establishment	49.248793	-122.867346	49.248793	-122.867346
+http://www.16thstreet.ca	16th Street Liquor Store	220 16th St, West Vancouver, BC, Canada	liquor_store, store, establishment	49.327954	-123.158893	49.327954	-123.158893
+http://www.dnarestaurant.com
+http://www.tyax.com	Tyax Wilderness Resort & Spa	1 Tyaughton Lake Rd, Gold Bridge, BC, Canada	lodging, spa, health, establishment	50.951982	-122.772794	50.951982	-122.772794
+http://www.winesofcanada.com
+http://www.seatoskyhotel.com	Sea to Sky Hotel	40330 Tantalus Way, Garibaldi Highlands, BC, Canada	restaurant, lodging, food, establishment	49.739395	-123.133307	49.739395	-123.133307
+http://www.cowichanrecyclists.com	Cowichan Recyclists	134 3 St, Duncan, BC, Canada	establishment	48.78247	-123.7091	48.78247	-123.7091
+http://www.totabc.com	Good Knight Inn	827 Trans-Canada Hwy, Cache Creek, BC, Canada	lodging, establishment	50.803056	-121.323708	50.803056	-121.323708
+http://www.walnutbeachosoyoos.com	Walnut Beach Resort	4200 Lakeshore Dr, Osoyoos, BC, Canada	lodging, establishment	49.017602	-119.436614	49.017602	-119.436614
+http://www.topcattours.com
+http://www.vintages.com	Quince Bistro	2110 Yonge St, Toronto, ON, Canada	restaurant, food, establishment	43.702789	-79.397702	43.702789	-79.397702
+http://www.tableaubarbistro.com	Tableau Bar Bistro - Vancouver	1181 Melville St, Vancouver, BC, Canada	bar, restaurant, food, establishment	49.287628	-123.123398	49.287628	-123.123398
+http://www.foragevancouver.com	Forage	1300 Robson St, Vancouver, BC, Canada	restaurant, food, establishment	49.287099	-123.128941	49.287099	-123.128941
+http://www.picasaweb.google.ca
+http://www.kal-rec.ca	Kaleden Community Hall	320 Lakehill, Kaleden, BC, Canada	establishment	49.390308	-119.595462	49.390308	-119.595462
+http://www.edible-britishcolumbia.com	Edible Canada	Granville Island Public Market, Johnston St, Granville Island, BC, Canada	restaurant, food, establishment	49.271739	-123.134981	49.271739	-123.134981
+http://www.arbutusclub.com	The Arbutus Club	2001 Nanton Ave, Vancouver, BC, Canada	establishment	49.248151	-123.151708	49.248151	-123.151708
+http://www.theeaglesnestbandb.com
+http://www.janicemansfield.com
+http://www.closdusoleil.ca	Clos du Soleil Winery	2568 Upper Bench Rd, Keremeos, BC, Canada	food, establishment	49.21154	-119.790973	49.21154	-119.790973
+http://www.lindengardens.ca	Linden Gardens	315 Linden, Kaleden, BC, Canada	home_goods_store, store, establishment	49.383567	-119.590232	49.383567	-119.590232
+http://www.madwine.com
+http://www.organicwinereview.com
+http://www.steeplesrestaurant.ca	Steeples Bar & Grill	2744 Shawnigan Lake Rd, Shawnigan Lake, BC, Canada	bar, restaurant, food, establishment	48.653227	-123.623397	48.653227	-123.623397
+http://www.nfliquor.com	Liquor Store	470 Topsail Rd, St John's, NL, Canada	liquor_store, store, establishment	47.532753	-52.751693	47.532753	-52.751693
+http://www.spierhead.myshopify.com
+http://www.kelownagolfski.com
+http://www.dragonflydock.com	Dragonfly Dock Bed and Breakfast	1874 W Shawnigan Lake Rd, Shawnigan Lake, BC, Canada	lodging, establishment	48.615006	-123.643743	48.615006	-123.643743
+http://www.where.ca	Where Magazine	70 The Esplanade, Toronto, ON, Canada	establishment	43.647226	-79.373408	43.647226	-79.373408
+http://www.moderndogmagazine.com	Southeastern Yorkshire Terriers	823 Harris Rd, Bennington, OK, United States	establishment	34.062117	-95.9902	34.062117	-95.9902
+http://www.clubwinetours.com
+http://www.twitchitt.wufoo.com
+http://www.unlimited-vision.com
+http://www.liquorstoresgp.ca	The Liquor Depot	10164 109 St NW, Edmonton, AB, Canada	liquor_store, store, establishment	53.541744	-113.509892	53.541744	-113.509892
+http://www.smugglerscovepub.com	Smugglers' Cove Pub & Liquor Store	2581 Penrhyn St, Victoria, BC, Canada	liquor_store, food, store, bar, establishment	48.461321	-123.296596	48.461321	-123.296596
+http://www.okanaganvilla.com	Okanagan Villa Estate Winery	3240 Pooley Rd, Kelowna, BC, Canada	food, establishment	49.862692	-119.411841	49.862692	-119.411841
+http://www.cincin.net	CinCin Ristorante + Bar	1154 Robson St, Vancouver, BC, Canada	restaurant, food, establishment	49.285295	-123.126214	49.285295	-123.126214
+http://www.huffingtonpost.ca	Huff & Associates	1717 K St NW, Washington, DC, United States	establishment	38.902854	-77.040218	38.902854	-77.040218
+http://www.schoonerrestaurant.ca	The Schooner Restaurant	331 Campbell St, Tofino, BC, Canada	restaurant, food, establishment	49.152972	-125.906994	49.152972	-125.906994
+http://www.canada.com	Canada.com	1510-355 Burrard St, Vancouver, BC, Canada	establishment	49.287636	-123.116291	49.287636	-123.116291
+http://www.impactvisual.ca	Impact Visual Communications	25 Cavan St, Nanaimo, BC, Canada	store, establishment	49.162962	-123.93687	49.162962	-123.93687
+http://www.silversagewinery.ca
+http://www.vk.com	SEO-VK.COM, internet-kompaniya	pereulok Pavlova, 87-б, Sochi, Krasnodar Krai, Russia	establishment	43.916207	39.338942	43.916207	39.338942
+http://www.pinterest.com	Joseph K. Levene Fine Art, Ltd.	25 Central Park West, New York, NY, United States	art_gallery, establishment	40.770279	-73.980478	40.770279	-73.980478
+http://www.sipandsavoursaltspring.com
+http://www.pentictonramada.com	Ramada Penticton Hotel and Suites	1050 Eckhardt Ave W, Penticton, BC, Canada	lodging, establishment	49.494626	-119.612487	49.494626	-119.612487
+http://www.help.securepaynet.net
+http://www.seabreezelodge.com	Sea Breeze Lodge	5205 Fowler Rd, Hornby Island, BC, Canada	restaurant, lodging, food, establishment	49.53914	-124.644697	49.53914	-124.644697
+http://www.nestersliquorstore.com
+http://www.cbrands.versaic.com
+http://www.plus.google.com	Adana Perdeci Ustası ve Teknik Eleman Servisi	Süleyman Demirel Blv, Adana, Turkey	establishment	37.054944	35.28741	37.054944	35.28741
+http://www.yellowpages.ca	BEADSBILLES	11649 Gouin Blvd W, Pierrefonds, QC, Canada	store, establishment	45.509049	-73.820765	45.509049	-73.820765
+http://www.ht.ly
+http://www.winelaw.ca
+http://www.chardonnay-du-monde.com
+http://www.ckstenberg.com
+http://www.indyinternational.org
+http://www.divinevalleytours.com	Divine Valley Tour Company LTD	Okanagan-Similkameen D, BC, Canada	travel_agency, establishment	49.344601	-119.570801	49.344601	-119.570801
+http://www.vjhfoundation.org
+http://www.nkmipcanyon.com	Nk'Mip Canyon Desert Golf Course	6891 Tuc-El-Nuit Dr, Oliver, BC, Canada	establishment	49.195112	-119.531697	49.195112	-119.531697
+http://www.vqaontario.com	Sandbank Homes	Maplehurst Crescent, Wellington, ON, Canada	general_contractor, establishment	43.951468	-77.368282	43.951468	-77.368282
+http://www.thewineshops.com	Vineyards Estate Wines	955 Westney S, Ajax, ON, Canada	liquor_store, store, establishment	43.830678	-79.017523	43.830678	-79.017523
+http://www.harperwells.com	HarperWells Wine Merchant	30-32 Eaton St, Norwich, United Kingdom	liquor_store, food, store, establishment	52.608383	1.25104	52.608383	1.25104
+http://www.kanadalachs.ch
+http://www.cityfood.com	Cityfood	1810 Pine St, Vancouver, BC, Canada	establishment	49.269079	-123.143348	49.269079	-123.143348
+http://www.liquorexpress.ca	Liquor Express Harris Green	930 View St, Victoria, BC, Canada	liquor_store, food, store, establishment	48.424841	-123.358312	48.424841	-123.358312
+http://www.sheratonvancouver.com	Indigo Bistro Moderne	1088 Burrard St, Vancouver, BC, Canada	restaurant, food, establishment	49.280328	-123.127041	49.280328	-123.127041
+http://www.brentwoodliquorstore.com
+http://www.riversreach.com	The River's Reach Pub	320 Sixth St, New Westminster, BC, Canada	bar, establishment	49.209463	-122.91593	49.209463	-122.91593
+http://www.speedsliquorstore.com
+http://www.grapeescapes.ca	Grape Escapes Wine Tours	553 Vees Dr, Penticton, BC, Canada	food, travel_agency, bar, establishment	49.495931	-119.583008	49.495931	-119.583008
+http://www.casaloma.com	Casa Loma Resort	2777 Casa Loma Rd, Central Okanagan, Subd. B, BC, Canada	lodging, establishment	49.85775	-119.537223	49.85775	-119.537223
+http://www.eepurl.com	PALEOLOCHIC	Vilafranca, 26, Barcelona, Spain	jewelry_store, store, establishment	41.407317	2.156684	41.407317	2.156684
+http://www.lindenhofkeller.ch	Lindenhofkeller	Pfalzgasse 4, Zurich, Switzerland	restaurant, food, establishment	47.372477	8.540789	47.372477	8.540789
+http://www.richmond-cc.org	Richmond Country Club	9100 Steveston Hwy, Richmond, BC, Canada	establishment	49.1289	-123.125	49.1289	-123.125
+http://www.pinotnoirs.com
+http://www.executivewinetours.com
+http://www.theravenpub.com	The Raven Pub	1052 Deep Cove Rd, North Vancouver, BC, Canada	bar, restaurant, food, establishment	49.316384	-122.953321	49.316384	-122.953321
+http://www.discovernaramata.com	Naramata	126 Robinson Ave, Okanagan-Similkameen, Subd. A, BC, Canada	grocery_or_supermarket, food, store, establishment	49.597646	-119.602886	49.597646	-119.602886
+http://www.hornbyfestival.bc.ca	Hornby Festival Society	Sollans Rd, Hornby Island, BC, Canada	establishment	49.532618	-124.665084	49.532618	-124.665084
+http://www.vrbo.com	No. 12 at Mauna Kai	3920 Wyllie Rd, Princeville, HI, United States	real_estate_agency, establishment	22.220618	-159.470182	22.220618	-159.470182
+http://www.getmobio.com
+http://www.longbeachlodgeresort.com	Long Beach Lodge Resort	1441 Pacific Rim Hwy, Tofino, BC, Canada	store, travel_agency, restaurant, lodging, food, establishment	49.104787	-125.872485	49.104787	-125.872485
+http://www.twitchittwebdesign.com
+http://www.labelleauberge.com
+http://www.blusaffronbistro.com
+http://www.averillcreekstore.3dcartstores.com
+http://www.stagshollowwinery.com	Stags Hollow	2237 Sun Valley Way, Okanagan-Similkameen D, BC, Canada	food, establishment	49.319962	-119.554565	49.319962	-119.554565
+http://www.aglassofwinewithjacqueline.blogspot.com
+http://www.themekraft.com
+http://www.voya-restaurant.com
+http://www.shadowfax.bc.ca	Shadowfax Communications	219 Main St, Penticton, BC, Canada	establishment	49.499874	-119.593173	49.499874	-119.593173
+http://www.bcpinotnoir.com
+http://www.crowfootliquor.com	Crowfoot Wine & Spirits	7414 Crowfoot Rd NW, Calgary, AB, Canada	liquor_store, food, store, establishment	51.126711	-114.196255	51.126711	-114.196255
+http://www.wineplus.ca
+http://www.johnschreiner.blogspot.ca
+http://www.bellstar.ca	Bellstar Hotels & Resorts	401, 8989 Macleod Trail S, Calgary, AB, Canada	establishment	50.974558	-114.071714	50.974558	-114.071714
+http://www.actoverco.com
+http://www.jericho.ca	Jericho Tennis Club	3837 Point Grey Rd, Vancouver, BC, Canada	establishment	49.271619	-123.189753	49.271619	-123.189753
+http://www.rotarycentreforthearts.com	Rotary Centre for the Arts	421 Cawston Ave, Kelowna, BC, Canada	art_gallery, establishment	49.891633	-119.49502	49.891633	-119.49502
+http://www.ouisibistro.com	The Ouisi Bistro	3014 Granville St, Vancouver, BC, Canada	restaurant, food, establishment	49.25854	-123.138607	49.25854	-123.138607
+http://www.roaringtwentieswineco.com
+http://www.hoodedmerganser.ca	Hooded Merganser Restaurant	21 Lakeshore Dr W, Penticton, BC, Canada	restaurant, food, establishment	49.502671	-119.594303	49.502671	-119.594303
+http://www.gmpg.org
+http://www.pixelgems.com	Pixelgems Creative Inc.	7388 Vedder Rd, Chilliwack, BC, Canada	establishment	49.136076	-121.95891	49.136076	-121.95891
+http://www.eatdrinkvictoria.com
+http://www.sjsliquor.com
+http://www.kitsdaily.com	Kitsilano Daily Kitchen	1809 W 1st Ave, Vancouver, BC, Canada	restaurant, food, establishment	49.270791	-123.146834	49.270791	-123.146834
+http://www.deserthills.ca	Desert Hills Estate Winery	30480 71 St, Oliver, BC, Canada	food, establishment	49.103801	-119.548098	49.103801	-119.548098
+http://www.ipower.com	Ipower	2A 2nd Floor, 8070 Tanguile, Makati City, Philippines	establishment	14.564802	121.009134	14.564802	121.009134
+http://www.cwine.com	Constellation Wines US Inc	235 N Bloomfield Rd, Canandaigua, NY, United States	food, establishment	42.897818	-77.303903	42.897818	-77.303903
+http://www.chameleoncafe.ca	Chameleon Cafe Ltd	11965 224 St, Maple Ridge, BC, Canada	restaurant, food, establishment	49.219791	-122.601806	49.219791	-122.601806
+http://www.feedburner.google.com
+http://www.iframe.guestserve.com
+http://www.vwwinemarketing.com
+http://www.protocol.gov.bc.ca
+http://www.piquenewsmagazine.com	Pique Newsmagazine	1390 Alpha Lake Rd, Whistler, BC, Canada	establishment	50.090219	-123.031298	50.090219	-123.031298
+http://www.cowieandfox.com	Cowie and Fox Inc.	1062 Homer St #201, Vancouver, BC, Canada	establishment	49.276636	-123.121018	49.276636	-123.121018
+http://www.departures.com	Carroll County Airport	210 West Church Street, Tir State Rd, Berryville, AR, United States	airport, transit_station, establishment	36.383457	-93.619686	36.383457	-93.619686
+http://www.hestercreek.com	Hester Creek Estate Winery Ltd	877 Road 8, Box 1605, Oliver, BC, Canada	restaurant, food, establishment	49.14365	-119.596481	49.14365	-119.596481
+http://www.forbes.com	Forbes.com LLC	90 5th Ave # 7, New York, NY, United States	establishment	40.73637	-73.993614	40.73637	-73.993614
+http://www.brixvancouver.com	brix restaurant & wine bar	1138 Homer St, Vancouver, BC, Canada	restaurant, food, establishment	49.275758	-123.122292	49.275758	-123.122292
+http://www.horizonair.com	Alaska Airlines Inc	19530 International Blvd, SeaTac, WA, United States	establishment	47.42712	-122.295431	47.42712	-122.295431
+http://www.skimmerhorn.ca	Skimmerhorn Winery & Vineyard Ltd	1218 27 Ave S RR 1, Creston, BC, Canada	food, establishment	49.078006	-116.491671	49.078006	-116.491671
+http://www.sandpipergolfclub.com	Harrison Resort Golf Course	3891 Hot Springs, Agassiz, Canada	establishment	49.279495	-121.783028	49.279495	-121.783028
+http://www.wickinn.com	Wickaninnish Inn	500 Osprey Ln, Tofino, BC, Canada	lodging, establishment	49.123911	-125.901092	49.123911	-125.901092
+http://www.us1.campaign-archive1.com
+http://www.negozioclassica.co.uk
+http://www.nichewinecompany.myshopify.com
+http://www.fairmontpacificrim.com	Fairmont Pacific Rim	1038 Canada Pl, Vancouver, BC, Canada	lodging, establishment	49.2882	-123.116862	49.2882	-123.116862
+http://www.campagnolorestaurant.ca	Campagnolo Restaurant	1020 Main St, Vancouver, BC, Canada	restaurant, food, establishment	49.275397	-123.099604	49.275397	-123.099604
+http://www.globaltvbc.com	Campagna Auto Services Ltd	1616 Renfrew, Vancouver, BC, Canada	car_repair, establishment	49.27016	-123.043813	49.27016	-123.043813
+http://www.sahyadricampusbuzz.com
+http://www.kazesushiwhistler.com	Kaze Japanese Restaurant	4090 Whistler Way, Whistler, BC, Canada	restaurant, food, establishment	50.111527	-122.957107	50.111527	-122.957107
+http://www.cherrylane.ca
+http://www.newgrandhotel.ca
+http://www.statcounter.com	All 4 Seasons Realty, LLC	Oregon City, OR, United States	establishment	45.357343	-122.606758	45.357343	-122.606758
+http://www.smallanimalrescue.org
+http://www.gothamsteakhouse.com	Gotham Steakhouse & Cocktail Bar	615 Seymour St, Vancouver, BC, Canada	bar, restaurant, food, establishment	49.282792	-123.11594	49.282792	-123.11594
+http://www.facebook.com	www.facebook.com/yenanhshop	Lê Văn Tám, 1, Phường 1, Ba Ria - Vung Tau, Vietnam	store, establishment	10.349254	107.075994	10.349254	107.075994
+http://www.theoldfork.com
+http://www.risofoodsinc.com	Riso Foods Inc	7217 Lantzville Rd, Lantzville, BC, Canada	bakery, store, cafe, restaurant, food, establishment	49.250838	-124.075974	49.250838	-124.075974
+http://www.gardenworks.ca	GardenWorks	6250 Lougheed Hwy, Burnaby, BC, Canada	furniture_store, general_contractor, home_goods_store, store, establishment	49.262252	-122.974648	49.262252	-122.974648
+http://www.foodpages.ca	Blak's Bakery	1022 Langlois Ave, Windsor, ON, Canada	bakery, store, food, establishment	42.313738	-83.018892	42.313738	-83.018892
+http://www.thekeeferbar.com
+http://www.bathandwest.com	Royal bath & west of england society	The Showground, Shepton Mallet, United Kingdom	establishment	51.15646	-2.527417	51.15646	-2.527417
+http://www.content.yudu.com	Yudu Media	Primrose Studio/Primrose Rd, Clitheroe, United Kingdom	establishment	53.861927	-2.40034	53.861927	-2.40034
+http://www.mangiaebevi.ca	Mangia E Bevi Ristorante	2222 Marine Dr, West Vancouver, BC, Canada	restaurant, food, establishment	49.3308	-123.171852	49.3308	-123.171852
+http://www.tourismvictoria.com	Greater Victoria Visitors & Convention Bureau	812 Wharf St, Victoria, BC, Canada	establishment	48.42287	-123.370235	48.42287	-123.370235
+http://www.camelotvineyards.ca	Camelot Vineyards	3489 E Kelowna Rd, Kelowna, BC, Canada	food, establishment	49.867134	-119.40465	49.867134	-119.40465
+http://www.predatorridge.com	Predator Ridge Resort	301 Village Centre Place, Vernon, BC, Canada	lodging, establishment	50.188549	-119.389286	50.188549	-119.389286
+http://www.tinhorn.com	Tinhorn Creek Vineyards	537 Tinhorn Creek Road, Oliver, BC, Canada	food, establishment	49.150448	-119.590973	49.150448	-119.590973
+http://www.celisata wine.com
+http://www.disfrutarelvino.com
+http://www.waldorfhotel.com	The Waldorf Hotel	1489 East Hastings Street, Vancouver, BC, Canada	lodging, establishment	49.281515	-123.074568	49.281515	-123.074568
+http://www.goo.gl	offer make造堡手工漢堡	No. 26, Lane 150, Wenhua Rd, Taiwan	bar, restaurant, food, establishment	24.183115	120.646803	24.183115	120.646803
+http://www.harmonyarts.ca	Harmony Arts Festival	1564 Argyle Ave, West Vancouver, BC, Canada	establishment	49.32722	-123.158029	49.32722	-123.158029
+http://www.eatdrinkexplore.com	Eat Drink Explore Media	1075 Court St #211, San Luis Obispo, CA, United States	establishment	35.280947	-120.661497	35.280947	-120.661497
+http://www.islandwineries.ca
+http://www.adrianphotography.ca
+http://www.1912bistro.com	1912 Wedding Venue Rentals	100 Alder Ave, Kaleden, BC, Canada	food, establishment	49.387677	-119.584233	49.387677	-119.584233
+http://www.twistedtreetheatre.com
+http://www.willowpark.net	Willow Park Wines & Spirits	10801 Bonaventure Dr SE, Calgary, AB, Canada	liquor_store, store, establishment	50.955864	-114.068726	50.955864	-114.068726
+http://www.aebusa.com	AEB Biochemical USA	2031 26th St # 201, San Francisco, CA, United States	store, establishment	37.75079	-122.399636	37.75079	-122.399636
+http://www.liquidsliquorstore.com
+http://www.aspenwineandspirits.com	Aspen Wine & Spirits	366 Aspen Glen Landing SW #130, Calgary, AB, Canada	liquor_store, food, store, establishment	51.040229	-114.209248	51.040229	-114.209248
+http://www.blueeyedmarys.com	Blue Eyed Marys Restaurant	1735 Marine Dr, West Vancouver, BC, Canada	restaurant, food, establishment	49.328793	-123.161111	49.328793	-123.161111
+http://www.whistlerpubrestaurant.com
+http://www.regenthotel.ca	The Regent Hotel	Revelstoke, BC, Canada	gym, lodging, health, spa, establishment	50.998368	-118.194308	50.998368	-118.194308
+http://www.blog.wineenthusiast.com
+http://www.pads.ca	Pads	9048 Stormont Ave, Burnaby, BC, Canada	establishment	49.245822	-122.912421	49.245822	-122.912421
+http://www.tcclub.com	Terminal City Club	837 W Hastings St, Vancouver, BC, Canada	gym, parking, health, establishment	49.286476	-123.1153	49.286476	-123.1153
+http://www.secretcovemarina.com	Secret Cove Marina Ltd	CA, Canada	establishment	49.534164	-123.96419	49.534164	-123.96419
+http://www.forlocations.ca
+http://www.mjotours.com	MJO Tours	3317 30th Ave, Vernon, BC, Canada	establishment	50.264028	-119.276639	50.264028	-119.276639
+http://www.castanet.net	Vantage West Realty	2-1329 Ellis St, Kelowna, BC, Canada	real_estate_agency, establishment	49.891047	-119.493376	49.891047	-119.493376
+http://www.canadianwinetrail.com
+http://www.spincaster.com
+http://www.cowichanliquorstore.ca
+http://www.backyardvineyards.ca	Neck of the Woods Winery	3033 232 St, Langley, BC, Canada	food, establishment	49.05655	-122.581725	49.05655	-122.581725
+http://www.blackswanpub.com	Black Swan Pub & Liquor Store	2890 Shawnigan Lake Rd, Shawnigan Lake, BC, Canada	liquor_store, store, bar, establishment	48.660064	-123.627834	48.660064	-123.627834
+http://www.foxpub.ca
+http://www.quaywine.com
+http://www.leaf-petal.ca
+http://www.tourismpenticton.com	Penticton & Wine Country Visitor Centre	553 Vees Dr, Penticton, BC, Canada	establishment	49.493657	-119.603541	49.493657	-119.603541
+http://www.abbyphotography.ca	Abby Photography	Kelowna, BC, Canada	establishment	49.878106	-119.406014	49.878106	-119.406014
+http://www.infotel.ca	InfoTel	7881 Pleasant Valley Rd, Vernon, BC, Canada	store, establishment	50.330943	-119.239082	50.330943	-119.239082
+http://www.squiresfourpub.com	Squires Four Public House Ltd The	6301 Stickle Rd, North Okanagan B, BC, Canada	bar, establishment	50.297397	-119.252882	50.297397	-119.252882
+http://www.vancouverdesi.com
+http://www.applebnb.com	Apple Blossom Bed & Breakfast	3582 Apple Way Blvd, West Kelowna, BC, Canada	lodging, establishment	49.835528	-119.580914	49.835528	-119.580914
+http://www.vineyardsestatewines.com	Vineyards Estate Wines	1460 Merivale Rd, Nepean, ON, Canada	liquor_store, store, establishment	45.361796	-75.734017	45.361796	-75.734017
+http://www.westcoastseeds.com	West Coast Seeds	4930 Elliott St, Delta, BC, Canada	home_goods_store, store, establishment	49.092518	-123.084944	49.092518	-123.084944
+http://www.pointnopointresort.com	Point No Point Resort	10829 W Coast Rd, Shirley, BC, Canada	restaurant, lodging, food, establishment	48.3978	-123.984207	48.3978	-123.984207
+http://www.pier66marina.com	Pier 66 Marina	1745 Cowichan Bay, Cowichan Bay, BC, Canada	storage, establishment	48.740618	-123.62085	48.740618	-123.62085
+http://www.life.nationalpost.com
+http://www.pineacreonthelake.com	Pineacre on the Lake	British Columbia 97, Canada	lodging, establishment	49.715789	-119.758119	49.715789	-119.758119
+http://www.terrainkitchen.com
+http://www.localscomoxvalley.com	Locals Restaurant at the Old House	1760 Riverside Lane, Lower Level, Courtenay, BC, Canada	restaurant, food, establishment	49.684156	-124.988037	49.684156	-124.988037
+http://www.quamichaninn.com	Quamichan Inn	1478 Maple Bay Rd, Duncan, BC, Canada	restaurant, lodging, food, establishment	48.800717	-123.642862	48.800717	-123.642862
+http://www.theviewwinery.com	The View Winery & Vineyard	2287 Ward Rd, Kelowna, BC, Canada	food, establishment	49.845254	-119.438339	49.845254	-119.438339
+http://www.play.google.com	WEBkomplex.sk | Web design | SEO | Tvorba www stránok	Bojnická cesta 419/31, Prievidza, Slovensko	establishment	48.774861	18.609729	48.774861	18.609729
+http://www.stellarseeds.com
+http://www.blog.conservancy.bc.ca
+http://www.valhallahelicopters.com	Valhalla Helicopters	1100 Stevens Rd, Kelowna, BC, Canada	travel_agency, establishment	49.866426	-119.560302	49.866426	-119.560302
+http://www.okanagandinnerwinetours.com
+http://www.cedarcreek.us2.list-manage.com
+http://www.boldchat.com	LogMeIn, Inc.	2024 N Woodlawn St #350, Wichita, KS, United States	establishment	37.720462	-97.259093	37.720462	-97.259093
+http://www.wholefoodsmarket.com	Whole Foods Market	2800 196th St SW, Lynnwood, WA, United States	grocery_or_supermarket, food, store, establishment	47.819846	-122.272417	47.819846	-122.272417
+http://www.hospitalitybizindia.com	Hospitality Biz India	306, 3Rd Floor, 289, Emca House, Shahid Bhagat Sihgh Road, Fort, Mumbai - 400001, India	establishment	18.934662	72.836778	18.934662	72.836778
+http://www.corkwine.ca
+http://www.vancouverurbanwinery.com	Vancouver Urban Winery	55 Dunlevy Ave, Vancouver, BC, Canada	food, bar, establishment	49.284284	-123.09583	49.284284	-123.09583
+http://www.reverendnatshardcider.com	Reverend Nat's Hard Cider	1813 NE 2nd Ave, Portland, OR, United States	food, establishment	45.535923	-122.6638	45.535923	-122.6638
+http://www.kefirgrains.info
+http://www.unveilshuttles.com
+http://www.fordscove.com	Ford's Cove Marina Ltd.	10835 Central Rd, Hornby Island, BC, Canada	establishment	49.496157	-124.675404	49.496157	-124.675404
+http://www.w2.syronex.com
+http://www.vintagespirits.ca	Vintage Wine & Spirits	653 Pandora Ave, Victoria, BC, Canada	liquor_store, store, establishment	48.428152	-123.36455	48.428152	-123.36455
+http://www.nuba.ca	Nuba in Kitsilano	3116 W Broadway, Vancouver, BC, Canada	restaurant, food, establishment	49.264072	-123.174792	49.264072	-123.174792
+http://www.oyamasunblush.com
+http://www.givex.com	Givex Canada Corporation	S400-366 Adelaide St W, ON, Canada	establishment	43.647113	-79.394327	43.647113	-79.394327
+http://www.westernshowcase.com
+http://www.thenestbistro.com	Nest	486 Franklyn St, Nanaimo, BC, Canada	restaurant, food, establishment	49.163462	-123.941112	49.163462	-123.941112
+http://www.allshewrote.ca
+http://www.okfalls.ca	Economic Development Office - RDOS Electoral Area 'D'	5350 9 Ave, Okanagan-Similkameen D, BC, Canada	local_government_office, establishment	49.345544	-119.576859	49.345544	-119.576859
+http://www.pwbrewing.net	Pacific Western Brewing Co	3876 Norland Ave, Burnaby, BC, Canada	food, establishment	49.249916	-122.974563	49.249916	-122.974563
+http://www.wineclub.blackcloud.ca
+http://www.pentictonwesternnews.com	Penticton Western News	2250 Camrose St, Penticton, BC, Canada	establishment	49.474881	-119.576739	49.474881	-119.576739
+http://www.desitoday.ca
+http://www.newmediasyndicate.com
+http://www.hornbyrealestate.com
+http://www.guestserve.com	GuestServe Inc.	St Catharines, ON, Canada	establishment	43.157101	-79.245814	43.157101	-79.245814
+http://www.restaurant-aqua.com	Aqua	Parkstraße 1, Wolfsburg, Deutschland	restaurant, food, establishment	52.433173	10.790012	52.433173	10.790012
+http://www.bcwine.com
+http://www.seniorlivingmag.com	Senior Living Magazine	3948 Quadra St #3, Victoria, BC, Canada	establishment	48.466728	-123.362331	48.466728	-123.362331
+http://www.nbliquor.com	Alcool NB Liquor Dieppe	513 Rue Regis, Dieppe, NB, Canada	liquor_store, store, establishment	46.098004	-64.756497	46.098004	-64.756497
+http://www.thestar.com	Toronto Star The	100 Queen St W, Toronto, ON, Canada	restaurant, food, establishment	43.651818	-79.382484	43.651818	-79.382484
+http://www.dailyfruitwine.com
+http://www.heatheryipart.com
+http://www.bbcanada.com	Gables Bed and Breakfast	207 Point St, Stayner, ON, Canada	lodging, establishment	44.417495	-80.094143	44.417495	-80.094143
+http://www.lcbo.com	LCBO	10 Scrivener Square, Toronto, ON, Canada	liquor_store, food, store, establishment	43.680828	-79.390469	43.680828	-79.390469
+http://www.http	http. net Internet GmbH	Kantstraße 13, Berlin, Germany	establishment	52.505696	13.327586	52.505696	13.327586
+http://www.southvanislebnb.com
+http://www.silverstarmtn.com
+http://www.zyn.ca	ZYN.ca	1543 17 Ave SE, Calgary, AB, Canada	liquor_store, food, store, bar, establishment	51.037751	-114.028026	51.037751	-114.028026
+http://www.chandlersseafood.com
+http://www.cowichantoday.com
+http://www.musewinery.blogspot.ca
+http://www.cascadialiquor.com	Colwood Private Liquor Store	107, 2244 Sooke Rd, Victoria, BC, Canada	liquor_store, store, establishment	48.434871	-123.493467	48.434871	-123.493467
+http://www.tastethecowichan.ca
+http://www.cheeseworks.ca	Little Qualicum Cheeseworks	403 Lowrys Rd, Parksville, BC, Canada	food, store, establishment	49.328785	-124.366033	49.328785	-124.366033
+http://www.newridgemedia.com
+http://www.artsco.ca	Arts Council Of The Central Okanagan	Suite 203-1905 Evergreen Crt, Kelowna, BC, Canada	establishment	49.879209	-119.451279	49.879209	-119.451279
+http://www.hotellesoleil.com	Executive Hotel Le Soleil	567 Hornby St, Vancouver, BC, Canada	clothing_store, store, lodging, establishment	49.285209	-123.118142	49.285209	-123.118142
+http://www.penticton.org	Penticton Chamber of Commerce	553 Railway St, Penticton, BC, Canada	establishment	49.493719	-119.603435	49.493719	-119.603435
+http://www.vinesanddesigns.wordpress.com
+http://www.ponderosapoint.com	Ponderosa Point	319 Ponderosa, Kaleden, BC, Canada	lodging, establishment	49.38106	-119.578859	49.38106	-119.578859
+http://www.worldofpinotnoir.com	World of Pinot Noir	151 W Branch St # D, Arroyo Grande, CA, United States	establishment	35.122536	-120.580742	35.122536	-120.580742
+http://www.prontissimapasta.com	Prontissima Pasta	Suite C-2384 Rosewall Cres, Courtenay, BC, Canada	restaurant, food, establishment	49.671099	-124.998161	49.671099	-124.998161
+http://www.okanaganspirits.com	Okanagan Spirits Inc	2920 28th Ave, Vernon, BC, Canada	establishment	50.262165	-119.269811	50.262165	-119.269811
+http://www.kelownadailycourier.ca	The Daily Courier	550 Doyle Ave, Kelowna, BC, Canada	establishment	49.889094	-119.491618	49.889094	-119.491618
+http://www.intrigueimports.wordpress.com
+http://www.mapellite.com
+http://www.news.discovery.com
+http://www.granvilleisland.com	Granville Island Administration Office	1661 Duranleau St, Vancouver, BC, Canada	establishment	49.272068	-123.135858	49.272068	-123.135858
+http://www.pc.gc.ca	Fort St. James National Historic Site of Canada	280 Kwah Rd W, Fort St James, BC, Canada	museum, establishment	54.439247	-124.256853	54.439247	-124.256853
+http://www.nsliquor.ns.ca
+http://www.oldsettler.com	Old Settler Pub	222 Cedar Ave, Harrison Hot Springs, BC, Canada	bar, establishment	49.301727	-121.785143	49.301727	-121.785143
+http://www.hilltopbistro.ca
+http://www.vancouverdine.com	Teahouse in Stanley Park	7501 Stanley Park Dr, Vancouver, BC, Canada	restaurant, food, establishment	49.301295	-123.157236	49.301295	-123.157236
+http://www.stongs.com	Stong's Markets	4560 Dunbar St, Vancouver, BC, Canada	grocery_or_supermarket, food, store, establishment	49.245743	-123.184885	49.245743	-123.184885
+http://www.reddit.com	reddit	520 3rd St, San Francisco, CA, United States	establishment	37.781033	-122.395972	37.781033	-122.395972
+http://www.inniskillin.com	Inniskillin Wines	1499 Line 3, Niagara-on-the-Lake, ON, Canada	food, store, establishment	43.211517	-79.064898	43.211517	-79.064898
+http://www.labussolarestaurant.com	La Bussola	1451 Ellis St, Kelowna, BC, Canada	restaurant, food, establishment	49.887564	-119.493362	49.887564	-119.493362
+http://www.ntnl.ca	National Beerhall	550 17 Ave SW, Calgary, AB, Canada	night_club, bar, restaurant, food, establishment	51.03807	-114.073988	51.03807	-114.073988
+http://www.cloverdalereporter.com	Cloverdale Reporter	17586 56A Ave, Cloverdale, BC, Canada	storage, establishment	49.10492	-122.735425	49.10492	-122.735425
+http://www.goldmedalplates.com
+http://www.summerlandwineclub.ca
+http://www.coopwinesandspirits.com	Calgary Co-op Wines & Spirits	39 Crowfoot Way NW, Calgary, AB, Canada	liquor_store, store, establishment	51.12457	-114.200603	51.12457	-114.200603
+http://www.wiegele.com	Saddle Mountain Lodge	1 Harwood Dr, Blue River, BC, Canada	lodging, establishment	52.113683	-119.305685	52.113683	-119.305685
+http://www.vinesmag.com
+http://www.middlemountainmead.com	Middle Mountain Mead	3505 Euston Rd, Hornby Island, BC, Canada	liquor_store, store, establishment	49.500685	-124.663815	49.500685	-124.663815
+http://www.sumasmountainwines.com
+http://www.shopping.worldweb.com
+http://www.pentictonherald.ca	Penticton Herald	186 Nanaimo Ave W, Penticton, BC, Canada	store, establishment	49.498444	-119.594365	49.498444	-119.594365
+http://www.mica.edu	Maryland Institute College of Art	1300 W. Mount Royal Avenue Baltimore, Maryland 21217, United States	store, art_gallery, school, establishment	39.307646	-76.621553	39.307646	-76.621553
+http://www.westsidetourism.com
+http://www.willowbeach.ca	Willow Beach Bed & Breakfast	683 Westside Rd, Kelowna, BC, Canada	lodging, establishment	49.91535	-119.535155	49.91535	-119.535155
+http://www.graymonk.com	Gray Monk Estate Winery	1055 Camp Rd, Lake Country, BC, Canada	food, establishment	50.054393	-119.441625	50.054393	-119.441625
+http://www.kelownacapnews.com	Kelowna Capital News	2495 Enterprise Way, Kelowna, BC, Canada	establishment	49.886186	-119.431339	49.886186	-119.431339
+http://www.burgoo.ca	Burgoo Bistro	3096 Main St, Vancouver, BC, Canada	restaurant, food, establishment	49.257641	-123.100912	49.257641	-123.100912
+http://www.royaldar.ca	The Royal Dar	148 3 St, Duncan, BC, Canada	restaurant, food, establishment	48.782097	-123.709268	48.782097	-123.709268
+http://www.vijs.ca	Vij's Inspired Indian Cuisine	19466 55 Ave, Surrey, BC, Canada	restaurant, food, establishment	49.102308	-122.683768	49.102308	-122.683768
+http://www.outlandish-shellfish.com
+http://www.hillcresthotel.com	The Hillcrest Hotel a Coast Resort	2100 Oak Dr, Revelstoke, BC, Canada	lodging, establishment	50.995358	-118.163009	50.995358	-118.163009
+http://www.alloydining.com	Alloy	220 42 Ave SE, Calgary, AB, Canada	restaurant, food, establishment	51.01628	-114.060158	51.01628	-114.060158
+http://www.rimrockwhistler.com	Rim Rock Cafe	2117 Whistler Rd, Whistler, BC, Canada	restaurant, food, establishment	50.098574	-122.989337	50.098574	-122.989337
+http://www.polyfacefarms.com
+http://www.saltspringseeds.com	Salt Spring Seeds	250 Toynbee Rd, Salt Spring Island, BC, Canada	home_goods_store, store, establishment	48.839736	-123.54033	48.839736	-123.54033
+http://www.freshoutlookfoundation.org
+http://www.edgemontliquor.com	Edgemont Fine Wines, Spirits & Ales	3020 Edgemont Blvd, North Vancouver, BC, Canada	liquor_store, food, store, establishment	49.336841	-123.100751	49.336841	-123.100751
+http://www.travel.bc.ca	Greystone Bed & Breakfast	2006 14 Ave W, Vancouver, BC, Canada	lodging, establishment	49.259035	-123.151176	49.259035	-123.151176
+http://www.chambar.com	Chambar Restaurant	562 Beatty St, Vancouver, BC, Canada	restaurant, food, establishment	49.280202	-123.109706	49.280202	-123.109706
+http://www.aisle43.com	Vineyards Estate Wines	1460 Merivale Rd, Nepean, ON, Canada	liquor_store, store, establishment	45.361796	-75.734017	45.361796	-75.734017
+http://www.barnstormdesigns.com
+http://www.sunnybraewinery.com	Sunnybrae Vineyards & Winery	3847 Sunnybrae CN Pt Rd, Tappen, BC, Canada	food, establishment	50.761259	-119.435462	50.761259	-119.435462
+http://www.bananaleaf-vancouver.com	Banana Leaf On Broadway	820 W Broadway, Vancouver, BC, Canada	restaurant, food, establishment	49.263209	-123.122407	49.263209	-123.122407
+http://www.wineoneonebc.wordpress.com
+http://www.winetraveller.org
+http://www.playhousewinefest.com
+http://www.libertywinemerchants.com	Liberty Wine Merchants	1405 Gulf Rd, Point Roberts, WA, United States	liquor_store, food, store, establishment	48.984545	-123.078476	48.984545	-123.078476
+http://www.carolinejames.com	Caroline James Fine Art Studio	5020 Sandpiper Rd, Hornby Island, BC, Canada	establishment	49.505843	-124.645025	49.505843	-124.645025
+http://www.mountainsideaccommodations.com	Mountainside Accomodations	3626 Royal Gala Dr, Westbank, BC, Canada	lodging, establishment	49.834843	-119.583718	49.834843	-119.583718
+http://www.wildgoosewinery.com	Wild Goose Vineyards & Winery Inc	2145 Sun Valley Way, Okanagan-Similkameen D, BC, Canada	food, establishment	49.321374	-119.555079	49.321374	-119.555079
+http://www.celistawine.com	Celista Estate Winery	2319 Beguelin Rd, Celista, BC, Canada	food, establishment	50.958481	-119.331694	50.958481	-119.331694
+http://www.freshtap.com
+http://www.gulfescapes.com	Gulf Escape Vacations	323 Lower Ganges Rd, Saltspring Island, BC, Canada	travel_agency, establishment	48.859725	-123.50821	48.859725	-123.50821
+http://www.foodandwine.com	Food & Wine Magazine	1120 Avenue of the Americas, New York, NY, United States	establishment	40.755612	-73.983263	40.755612	-73.983263
+http://www.flavourtrails.com
+http://www.sumacridge.com	Sumac Ridge Estate Winery Ltd	HWY 97, Summerland, BC, Canada	food, establishment	49.619974	-119.681	49.619974	-119.681
+http://www.adventuresinbcwine.com
+http://www.savornw.com
+http://www.montecristomagazine.com	Montecristo Magazine	3055 Kingsway, Vancouver, BC, Canada	establishment	49.235897	-123.040649	49.235897	-123.040649
+http://www.renaissancewine.ca	Renaissance Wine Merchants Ltd	1135 Mason St, Victoria, BC, Canada	food, establishment	48.427604	-123.351348	48.427604	-123.351348
+http://www.longtabledistillery.com	Long Table Distillery	1451 Hornby St, Vancouver, BC, Canada	liquor_store, store, establishment	49.275845	-123.132539	49.275845	-123.132539
+http://www.vinoveritaswines.com
+http://www.networkadvertising.org	4INFO	155 Bovet Rd, San Mateo, CA, United States	establishment	37.549727	-122.31667	37.549727	-122.31667
+http://www.astudentofwine.blogspot.ca
+http://www.provenceyaletown.ca
+http://www.okanagancrushpad.com	Okanagan Crush Pad Winery	16576 Fosbery Rd, Summerland, BC, Canada	food, establishment	49.615723	-119.667418	49.615723	-119.667418
+http://www.quartettogelato.ca
+http://www.ponyespresso.ca
+http://www.oyamazipline.com	Oyama Zipline	5617 Oyama Lake Rd, Oyama, BC, Canada	establishment	50.090754	-119.346804	50.090754	-119.346804
+http://www.figmintrestaurant.com
+http://www.lixiere.com
+http://www.greatestatesofniagara.com
+http://www.mapquest.com	Harris Township Jr Baseball	Currant Rd, Granger, IN, United States	establishment	41.738933	-86.129733	41.738933	-86.129733
+http://www.urbanspoon.com	Eldorado Mexican Restaurant	102 2nd Ave, Coralville, IA, United States	restaurant, food, establishment	41.668761	-91.569111	41.668761	-91.569111
+http://www.flambecatering.com
+http://www.matticksfarm.com	Mattick's Farm	5325 Cordova Bay Rd, Victoria, BC, Canada	shopping_mall, establishment	48.529715	-123.37405	48.529715	-123.37405
+http://www.us2.campaign-archive2.com
+http://www.slga.gov.sk.ca
+http://www.blogs.canoe.ca
+http://www.westmyfriend.com
+http://www.shorerunners.com	Shorerunners Store Ltd	465 Merecroft Road, Campbell River, BC, Canada	shoe_store, store, establishment	49.999224	-125.246066	49.999224	-125.246066
+http://www.zestjapanese.com	Zest Japanese Cuisine	2775 W 16th Ave, Vancouver, BC, Canada	restaurant, food, establishment	49.257956	-123.16792	49.257956	-123.16792
+http://www.mccullochstation.ca
+http://www.guitarplayer.com	Stars & Catz School of Music	332-356 Main Western Rd, North Tamborine QLD, Australia	establishment	-27.953837	153.183814	-27.953837	153.183814
+http://www.bluemountainwinery.com	Blue Mountain Vineyard & Cellars	2385 Allendale Rd, Okanagan Falls, BC, Canada	food, establishment	49.313041	-119.531157	49.313041	-119.531157
+http://www.dockinn.ca	Dock Inn B&B	729 Traditions Crescent, Kelowna, BC, Canada	lodging, establishment	49.902641	-119.46473	49.902641	-119.46473
+http://www.lakecountryliquorstore.com	Lake Country Liquor Store	9522 Main St, Winfield, BC, Canada	liquor_store, store, establishment	50.020452	-119.405108	50.020452	-119.405108
+http://www.ofwa.ca
+http://www.winecellarsbc.com	Dunarave Wine Cellar	2448 Marine Dr, West Vancouver, BC, Canada	liquor_store, food, store, establishment	49.334422	-123.180672	49.334422	-123.180672
+http://www.fullhousepresents.com
+http://www.hotelgrandpacific.com	Hotel Grand Pacific	463 Belleville St, Victoria, BC, Canada	cafe, gym, restaurant, lodging, food, health, spa, establishment	48.420616	-123.372245	48.420616	-123.372245
+http://www.theflyingsteamshovel.com	The Flying Steamshovel Inn	2003 2 Ave, Rossland, BC, Canada	liquor_store, store, bar, restaurant, lodging, food, establishment	49.079344	-117.79972	49.079344	-117.79972
+http://www.laurelpoint.com	Inn at Laurel Point	680 Montreal St, Victoria, BC, Canada	lodging, establishment	48.423337	-123.376678	48.423337	-123.376678
+http://www.vitiwinelagers.com	Viti Wine and Lager Liquor Store	900 Seymour St, Vancouver, BC, Canada	liquor_store, store, establishment	49.279543	-123.120433	49.279543	-123.120433
+http://www.mikenierychlo.com
+http://www.artandcuisineadventures.com
+http://www.landmarkselections.homestead.com
+http://www.habitatsouthokanagan.ca
+http://www.kitsilanowinecellar.com
+http://www.albernidesign.ca8
+http://www.tickets.discovercomoxvalley.com
+http://www.artisanwineshop.ca	Mark Anthony Group Inc	1007 Government St, Victoria, BC, Canada	establishment	48.424454	-123.36778	48.424454	-123.36778
+http://www.visitpenticton.com
+http://www.everythingwine.ca	Everything Wine	998 Marine Dr, North Vancouver, BC, Canada	liquor_store, food, store, establishment	49.323868	-123.101692	49.323868	-123.101692
+http://www.acebakery.com	Ace Bakery	1 Hafis Rd, Toronto, ON, Canada	bakery, store, food, establishment	43.705665	-79.470444	43.705665	-79.470444
+http://www.bcwineguys.com	BC Wineguys VQA Wine Store	2579 Cadboro Bay Rd, Victoria, BC, Canada	liquor_store, store, establishment	48.437814	-123.31268	48.437814	-123.31268
+http://www.foodchannel.com	Food Channel	33 W Monroe St, Chicago, IL, United States	establishment	41.880579	-87.628899	41.880579	-87.628899
+http://www.bootsforcheapclearanceu.com
+http://www.toddrichard.ca
+http://www.cultured-dairy.com	Tree Island Gourmet Yogurt	3747 Island Hwy S, Courtenay, BC, Canada	food, establishment	49.652104	-124.958488	49.652104	-124.958488
+http://www.greatestatesniagara.com
+http://www.soscp.org
+http://www.vancouverislandbedbreakfast.com
+http://www.iconwinesbc.blogspot.com
+http://www.westwoodlake.com	Westwood Racquet Club	2367 Arbot, Nanaimo, BC, Canada	establishment	49.166738	-124.006859	49.166738	-124.006859
+http://www.wlwinepicks.wordpress.com
+http://www.origin.library.constantcontact.com
+http://www.discoverokanagantours.com	Discover Okanagan Tours	155 Old Vernon Rd, Kelowna, BC, Canada	food, travel_agency, establishment	49.918071	-119.385527	49.918071	-119.385527
+http://www.novopizzeria.com	Novo Pizzeria & Wine Bar	2118 Burrard St, Vancouver, BC, Canada	bar, restaurant, food, establishment	49.26669	-123.145492	49.26669	-123.145492
+http://www.finevintageltd.com	Fine Vintage Ltd.	555 Seymour St, Vancouver, BC, Canada	food, establishment	49.283315	-123.115158	49.283315	-123.115158
+http://www.allseasonscafe.com	All Seasons Cafe Inc	620 Herridge Ln, Nelson, BC, Canada	cafe, restaurant, food, establishment	49.492361	-117.291383	49.492361	-117.291383
+http://www.valueonliquor.com	Value on Liquor Store	Vancouver, BC, Canada	liquor_store, store, establishment	49.204281	-123.139721	49.204281	-123.139721
+http://www.venetodining.com	Veneto Tapa Lounge	1450 Douglas St, Victoria, BC, Canada	night_club, bar, restaurant, food, establishment	48.428074	-123.364781	48.428074	-123.364781
+http://www.scribd.com	Cottonwood Creek Baptist Church	1015 Sam Rayburn Tollway, Allen, TX, United States	church, place_of_worship, establishment	33.139261	-96.685207	33.139261	-96.685207
+http://www.carbreavineyard.com	Carbrea Vineyard & Winery	1885 Central Rd, Hornby Island, BC, Canada	food, establishment	49.539571	-124.689566	49.539571	-124.689566
+http://www.winnipegfreepress.com	Winnipeg Free Press	109S Dominique Dr, Springfield, MB, Canada	establishment	49.918807	-96.979327	49.918807	-96.979327
+http://www.exit170.ca	EXIT170 internet solutions	535 Quartz Crescent, Kelowna, BC, Canada	establishment	49.800253	-119.495336	49.800253	-119.495336
+http://www.kelownabandb.com	A View to Remember B&B - Kelowna	1090 Trevor Dr, Kelowna, BC, Canada	lodging, establishment	49.855689	-119.560448	49.855689	-119.560448
+http://www.elephantislandorchardrentals.ca
+http://www.pinnaclepierhotel.com	Pinnacle Hotel at the Pier	138 Victory Ship Way, North Vancouver, BC, Canada	lodging, establishment	49.310918	-123.079357	49.310918	-123.079357
+http://www.thewellnanaimo.com	Wellington Hotel	3956 Victoria Ave, Nanaimo, BC, Canada	bar, lodging, establishment	49.207619	-124.014537	49.207619	-124.014537
+http://www.seymourgolf.com	Seymour Golf & Country Club	3723 Mt Seymour Pkwy, North Vancouver, BC, Canada	establishment	49.315805	-122.967653	49.315805	-122.967653
+http://www.discoverwines.com	Discover Wines LTD	2080 Springfield Rd C, Kelowna, BC, Canada	food, establishment	49.877381	-119.445779	49.877381	-119.445779
+http://www.hillsideliquorstore.com	Hillside Liquor Store	3201 Shelbourne St, Victoria, BC, Canada	liquor_store, store, establishment	48.448336	-123.332869	48.448336	-123.332869
+http://www.theprovince.com	Ruttan Bates	Suite 1210-633 6 Ave SW, Calgary, AB, Canada	lawyer, establishment	51.047683	-114.075488	51.047683	-114.075488
+http://www.westcoastliquor.com	West Coast Liquor Co	6295 Fraser St, Vancouver, BC, Canada	liquor_store, store, establishment	49.227524	-123.090866	49.227524	-123.090866
+http://www.bcwineinfo.net
+http://www.okanaganoasis.com	Okanagan Oasis B&B	5807 Atkinson Crescent, Peachland, BC, Canada	lodging, establishment	49.773497	-119.741972	49.773497	-119.741972
+http://www.deltahotels.com	Delta Saguenay Hotel and Conference Centre	2675 Royaume Blvd, Saguenay, QC, Canada	lodging, establishment	48.403132	-71.171684	48.403132	-71.171684
+http://www.hornbyisland.net	Woodwind Farm Cottage	1150 Central Rd, Hornby Island, BC, Canada	lodging, establishment	49.539451	-124.700152	49.539451	-124.700152
+http://www.bridgemansbistro.com
+http://www.marquesderiscal.com	Marqués De Riscal	Torrea, 1, Elciego, Álava, Spain	food, establishment	42.51118	-2.618126	42.51118	-2.618126
+http://www.chefdez.com
+http://www.buffys.ca	Buffy's Pub and Liquor Store	6858 W Coast Rd, Sooke, BC, Canada	liquor_store, store, bar, establishment	48.370167	-123.728879	48.370167	-123.728879
+http://www.aunaray.com
+http://www.macleans.ca
+http://www.crushbistro.com	Crush Bistro	3024 30th Ave, Vernon, BC, Canada	bar, restaurant, food, establishment	50.263664	-119.271971	50.263664	-119.271971
+http://www.salmonhouse.com	The Salmon House	2229 Folkestone Way, West Vancouver, BC, Canada	night_club, bar, restaurant, food, establishment	49.344811	-123.174247	49.344811	-123.174247
+http://www.spinnakers.com	Spinnakers Guesthouses	308 Catherine St, Victoria, BC, Canada	lodging, establishment	48.429214	-123.385036	48.429214	-123.385036
+http://www.blogs.calgaryherald.com
+http://www.addthis.com	AddThis	1595 Spring Hill Rd #300, Vienna, VA, United States	establishment	38.926172	-77.245195	38.926172	-77.245195
+http://www.winespectator.com	Wine Spectator	387 Park Ave S #8, New York, NY, United States	establishment	40.742668	-73.983998	40.742668	-73.983998
+http://www.gourmetpicnic.ca
+http://www.finecooking.com	(주)바이텀	308-4, Seongsu-dong 2(i)-ga, Seongdong-gu, Seoul, South Korea	establishment	37.542462	127.052043	37.542462	127.052043
+http://www.avistavilla.com	A Vista Villa Couples Resort	962 Ryder Dr, Kelowna, BC, Canada	lodging, establishment	49.89836	-119.444381	49.89836	-119.444381
+http://www.avenuebistro.ca	Avenue Bistro	2064 Comox Ave, Comox, BC, Canada	restaurant, food, establishment	49.675995	-124.938171	49.675995	-124.938171
+http://www.sipnorthwest.com
+http://www.squarespace.com	Squarespace	459 Broadway, New York, NY, United States	establishment	40.720916	-74.000972	40.720916	-74.000972
+http://www.kerrywaghorn.com
+http://www.vancourier.com	The Vancouver Courier	1574 W 6th, Vancouver, BC, Canada	establishment	49.265995	-123.14027	49.265995	-123.14027
+http://www.summerlandresorthotel.com	Summerland Waterfront Resort & Spa	13011 Lakeshore Dr S, Summerland, BC, Canada	lodging, spa, health, establishment	49.601413	-119.65321	49.601413	-119.65321
+http://www.chanceskelowna.ca	Chances Gaming Entertainment	1585 Springfield Rd, Kelowna, BC, Canada	casino, establishment	49.876721	-119.464112	49.876721	-119.464112
+http://www.garagistenorth.com	Revue le Garagiste	Revue le Garagiste, 2938 de la Terrasse-abénaquis Rue, Longueuil, QC J4M, Canada	point_of_interest, establishment	45.537151	-73.446466	45.537151	-73.446466
+http://www.en.wikipedia.org	Dr. Neil A. Ahner, MD	10333 N Military Trail, Palm Beach Gardens, FL, United States	doctor, health, establishment	26.829794	-80.105668	26.829794	-80.105668
+http://www.imaginethatgraphics.ca	Imagine That Graphics	158 Eagleridge Drive, Salt Spring Island, BC, Canada	store, establishment	48.862079	-123.487436	48.862079	-123.487436
+http://www.wufoo.com	Pctechph	Villa Olympia, San Vicente, San Pedro, Laguna, Philippines	establishment	14.35231	121.044981	14.35231	121.044981
+http://www.aglc.ca	Alberta Gaming and Liquor Commission	50 Corriveau Ave, St Albert, AB, Canada	police, establishment	53.642448	-113.569226	53.642448	-113.569226
+http://www.liquormartsonline.com	MLCC	1146 Waverley St, Fort Garry, MB, Canada	liquor_store, store, establishment	49.835573	-97.179697	49.835573	-97.179697
+http://www.donfrancesco.ca	Francesco's Ristorante Italia	860 Burrard St, Vancouver, BC, Canada	restaurant, food, establishment	49.282564	-123.123638	49.282564	-123.123638
+http://www.oakbayliquor.com	Penny Farthing Spirit Merchants	Suite 118-2187 Oak Bay Ave, Victoria, BC, Canada	liquor_store, store, establishment	48.426533	-123.316803	48.426533	-123.316803
+http://www.whitespot.com	White Spot Richmond (Ackroyd)	5880 Number 3 Rd, Richmond, BC, Canada	restaurant, food, establishment	49.171927	-123.136489	49.171927	-123.136489
+http://www.thewinewarehouse.ca	The Wine Warehouse	12-1231 36 Ave NE, Calgary, AB, Canada	food, store, establishment	51.085074	-114.03193	51.085074	-114.03193
+http://www.whatcomwineandspirits.com	Whatcom Wine & Spirits	1900 N Parallel Rd, Abbotsford, BC, Canada	liquor_store, store, establishment	49.036257	-122.231155	49.036257	-122.231155
+http://www.ancienthistory.about.com	Arab Student Aid International	5910 Wilcox Pl, Dublin, OH, United States	finance, establishment	40.094124	-83.151368	40.094124	-83.151368
+http://www.saltspringliquorstore.com
+http://www.rawcanvas.com	Raw Canvas	1046 Hamilton St, Vancouver, BC, Canada	restaurant, art_gallery, food, establishment	49.276448	-123.120209	49.276448	-123.120209
+http://www.owfa.ca
+http://www.enologyinternational.com
+http://www.rhysalbrecht.com	Rhys Albrecht - Kelowna Wedding Photographer	Kelowna, BC, Canada	establishment	49.861258	-119.586378	49.861258	-119.586378
+http://www.villagegreenliquorstore.com	Village Green Liquor Store	4900 24 St, Vernon, BC, Canada	liquor_store, food, store, establishment	50.283087	-119.264016	50.283087	-119.264016
+http://www.sharonleonardartist.com
+http://www.bcrfa.com	BC Restaurant & Foodservices Association	2246 Spruce St #2, Vancouver, BC, Canada	establishment	49.276938	-123.122621	49.276938	-123.122621
+http://www.technorati.com	Technorati	360 Post St, San Francisco, CA, United States	establishment	37.78854	-122.407745	37.78854	-122.407745
+http://www.kirkwalker.ca
+http://www.meltingpot.com	The Melting Pot	1025 SW 6th Ave, Portland, OR, United States	restaurant, food, establishment	45.5164	-122.67929	45.5164	-122.67929
+http://www.973theeagle.com	C K L R (The Eagle) 97.3 FM Radio - Contest & News Line	582 S Dogwood St, Campbell River, BC, Canada	establishment	49.996685	-125.247825	49.996685	-125.247825
+http://www.friendspub.ca	friends Pub and Liquor Store	2210 Boucherie Rd, Kelowna, BC, Canada	liquor_store, store, bar, restaurant, food, establishment	49.873093	-119.544918	49.873093	-119.544918
+http://www.archive.constantcontact.com
+http://www.gydesign.com	GYDesign	7468 Springbank Way SW, Calgary, AB, Canada	establishment	51.019889	-114.192257	51.019889	-114.192257
+http://www.recline-ridge.bc.ca	Recline Ridge Vineyards & Winery Ltd	2640 Skimikin Lake Rd, Tappen, BC, Canada	liquor_store, food, store, establishment	50.801443	-119.368657	50.801443	-119.368657
+http://www.bctravel.com	Tir Na NOg Wedding Bed and Breakfasts	1523 Winslow Dr, Sooke, BC, Canada	lodging, establishment	48.483668	-123.900941	48.483668	-123.900941
+http://www.m.theglobeandmail.com
+http://www.nkmipcellars.com	NK'MIP Cellars	1400 Rancher Creek Rd, Osoyoos, BC, Canada	food, establishment	49.038372	-119.433616	49.038372	-119.433616
+http://www.sunwinecritic.com
+http://www.wopn.com	World of Pinot Noir	151 W Branch St # D, Arroyo Grande, CA, United States	establishment	35.122536	-120.580742	35.122536	-120.580742
+http://www.hilltimes.com	The Hill Times Publishing	69 Sparks St, Ottawa, ON, Canada	establishment	45.422522	-75.69846	45.422522	-75.69846
+http://www.kevintrowbridge.com	Kevin Trowbridge photography	Kelowna, BC, Canada	establishment	49.794655	-119.519842	49.794655	-119.519842
+http://www.onlinedigeditions.com
+http://www.bbs.yingsheng.net
+http://www.premiumseating.calgarystampede.com
+http://www.blackforestrestaurant.com	Black Forest Steak & Schnitzel House	540 Hwy 93 & 95, Invermere, BC, Canada	restaurant, food, establishment	50.514777	-115.99685	50.514777	-115.99685
+http://www.storeconference.ca
+http://www.windsorsquare.ca
+http://www.mountwashington.ca	Mount Washington Alpine Resort	1 Strathcona Pkwy, Mt Washington, BC, Canada	lodging, establishment	49.741225	-125.303446	49.741225	-125.303446
+http://www.crownmansion.com	Crown Mansion Boutique Hotel & Villas	292 Crescent Rd E, Qualicum Beach, BC, Canada	restaurant, lodging, food, establishment	49.354335	-124.433759	49.354335	-124.433759
+http://www.dannydavies.ca
+http://www.humehotel.com	Hume Hotel	422 Vernon St, Nelson, BC, Canada	lodging, establishment	49.492354	-117.294808	49.492354	-117.294808
+http://www.cookstliquor.com
+http://www.ev6.evenue.net
+http://www.sunset.com	Sunset Publishing Corporation	80 Willow Rd, Menlo Park, CA, United States	establishment	37.453711	-122.163808	37.453711	-122.163808
+http://www.alexandriahousebandb.com	Alexandria House Bed & Breakfast	2462 Alexandria Way, West Kelowna, BC, Canada	lodging, establishment	49.854647	-119.619497	49.854647	-119.619497
+http://www.tracksoutdooradventures.com
+http://www.channelnoir.com
+http://www.=	Le Méridien Beach Plaza Hotel	22 Avenue Princesse Grace, Monaco, France	restaurant, lodging, food, establishment	43.748381	7.435855	43.748381	7.435855
+http://www.us7.campaign-archive2.com
+http://www.larchhillswinery.com	Larch Hills Winery	110 Timms Rd, North Okanagan, Subd. A, BC, Canada	food, establishment	50.652607	-119.17676	50.652607	-119.17676
+http://www.vancouverislandlabyrinths.com
+http://www.kempinski.com	Kempinski Seychelles Resort	Mahe, Seychelles	lodging, establishment	-4.755815	55.475721	-4.755815	55.475721
+http://www.mayoclinic.org	Mayo Clinic: Southpoint	4500 San Pablo Rd S, Jacksonville, FL, United States	health, establishment	30.264422	-81.442752	30.264422	-81.442752
+http://www.biv.com	Business in Vancouver	102 E 4th Ave, Vancouver, BC, Canada	establishment	49.267267	-123.102663	49.267267	-123.102663
+http://www.hornby-blues.bc.ca
+http://www.csekcreative.com	Csek Creative	1441 Ellis St, Kelowna, BC, Canada	establishment	49.887929	-119.493516	49.887929	-119.493516
+http://www.movingpixel.ca	Moving Pixel Productions	Gordon Trail, Kelowna, BC, Canada	establishment	49.880954	-119.475728	49.880954	-119.475728
+http://www.bbxx-uploads-usw2.s3.amazonaws.com
+http://www.marquis-wines.com	Marquis Wines & Spirits	29 Birch Hill Rd, Locust Valley, NY, United States	liquor_store, store, establishment	40.875648	-73.597273	40.875648	-73.597273
+http://www.maps.google.com	Smithsonian National Air and Space Museum	600 Independence Ave SW, Washington, DC, United States	museum, establishment	38.88816	-77.019868	38.88816	-77.019868
+http://www.agf.gov.bc.ca	Comox Valley Land Trust	2356 Rosewall Crescent, Courtenay, BC, Canada	establishment	49.670924	-124.998496	49.670924	-124.998496
+http://www.winequest.ca
+http://www.ohares.ca	O'Hares Pub & Liquor Store	5031 Steveston Hwy, Richmond, BC, Canada	bar, establishment	49.133813	-123.16916	49.133813	-123.16916
+http://www.kingfisherspub.com	Kingfishers Waterfront Bar & Grill	23840 River Rd, Maple Ridge, BC, Canada	bar, restaurant, food, establishment	49.183075	-122.560696	49.183075	-122.560696
+http://www.worldatlasofwine.com
+http://www.unionjacknews.com
+http://www.helpdesk.islandnet.com
+http://www.suttonplacewinemerchant.com	Sutton Place Wine Merchant	855 Burrard St, Vancouver, BC, Canada	liquor_store, food, store, establishment	49.282255	-123.124406	49.282255	-123.124406
+http://www.bwwines.com	B & w Wines	1179 King W, Toronto, ON, Canada	liquor_store, store, establishment	43.639347	-79.425146	43.639347	-79.425146
+http://www.janisblyth.com
+http://www.spiritridge.ca	Spirit Ridge Vineyard Resort & Spa	1200 Rancher Creek Rd, Osoyoos, BC, Canada	restaurant, lodging, food, spa, health, establishment	49.040895	-119.434408	49.040895	-119.434408
+http://www.theideasengine.com
+http://www.terrafinarestaurant.com	Terrafina at Hester Creek	887, Road 8, Oliver, BC, Canada	restaurant, food, establishment	49.142504	-119.595618	49.142504	-119.595618
+http://www.jacksontriggswinery.com	Jackson-Triggs Niagara Estate Amphitheatre	2145 Niagara Stone Rd, Niagara-on-the-Lake, ON, Canada	establishment	43.243481	-79.089772	43.243481	-79.089772
+http://www.saltspringstudiotour.com
+http://www.vancouverisland.com	Pioneer Inn	8405 Byng Rd, Port Hardy, BC, Canada	lodging, establishment	50.688957	-127.487597	50.688957	-127.487597
+http://www.tastebc.wordpress.com
+http://www.kgcc.bc.ca	Kelowna Golf & Country Club	1297 Glenmore Rd, Kelowna, BC, Canada	store, establishment	49.89128	-119.453173	49.89128	-119.453173
+http://www.torontosun.com	Toronto Sun	333 King St E, Toronto, ON, Canada	establishment	43.651642	-79.365948	43.651642	-79.365948
+http://www.sooke.org	Sooke Community Hall	2037 Shields Rd, Sooke, BC, Canada	establishment	48.3773	-123.725374	48.3773	-123.725374
+http://www.childrenshospital.ab.ca	Redline Interactive Ltd.	5940 Macleod Trail SW, Calgary, AB, Canada	establishment	51.000427	-114.070239	51.000427	-114.070239
+http://www.feeds2.feedburner.com
+http://www.durrell.bigfolioblog.com
+http://www.modernluxury.com	Modern Luxury	200 W Hubbard St, Chicago, IL, United States	establishment	41.890076	-87.634261	41.890076	-87.634261
+http://www.vancouverisawesome.com
+http://www.whitedragon.org.uk
+http://www.butchartgardens.com	The Butchart Gardens	800 Benvenuto Ave, Brentwood Bay, BC, Canada	park, establishment	48.563576	-123.470626	48.563576	-123.470626
+http://www.fraicherestaurant.ca
+http://www.thevibrantvine.com
+http://www.farmsgatefoods.ca
+http://www.savvycompany.ca	Savvis	151 O'Connor, Ottawa, ON, Canada	liquor_store, store, establishment	45.41898	-75.696742	45.41898	-75.696742
+http://www.wineislands.ca
+http://www.freshstartedibles.com
+http://www.chateaulouis.com	Chateau Louis Hotel & Conference Centre	11727 Kingsway NW, Edmonton, AB, Canada	lodging, establishment	53.566151	-113.521846	53.566151	-113.521846
+http://www.berezanhg.com	Berezan LRS Langley	19665 Willowbrook Dr, Langley, BC, Canada	liquor_store, store, establishment	49.114017	-122.678985	49.114017	-122.678985
+http://www.greatestatesokanagan.com	Monashee Adventure Tours	1591 Highland Dr N, Kelowna, BC, Canada	travel_agency, establishment	49.891024	-119.463012	49.891024	-119.463012
+http://www.marinarestaurant.com	Marina Restaurant	1327 Beach Dr, Victoria, BC, Canada	restaurant, food, establishment	48.423641	-123.30327	48.423641	-123.30327
+http://www.cowichanvalleyinn.com	C V Station Neighbourhood Pub	6474 Trans-Canada Hwy, Duncan, BC, Canada	bar, establishment	48.805132	-123.717009	48.805132	-123.717009
+http://www.digg.com	Hyderabad SEO Expert - Hyderabad SEO Services Company India	1-8-566, RTC Cross Rd, Zamistanpur, Hyderabad, Telangana, India	establishment	17.406666	78.495222	17.406666	78.495222
+http://www.avenuecalgary.com
+http://www.cuttingedgeconcepts.ca	Cutting Edge Concepts	437 Glenmore Rd #105, Kelowna, BC, Canada	establishment	49.888663	-119.491413	49.888663	-119.491413
+http://www.mnchorale.org	RUDY'S PLUMBING	836 W Cherry St, Compton, CA, United States	store, plumber, establishment	33.903862	-118.239678	33.903862	-118.239678
+http://www.artisanedibles.com
+http://www.pellericewine.com
+http://www.vancouverislandwinetours.com
+http://www.decanter.com	Decanter Vinhos Finos	Avenida Brasil, 630 - Ponta Aguda, Blumenau - SC, Brasil	liquor_store, food, store, bar, establishment	-26.915386	-49.064971	-26.915386	-49.064971
+http://www.ebay.ca	West York Jewellers & Engravers	1619 Eglinton W, York, ON, Canada	jewelry_store, store, establishment	43.69684	-79.446168	43.69684	-79.446168
+http://www.wineshout.com
+http://www.alpine-air.com	Alpine Aviation Inc	1177 Alpine Air Way, Provo, UT, United States	establishment	40.218579	-111.718321	40.218579	-111.718321
+http://www.mon.channelnoir.com
+http://www.tumblr.com	Tumblr Inc.	35 East 21st Street, 6th Floor, E 21st St, Flatiron District, NY, United States	establishment	40.739309	-73.988617	40.739309	-73.988617
+http://www.spca.bc.ca	BC SPCA	3785 Casorso Rd, Kelowna, BC, Canada	establishment	49.849641	-119.470508	49.849641	-119.470508
+http://www.joefortes.ca	Joe Fortes Seafood & Chop House	777 Thurlow St, Vancouver, BC, Canada	restaurant, food, establishment	49.285023	-123.124495	49.285023	-123.124495
+http://www.edgemontvillagewines.com	Edgemont Village Wines	3050 Edgemont Blvd, North Vancouver, BC, Canada	liquor_store, food, store, establishment	49.337131	-123.10115	49.337131	-123.10115
+http://www.winebusiness.com	Fall Bright Wine Makers Shoppe	10110 Hyatt Hill Rd, Dundee, NY, United States	food, store, establishment	42.488353	-77.113868	42.488353	-77.113868
+http://www.selectyourtickets.com	Paul Mercs Concerts	Suite 200-3355 Broadway W, Vancouver, BC, Canada	establishment	49.264279	-123.179082	49.264279	-123.179082
+http://www.montrealgazette.com	The Gazette	Suite 200, 1010 St Catherine St W, Montreal, QC, Canada	establishment	45.500297	-73.572426	45.500297	-73.572426
+http://www.fairmont.com	Fairmont	805 3rd Ave, New York, United States	lodging, establishment	40.755368	-73.970481	40.755368	-73.970481
+http://www.vanfoodies.com
+http://www.whiterockfarmersmarket.ca	White Rock Farmer's Market	15154 Russel Ave, White Rock, BC, Canada	food, establishment	49.028986	-122.802343	49.028986	-122.802343
+http://www.thethirdglass.org
+http://www.bbbslangley.com	Big Brothers Big Sisters of Langley	Suite 201-20538 Fraser Hwy, Langley, BC, Canada	establishment	49.103886	-122.653296	49.103886	-122.653296
+http://www.caramoomel.com	Caramoomel Natural Fine Food Creations	2105 Morrison Rd, Kelowna, BC, Canada	grocery_or_supermarket, food, store, establishment	49.918128	-119.369725	49.918128	-119.369725
+http://www.naramatainn.com	Naramata Heritage Inn & Spa	3625 1 St, Naramata, BC, Canada	bar, restaurant, lodging, food, spa, health, establishment	49.597352	-119.603119	49.597352	-119.603119
+http://www.grousemountain.com	Grouse Mountain	6400 Nancy Greene Way, North Vancouver, BC, Canada	store, park, establishment	49.372289	-123.099487	49.372289	-123.099487
+http://www.chezpanisse.com	Chez Panisse	1517 Shattuck Ave, Berkeley, CA, United States	restaurant, food, establishment	37.879614	-122.26886	37.879614	-122.26886
+http://www.salttastingroom.com	Salt Tasting Room	45 Blood Alley Square, Vancouver, BC, Canada	restaurant, food, establishment	49.283253	-123.105614	49.283253	-123.105614
+http://www.quailsgate.com	Quail's Gate Estate Winery	3303 Boucherie Rd, West Kelowna, BC, Canada	food, establishment	49.843482	-119.56609	49.843482	-119.56609
+http://www.dotcommediainc.com	DotCom Media Inc.	1441 Ellis St #206, Kelowna, BC, Canada	establishment	49.887347	-119.493366	49.887347	-119.493366
+http://www.mustangpowder.com	Mustang Powder	BC, Canada	establishment	51.174709	-118.714426	51.174709	-118.714426
+http://www.sonoranestate.3dcartstores.com
+http://www.belgardkitchen.com
+http://www.oliverosoyoos.com
+http://www.bovwine.ca	Burrowing Owl Estate Winery Ltd	500 Burrowing Owl Pl, Oliver, BC, Canada	liquor_store, store, restaurant, food, establishment	49.101317	-119.533248	49.101317	-119.533248
+http://www.google.ca	Celtic Reflections	1523 Winslow Dr, Sooke, BC, Canada	establishment	48.365833	-123.686786	48.365833	-123.686786
+http://www.vinesmag.wordpress.com
+http://www.tonybennett.com	Benedetto Arts LLC	48 W 10th St # B, New York, NY, United States	establishment	40.734252	-73.99764	40.734252	-73.99764
+http://www.mfvwines.us5.list-manage.com
+http://www.bcvqawine.ca
+http://www.kisconsulting.ca
+http://www.denmanplacewines.com	Denman's Wine & Spirits	1033 Denman St #111A, Vancouver, BC, Canada	liquor_store, food, store, bar, establishment	49.288639	-123.139542	49.288639	-123.139542
+http://www.tourismrossland.com	Tourism Rossland	1960 Columbia Ave, Rossland, BC, Canada	establishment	49.077177	-117.800979	49.077177	-117.800979
+http://www.lakeshorebb.ca	Lakeshore Bed and Breakfast	4186 Lakeshore Rd, Kelowna, BC, Canada	lodging, establishment	49.832857	-119.487062	49.832857	-119.487062
+http://www.itunes.apple.com	Fuerza / Strength Rekords	2090 Sussex Rd, Winter Park, FL, United States	establishment	28.619167	-81.319207	28.619167	-81.319207
+http://www. http	http://www.colingdale	http://www.colingdale, New Jersey, NJ 07104, USA	point_of_interest, amusement_park, establishment	40.766299	-74.160158	40.766299	-74.160158
+http://www.aidanmayesandmandycole.com
+http://www.portmoodyliquor.com	Jake's Crossing Liquor Store	Jake's Crossing Liquor Store, 2414 St Johns St, Port Moody, BC V3H, Canada	liquor_store, store, point_of_interest, establishment	49.2768679	-122.8574114	49.2768679	-122.8574114
+http://www.madisoncountyne.com	GOA Computer Repair Services	7115 Reseda Blvd, Reseda, CA, United States	establishment	34.199688	-118.53621	34.199688	-118.53621
+http://www.bpdr.com	Baron Philippe de Rothschild	27 Rue de la Ville-l'Évêque, Paris, France	food, establishment	48.871837	2.319011	48.871837	2.319011
+http://www.globetapas.com
+http://www.phgsecure.com	The Hotel at River Rock	8811 River Road, Richmond, BC, Canada	lodging, establishment	49.196123	-123.126298	49.196123	-123.126298
+http://www.ctvbc.ctv.ca	CTV British Columbia	750 Burrard St #300, Vancouver, BC, Canada	establishment	49.283517	-123.122207	49.283517	-123.122207
+http://www.terroirwineandspirits.com
+http://www.hoteldonatz.ch	Hotel Donatz	Plazzet 15, Samedan, Schweiz	lodging, establishment	46.535102	9.87169	46.535102	9.87169
+http://www.shaughnessyrestaurant.com	Shaughnessy Restaurant	5251 Oak St, Vancouver, BC, Canada	restaurant, food, establishment	49.238556	-123.128722	49.238556	-123.128722
+http://www.gov.bc.ca	Beer & More To Your Door	PO Box 39064 RPO James Bay, Victoria, BC, Canada	establishment	48.442928	-123.369493	48.442928	-123.369493
+http://www.hillebrand.com	Trius Winery at Hillebrand	1249 Niagara Stone Rd, Niagara-on-the-Lake, ON, Canada	restaurant, food, establishment	43.212028	-79.134806	43.212028	-79.134806
+http://www.bearmountain.ca	The Westin Bear Mountain Golf Resort & Spa, Victoria	1999 Country Club Way, Victoria, BC, Canada	lodging, establishment	48.474704	-123.532838	48.474704	-123.532838
+http://www.bitcoin.org	Hostedmining	8428 17th Ave SW, Seattle, WA, United States	electronics_store, store, establishment	47.527398	-122.356137	47.527398	-122.356137
+http://www.cafeilnido.ca	Il Nido Inventive Italian Dining	780 Thurlow St, Vancouver, BC, Canada	restaurant, food, establishment	49.284808	-123.124376	49.284808	-123.124376
+http://www.feastoffields.com	Amelia Oil	1060 Clyde Ave, West Vancouver, BC, Canada	establishment	49.328478	-123.145881	49.328478	-123.145881
+http://www.vanmag.com
+http://www.andreajohnsonphotography.com
+http://www.secure.lenos.com
+http://www.psychologytoday.com	Psychology Today	115 E 23rd St, New York, NY, United States	health, establishment	40.740033	-73.985611	40.740033	-73.985611
+http://www.boneta.ca
+http://www.sunshinefarms.net
+http://www.thehopelessromanticbandb.com	The Hopeless Romantic Bed and Breakfast-Kelowna	735 Lone Pine Dr, Kelowna, BC, Canada	lodging, establishment	49.880208	-119.363632	49.880208	-119.363632
+http://www.theacornrestaurant.ca	The Acorn Restaurant	E 24th Ave, Vancouver, BC, Canada	restaurant, food, establishment	49.249564	-123.101173	49.249564	-123.101173
+http://www.en.bitcoin.it
+http://www.myvirtualpaper.com	Virtual Paper	1010 de Serigny #202, Longueuil, QC, Canada	establishment	45.523419	-73.522859	45.523419	-73.522859
+http://www.hedonism.co.uk	Hedonism Wines	3-7 Davies St, London, United Kingdom	liquor_store, food, store, establishment	51.510797	-0.147621	51.510797	-0.147621
+http://www.cjonwine.blogspot.ca
+http://www.abitofcountry.ca	A Bit of Country - Vernon Vacation Rentals	4523 Briggs Rd, Vernon, BC, Canada	real_estate_agency, travel_agency, lodging, establishment	50.276134	-119.215672	50.276134	-119.215672
+http://www.jameschatto.com
+http://www.nkmipcellarscom
+http://www.mailchimp.com	E-Roots Consulting	274 S 3rd St, Columbus, OH, United States	establishment	39.956791	-82.996501	39.956791	-82.996501
+http://www.peilcc.ca	Prince Edward Island Liquor Control Commission	355 University Ave, Charlottetown, PE, Canada	liquor_store, store, establishment	46.242887	-63.134413	46.242887	-63.134413
+http://www.aircanada.ca	Air Canada Cargo	612 N McDonnell Rd, San Francisco, CA, United States	establishment	37.62055	-122.398873	37.62055	-122.398873
+http://www.ironman.ca
+http://www.manteo.com	Manteo Resort Waterfront Hotel & Villas	3762 Lakeshore Rd, Kelowna, BC, Canada	lodging, establishment	49.847197	-119.488382	49.847197	-119.488382
+http://www.twoeaglesgolf.com	Two Eagles Golf Course	3509 Carrington Rd, Westbank, BC, Canada	establishment	49.838425	-119.607038	49.838425	-119.607038
+http://www.maps.google.ca	Brulerie St-Roch	375 Saint-Joseph E St, Quebec City, QC, Canada	cafe, food, establishment	46.813891	-71.225382	46.813891	-71.225382
+http://www.laurieharrisdesign.com	Laurie Harris Design	2658 Ernhill Dr, Victoria, BC, Canada	establishment	48.431362	-123.52054	48.431362	-123.52054
+http://www.kghfoundation.com
+http://www.lovefeatherandbone.com
+http://www.wineandwhatever.com
+http://www.paulchristopherfilms.ca
+http://www.demo.tdwp.us
+http://www.splashinteractive.com	Splash Interactive Ltd.	33 Bloor St E #1103, Toronto, ON, Canada	establishment	43.670314	-79.38555	43.670314	-79.38555
+http://www.rosslyninnandsuites.com	Rosslyn Inn & Suites Hotels Edmonton	13620 97 St NW, Edmonton, AB, Canada	lodging, establishment	53.597646	-113.492282	53.597646	-113.492282
+http://www.heb-ra.de
+http://www.macromedia.com	당감종합사회복지관	818-220 Danggam 3(sam)-dong, Busanjin-gu, Busan, South Korea	establishment	35.162278	129.036673	35.162278	129.036673
+http://www.twitter.com	Specialty Boards	610 Canal Dr, Carolina Beach, NC, United States	establishment	34.258583	-77.862183	34.258583	-77.862183
+http://www.cssawards.net	Au petit Panisse	35 rue de Montreuil, 35 Rue de Montreuil, Paris, France	restaurant, food, establishment	48.850498	2.386638	48.850498	2.386638
+http://www.thegrapedevine.ca
+http://www.wix.com	Wix	Nemal Tel Aviv St 40, Israel	establishment	32.097824	34.77412	32.097824	34.77412
+http://www.dropbox.com	Dropbox Inc	185 Berry Street, San Francisco, CA, United States	establishment	37.776399	-122.391924	37.776399	-122.391924
+http://www.sanfrancisco.cbslocal.com	KPIX-TV	855 Battery St, San Francisco, CA, United States	establishment	37.799067	-122.401584	37.799067	-122.401584
+http://www.kanadischeweine.ch
+http://www.amusebistro.com	Amusé on the Vineyard	2915 Cameron Taggart Rd, Cowichan Valley B, BC, Canada	restaurant, food, establishment	48.660814	-123.587175	48.660814	-123.587175
+http://www.mixx.com	Mixx Communication	Bansions 17, Belgique	establishment	50.526865	5.889964	50.526865	5.889964
+http://www.cittabistro.com	Bistro	Bistro, Bosnia and Herzegovina	locality, political	44.1086	17.6611	44.1086	17.6611
+http://www.catch22media.com
+http://www.docksidevancouver.com	Dockside Restaurant & Brewing Company	1253 Johnston St, Vancouver, BC, Canada	night_club, bar, restaurant, food, establishment	49.269402	-123.13138	49.269402	-123.13138
+http://www.vwm-online.com	Vineyard & Winery Management	421 E St, Santa Rosa, CA, United States	food, establishment	38.443175	-122.711799	38.443175	-122.711799
+http://www.woodviewbedandbreakfast.com	Woodview Bed and Breakfast	2962 Roozendaal Road, Cowichan Valley B, BC, Canada	lodging, establishment	48.662637	-123.629515	48.662637	-123.629515
+http://www.okanaganwines.ca
+http://www.leannarto.com
+http://www.calgarycoopliquor.com	Calgary Co-op Wines & Spirits	39 Crowfoot Way NW, Calgary, AB, Canada	liquor_store, store, establishment	51.12457	-114.200603	51.12457	-114.200603
+http://www.beachclubbc.com	The Beach Club Resort	181 Beachside Dr, Parksville, BC, Canada	lodging, establishment	49.322023	-124.314886	49.322023	-124.314886
+http://www.ensemblerestaurant.com
+http://www.t.co	www.t-shirt.co.th	74/82 ม.4 ซ.เรวดี 11 ถนนติวานนท์ ต.ตลาดขวัญ อ.เมือง นนทบุรี ไทย	establishment	13.856705	100.511737	13.856705	100.511737
+http://www.sportsstay.com
+http://www.okanagangrocery.com	Okanagan Grocery Artisan Breads	2355 Gordon Dr, Kelowna, BC, Canada	bakery, grocery_or_supermarket, store, food, establishment	49.871519	-119.475259	49.871519	-119.475259
+http://www.lukeliable.com
+http://www.nkmip.com	NK'MIP Resort	8000 45 St, Osoyoos, BC, Canada	lodging, establishment	49.037955	-119.437757	49.037955	-119.437757
+http://www.cuchillo.ca	Cuchillo	261 Powell St, Vancouver, BC, Canada	restaurant, food, establishment	49.28331	-123.099123	49.28331	-123.099123
+http://www.pioneerhouserestaurant.com	Pioneer House Restaurant	4675 Trans-Canada Hwy, Cowichan Valley, BC, Canada	restaurant, food, establishment	48.738323	-123.651101	48.738323	-123.651101
+http://www.vancouverfoodandwine.wordpress.com
+http://www.lesfauxbourgeois.com	Les Faux Bourgeois	663 E 15th Ave, Vancouver, BC, Canada	restaurant, food, establishment	49.257263	-123.089592	49.257263	-123.089592
+http://www.rn12.ultipro.com
+http://www.courierislander.com	Campbell River Courier Islander	1040 Cedar St, Campbell River, BC, Canada	establishment	50.025285	-125.247016	50.025285	-125.247016
+http://www.volcanichillswinery.us5.list-manage1.com
+http://www.justgrapeswine.com
+http://www.gov.sk.ca	Gull Lake Campground	Gull Lake, SK, Canada	campground, park, lodging, establishment	50.097294	-108.476579	50.097294	-108.476579
+http://www.epa.gov	Environmental Protection Agency	1200 6th Ave, Seattle, WA, United States	establishment	47.609022	-122.332144	47.609022	-122.332144
+http://www.slowfood.ca
+http://www.extremerunners.com	Extreme Runners	436 5 St, Courtenay, BC, Canada	shoe_store, clothing_store, store, establishment	49.690256	-125.000514	49.690256	-125.000514
+http://www.routesgrill.com	Routes Grill	British Columbia 97, Winfield, BC, Canada	restaurant, food, establishment	50.028633	-119.405078	50.028633	-119.405078
+http://www.darien.es	Bodegas DARIEN S.L.	Ctra. de Logroño a Zaragoza km.7 (N-232), Logroño, La Rioja, Spain	liquor_store, food, store, establishment	42.450568	-2.361288	42.450568	-2.361288
+http://www.thebrewcreekcentre.com	The Brew Creek Centre	1 Brew Creek Rd, Whistler, BC, Canada	health, establishment	50.015433	-123.133263	50.015433	-123.133263
+http://www.descentos.org
+http://www.dns007.com
+http://www.barulatino.com	Baru Latino	2535 Alma St, Vancouver, BC, Canada	restaurant, food, establishment	49.264043	-123.186075	49.264043	-123.186075
+http://www.bordellos.ca	Bordello's Italian Pizzeria	1481 Water St, Kelowna, BC, Canada	restaurant, food, establishment	49.886717	-119.496388	49.886717	-119.496388
+http://www.bcwineguydotcom.wordpress.com
+http://www.bitcoinexchangerate.org
+http://www.stagshollow.blackboxx.biz
+http://www.foodiepages.ca
+http://www.ok-limo.com	Okanagan Limousine Inc	1140 Lacombe Rd, Kelowna, BC, Canada	establishment	49.903556	-119.376304	49.903556	-119.376304
+http://www.artopenings.ca
+http://www.gisteq.com	Dino's Charbroiled Burger La Puente	13200 Valley Blvd, La Puente, CA, United States	restaurant, food, establishment	34.050126	-117.99802	34.050126	-117.99802
+http://www.sochamber.ca	South Okanagan Chamber Of Commerce	36250 93rd St, Oliver, BC, Canada	establishment	49.166181	-119.550765	49.166181	-119.550765
+http://www.sevendirectionswine.ca
+http://www.bo.ttega.com	Bo.ttega Farm Inn	4485 Sallows Rd, Kelowna, BC, Canada	health, establishment	49.821017	-119.436659	49.821017	-119.436659
+http://www.irenka.co.jp
+http://www.northwestwinesummit.com
+http://www.kensingtonsquarewines.com	Kensington Square Wines	6626 Hastings St, Burnaby, BC, Canada	liquor_store, store, establishment	49.280216	-122.966206	49.280216	-122.966206
+http://www.hiredgunscreative.com	Hired Guns Creative	10 Commercial St #10, Nanaimo, BC, Canada	establishment	49.163872	-123.936344	49.163872	-123.936344
+http://www.scoutmagazine.ca	Famous Foods	1595 Kingsway, Vancouver, BC, Canada	health, grocery_or_supermarket, food, store, establishment	49.248372	-123.071544	49.248372	-123.071544
+http://www.cafe-brio.com	Cafe Brio	944 Fort St, Victoria, BC, Canada	cafe, restaurant, food, establishment	48.423901	-123.357628	48.423901	-123.357628
+http://www.oragonbh.com
+http://www.liftbarandgrill.com	Lift Bar Grill View	Lift Bar Grill View, 333 Menchions Mews, Vancouver, BC V6G 3H5, Canada	bar, point_of_interest, establishment	49.2936512	-123.1296764	49.2936512	-123.1296764
+http://www.nwcider.com
+http://www.sobo.ca	Sobo	311 Neill St, Tofino, BC, Canada	restaurant, food, establishment	49.151778	-125.907878	49.151778	-125.907878
+http://www.vernontourism.com	Orinda's Haven B&B	363 Northwind Dr, Vernon, BC, Canada	lodging, establishment	50.348601	-119.276425	50.348601	-119.276425
+http://www.podcast.cbc.ca
+http://www.static.ow.ly
+http://www.anaintercontinental-tokyo.jp	Ana Inter-Continental	1−12−33 Akasaka, Minato, Tokyo, Japan	lodging, establishment	35.66823	139.741089	35.66823	139.741089
+http://www.hk-iphone.com
+http://www.northamericanbrewers.org
+http://www.bottleneckdrive.com
+http://www.webmockup.com
+http://www.taylorwoodwines.com	Swirl Wines Inc.	1185 Mainland St, Vancouver, BC, Canada	food, establishment	49.274796	-123.12195	49.274796	-123.12195
+http://www.pentictonlakesideresort.com	Penticton Lakeside Resort, Convention Centre & Casino	21 Lakeshore Dr W, Penticton, BC, Canada	restaurant, lodging, food, casino, establishment	49.502598	-119.594855	49.502598	-119.594855
+http://www.hoteleldorado.com	Hotel el Dorado	Calle Barros Arana 348, Concepcion, Concepción, Chile	lodging, establishment	-36.828263	-73.054315	-36.828263	-73.054315
+http://www.aquaria.de	Aquaria Erlebnisbad	Alpenstraße 5, Oberstaufen, Deutschland	spa, amusement_park, establishment	47.551778	10.019895	47.551778	10.019895
+http://www.thetrainstationpub.com	The Train Station Pub	1177 Ellis St, Kelowna, BC, Canada	night_club, bar, restaurant, food, establishment	49.893895	-119.493074	49.893895	-119.493074
+http://www.vistadoro.com	Vista D'oro Farms & Winery	346 208 St, Langley, BC, Canada	food, establishment	49.008998	-122.646983	49.008998	-122.646983
+http://www.40knotswinery.com	Windrift Estates Ltd	2400 Anderton Rd, Comox, BC, Canada	food, establishment	49.737804	-124.933003	49.737804	-124.933003
+http://www.darbyspub.ca	Darby's Pub	2001 Macdonald St, Vancouver, BC, Canada	bar, restaurant, food, establishment	49.268054	-123.168494	49.268054	-123.168494
+http://www.lacigalebistro.ca	La Cigale French Bistro	1961 W 4th Ave, Vancouver, BC, Canada	restaurant, food, establishment	49.268189	-123.149347	49.268189	-123.149347
+http://www.moanapark.co.nz	Moana Park Winery	530 Puketapu Rd, Napier, Hawkes Bay, New Zealand	food, establishment	-39.518089	176.802928	-39.518089	176.802928
+http://www.zambris.ca	Zambri's	820 Yates St, Victoria, BC, Canada	restaurant, food, establishment	48.425978	-123.361225	48.425978	-123.361225
+http://www.kelownamuseums.ca	Kelowna Public Archives	470 Queensway, Kelowna, BC, Canada	museum, establishment	49.88758	-119.494427	49.88758	-119.494427
+http://www.thebison.ca	The Bison	211 Bear St, Banff, AB, Canada	restaurant, food, establishment	51.177405	-115.572511	51.177405	-115.572511
+http://www.larua-restaurante.com
+http://www.deliciousdays.com	Hemels en Roos	Zwarte Kijkerweg 1, Apeldoorn, Nederland	food, establishment	52.218923	5.935802	52.218923	5.935802
+http://www.eatmagazine.ca
+http://www.rockymountainflatbread.ca	Rocky Mountain Flatbread Main Street	4186 Main St, Vancouver, BC, Canada	meal_takeaway, restaurant, food, establishment	49.247778	-123.101102	49.247778	-123.101102
+http://www.edmontonjournal.com	Edmonton Journal	10006 101 St NW, Edmonton, AB, Canada	establishment	53.539835	-113.493927	53.539835	-113.493927
+http://www.gov.pe.ca	Government Garage	Charlottetown, Canada	car_repair, establishment	46.247847	-63.12021	46.247847	-63.12021
+http://www.darbysliquorstore.ca
+http://www.info.versaic.com
+http://www.issuu.com	Qlift	Hoorne 7, Uitgeest, Nederland	establishment	52.52969	4.715806	52.52969	4.715806
+http://www.georgialeelang.com
+http://www.vancouverclub.ca	The Vancouver Club	915 W Hastings St, Vancouver, BC, Canada	night_club, establishment	49.286971	-123.115783	49.286971	-123.115783
+http://www.google.com	http://www.google.com/business/placesforbusiness/	5 Chome-8-16 Ochiai, Tama, Tokyo, Japan	establishment	35.614284	139.426157	35.614284	139.426157
+http://www.krazelegz.com	Kraze Legz Vineyard and Winery	141 Fir Ave, Kaleden, BC, Canada	food, establishment	49.380948	-119.590479	49.380948	-119.590479
+http://www.pacificspiritsliquorstore.com
+http://www.jtvideo.net
+http://www.prairieinnbeerand.foodpages.ca
+http://www.bridgesrestaurant.com	Bridges Restaurant	1696 Duranleau St, Vancouver, BC, Canada	bar, restaurant, food, establishment	49.272809	-123.136422	49.272809	-123.136422
+http://www.beerboxcowboyhats.com
+http://www.petalumafarmersmarket.com
+http://www.missionmerchants.com
+http://www.weusecoins.com	Hostedmining	8428 17th Ave SW, Seattle, WA, United States	electronics_store, store, establishment	47.527398	-122.356137	47.527398	-122.356137
+http://www.forum.plattehjerner.dk
+http://www.bigwhite.com	Big White Ski Resort	5315 Big White Rd, Kelowna, BC, Canada	lodging, establishment	49.721628	-118.926579	49.721628	-118.926579
+http://www.us4.campaign-archive1.com
+http://www.thesteveston.com
+http://www.pentictontours.com
+http://www.christopherstewart.com
+http://www.savourmag.com
+http://www.tiny.cc	Desi Beats	7th Main Rd, Stage 2, BTM Layout 2nd Stage, Bangalore, Karnataka, India	restaurant, food, establishment	12.909373	77.606506	12.909373	77.606506
+http://www.snooth.com	Snooth Inc	162 Madison Ave, New York, NY, United States	food, establishment	40.746892	-73.983917	40.746892	-73.983917
+http://www.orchardandvine.net	Orchard and Vine Magazine	1576 W Kelowna Rd, West Kelowna, BC, Canada	establishment	49.891178	-119.556975	49.891178	-119.556975
+http://www.yourdiabeticcat.com
+http://www.pourhousevancouver.com	Pourhouse Restaurant	162 Water St, Vancouver, BC, Canada	restaurant, food, establishment	49.28405	-123.10834	49.28405	-123.10834
+http://www.tripadvisor.ca	Jack's Place	2020 Country Club Way, Langford, BC, Canada	restaurant, food, establishment	48.476944	-123.531578	48.476944	-123.531578
+http://www.laterrazza.ca	La Terrazza Restaurant	1088 Cambie St, Vancouver, BC, Canada	restaurant, food, establishment	49.274871	-123.118893	49.274871	-123.118893
+http://www.amazon.ca	Sutherland Heather MA Psychology	301-150 Montreal Rd, Vanier, ON, Canada	health, establishment	45.434597	-75.665341	45.434597	-75.665341
+http://www.almostalan.hpage.co.in
+http://www.dolphinsresort.com	Dolphins Resort	4125 Discovery Dr, Campbell River, BC, Canada	lodging, establishment	50.063075	-125.269275	50.063075	-125.269275
+http://www.memphisbluesbbq.com	Memphis Blues Barbeque House	1465 W Broadway, Vancouver, BC, Canada	restaurant, food, establishment	49.263732	-123.137143	49.263732	-123.137143
+http://www.discovercomoxvalley.com	Vancouver Island Visitor Centre	101-3607 Small Rd, Courtenay, BC, Canada	establishment	49.634682	-125.004096	49.634682	-125.004096
+http://www.churchandstatewines.trunk.an-wp.net
+http://www.highlanderwineblog.com
+http://www.saltspringcheese.com	Salt Spring Island Cheese	285 Reynolds Rd, Salt Spring Island, BC, Canada	food, store, establishment	48.778966	-123.432505	48.778966	-123.432505
+http://www.sbs-imports.com
+http://www.blackcombliquorstore.com	Blackcomb Liquor Store	Suite 1-4573 Chateau Blvd, Whistler, BC, Canada	liquor_store, store, establishment	50.117351	-122.946586	50.117351	-122.946586
+http://www.woolseycreekbistro.ca	Woolsey Creek Bistro	600 2 St W, Revelstoke, BC, Canada	cafe, restaurant, food, establishment	51.001474	-118.201364	51.001474	-118.201364
+http://www.cellarwinestore.com	The Cellar Wine Store	137 8 Ave SW #100, Calgary, AB, Canada	liquor_store, food, store, establishment	51.045524	-114.065091	51.045524	-114.065091
+http://www.levieuxpin.ca	Le Vieux Pin Winery	5496 Black Sage Rd, Oliver, BC, Canada	food, establishment	49.159144	-119.537816	49.159144	-119.537816
+http://www.3phaseadventures.com
+http://www.myvancity.ca
+http://www.rohvan.com
+http://www.teecup.ca
+http://www.mfvwines.itsmedia.ca
+http://www.skahalakevacationhomerentals.com
+http://www.millcreekmanor.ca	Mill Creek Manor B & B	2008 Ethel St, Kelowna, BC, Canada	lodging, establishment	49.877758	-119.482909	49.877758	-119.482909
+http://www.wineloverspage.com
+http://www.cbc.ca	Canadian Broadcasting Corporation	775 Cambie St, Vancouver, BC, Canada	establishment	49.278772	-123.113944	49.278772	-123.113944
+http://www.oceansideliquor.ca
+http://www.wsetglobal.com	Wine & Spirit Education Trust (WSET)	39-45 Bermondsey St, London, United Kingdom	liquor_store, store, school, establishment	51.502146	-0.082264	51.502146	-0.082264
+http://www.mastercard.ca	Mastercard Canada	2 Bloor W, Toronto, Canada	bank, finance, establishment	43.67033	-79.387232	43.67033	-79.387232
+http://www.coryhawthorne.com
+http://www.counsellinginwinnipeg.com
+http://www.sidneypier.com	Sidney Pier Hotel & Spa	9805 Seaport Pl, Sidney, BC, Canada	lodging, spa, establishment	48.64926	-123.394594	48.64926	-123.394594
+http://www.paypal.com	Paypal Europe Sàrl	22-24 bd Royal, Luxemburg City, Luxembourg	establishment	49.61135	6.125641	49.61135	6.125641
+http://www.bluetoad.com	Waukesha Foundry Inc	1300 Lincoln Ave, Waukesha, WI, United States	establishment	43.010652	-88.208994	43.010652	-88.208994
+http://www.treefrogbistro.com	Tree Frog Bistro	4603 Marine Ave, Powell River, BC, Canada	restaurant, food, establishment	49.840654	-124.528313	49.840654	-124.528313
+http://www.604pulse.com
+http://www.theoldfirehouse.ca	Old Firehouse Wine Bar The	40 Ingram St, Duncan, BC, Canada	bar, restaurant, food, establishment	48.779188	-123.70787	48.779188	-123.70787
+http://www.wasabi-izakaya.com	Wasabi Izakaya Japanese Tapas	1623 Pandosy St, Kelowna, BC, Canada	restaurant, food, establishment	49.885038	-119.494907	49.885038	-119.494907
+http://www.raincitygrill.com	Raincity Grill	1193 Denman St, Vancouver, BC, Canada	restaurant, food, establishment	49.287726	-123.141367	49.287726	-123.141367
+http://www.nanaimodjservices.com
+http://www.hamiltonstreetgrill.com	HSG	1009 Hamilton St, Vancouver, BC, Canada	restaurant, food, establishment	49.276841	-123.119997	49.276841	-123.119997
+http://www.kurtiskolt.com
+http://www.vanartgallery.bc.ca	Vancouver Art Gallery	750 Hornby St, Vancouver, BC, Canada	art_gallery, establishment	49.282961	-123.120472	49.282961	-123.120472
+http://www.members.shaw.ca	Kookaburra Lodge www.kookaburra.ca	Lot 55 Strata Way, Mt Washington, BC, Canada	real_estate_agency, travel_agency, lodging, establishment	49.739194	-125.306335	49.739194	-125.306335
+http://www.fishoilblog.ca
+http://www.goldfishkitchen.com
+http://www.lalimo.ca	LA Limousines & Transportation Services	Victoria, BC, Canada	establishment	48.43999	-123.360392	48.43999	-123.360392
+http://www.swirlwinestore.ca	Swirl Wine Stores	15222 North Bluff Road, White Rock, BC, Canada	liquor_store, food, store, establishment	49.031058	-122.800184	49.031058	-122.800184
+http://www.parallels.com	Parallels, Inc.	500 SW 39th St #200, Renton, WA, United States	establishment	47.446266	-122.22474	47.446266	-122.22474
+http://www.owfs.com	Okanagan Wine Festival	1527 Ellis St, Kelowna, BC, Canada	establishment	49.886176	-119.493495	49.886176	-119.493495
+http://www.westjet.com	WestJet	5757 Wayne Newton Blvd, Las Vegas, NV, United States	establishment	36.085334	-115.150284	36.085334	-115.150284
+http://www.napanorthwinetours.com	Napa North Wine Tours	6508 Ferguson Pl, Peachland, BC, Canada	establishment	49.747194	-119.763252	49.747194	-119.763252
+http://www.gardenwiseonline.ca
+http://www.winegrowers.bc.ca
+http://www.cactusclubcafe.com	Cactus Club Cafe	7010 Macleod Trail South, Calgary, AB, Canada	restaurant, food, establishment	50.991755	-114.07146	50.991755	-114.07146
+http://www.communities.canada.com
+http://www.winegarage.tv
+http://www.joes-restaurant.ca	Joe's Restaurant	293 Wallace St, Hope, BC, Canada	bar, restaurant, food, establishment	49.37949	-121.441958	49.37949	-121.441958
+http://www.canadianliving.com	Healthy Living	Mooreland, OK, United States	health, grocery_or_supermarket, food, store, establishment	51.411995	0.011447	51.411995	0.011447
+http://www.carmentome.com
+http://www.kaatsch.de	Schrott- und Metallhandel M. Kaatsch GmbH	Am Nordseekai 8, Plochingen, Deutschland	establishment	48.715345	9.405562	48.715345	9.405562
+http://www.ft.com	F T Com	Av. Pereira Teixeira, 210, Barbacena - MG, Brasil	clothing_store, store, establishment	-21.221386	-43.774426	-21.221386	-43.774426
+http://www.northgatelrs.com
+http://www.tapandbarrel.com	Tap & Barrel	1 Athletes Way, Vancouver, BC, Canada	bar, establishment	49.271734	-123.105283	49.271734	-123.105283
+http://www.video214.com
+http://www.m.hillsidewinery.ca
+http://www.rainforestnaturehikes.com	Pacific Rainforest Adventure Tours Inc.	215 Chestnut St, Parksville, BC, Canada	travel_agency, establishment	49.317657	-124.333075	49.317657	-124.333075
+http://www.lawseminars.com	Law Seminars International	10824 Vashon Hwy SW, Vashon, WA, United States	lawyer, establishment	47.508573	-122.463921	47.508573	-122.463921
+http://www.girlsgogrape.com
+http://www.restaurant-lavie.de	La Vie	Krahnstraße 1, Osnabrück, Deutschland	restaurant, food, establishment	52.277047	8.041085	52.277047	8.041085
+http://www.wineclub.organicestatesofbc.com
+http://www.thewinefestivals.com	Okanagan Wine Festival	1527 Ellis St, Kelowna, BC, Canada	establishment	49.886176	-119.493495	49.886176	-119.493495
+http://www.bavaria-restaurant.com
+http://www.kicker.ca
+http://www.vineandbeach.com
+http://www.cedarhousechalets.com	Cedar House Restaurant & Chalets	735 Hefti Rd, Golden, BC, Canada	restaurant, lodging, food, establishment	51.263109	-116.912319	51.263109	-116.912319
+http://www.bbs.sihfdc.com
+http://www.longwoodbrewpub.com	Longwood Station	5765 Turner Rd, Nanaimo, BC, Canada	gas_station, establishment	49.224513	-124.035559	49.224513	-124.035559
+http://www.marguns.ch	Bergrestaurant Marguns	Celerina/Schlarigna, Schweiz	restaurant, food, establishment	46.513989	9.858881	46.513989	9.858881
+http://www.dundaravevillage.ca	Dundarave Stationery	2466 Marine Dr, West Vancouver, BC, Canada	store, establishment	49.334598	-123.181306	49.334598	-123.181306
+http://www.gfstationpub.com
+http://www.book-hotel-rooms.com
+http://www.urbanzucchini.com
+http://www.billreidfoundation.org
+http://www.bighornridge.com
+http://www.jakesatthelake.com
+http://www.pentictonfarmersmarket.org
+http://www.bremnerfoods.com	Wellbrook Winery	4626 88 St, Delta, BC, Canada	liquor_store, food, store, establishment	49.086483	-122.979352	49.086483	-122.979352
+http://www.stonesoupinn.ca	Stone Soup Inn	6755 Cowichan Lake Rd, Lake Cowichan, BC, Canada	restaurant, food, establishment	48.806047	-123.955237	48.806047	-123.955237
+http://www.grapefriendsloungeandtours.com	Grape Friends Lounge & Tours Inc.	1568 Penticton Ave, Penticton, BC, Canada	establishment	49.489758	-119.555565	49.489758	-119.555565
+http://www.michaellarocqueartist.com
+http://www.ricardos.ca	Ricardo's Mediterranean Kitchen	415 Commonwealth Rd, Kelowna, BC, Canada	restaurant, food, establishment	50.007717	-119.395366	50.007717	-119.395366
+http://www.camillesrestaurant.com	Camille's Restaurant	45 Bastion Square, Victoria, BC, Canada	restaurant, food, establishment	48.425682	-123.36859	48.425682	-123.36859
+http://www.aglc.gov.ab.ca	Alberta Gaming and Liquor Commission	50 Corriveau Ave, St Albert, AB, Canada	police, establishment	53.642448	-113.569226	53.642448	-113.569226
+http://www.gelinascarr.com	Gelinas Carr Furniture	6259 Mina Dr, Duncan, BC, Canada	home_goods_store, store, establishment	48.797055	-123.780686	48.797055	-123.780686
+http://www.castorodeoro.com	Castoro de Oro Estate Winery	4004 British Columbia 97, Oliver, BC, Canada	food, bar, establishment	49.09718	-119.563307	49.09718	-119.563307
+http://www.palatepress.com
+http://www.bcliquorstores.com	BC Liquor Stores	768 Bute St, Vancouver, BC, Canada	liquor_store, store, establishment	49.28639	-123.125811	49.28639	-123.125811
+http://www.granvilleonline.ca
+http://www.canadianvintners.com	Canadian Vintners Association	200-440 Laurier Ave W, Ottawa, ON, Canada	establishment	45.416738	-75.702989	45.416738	-75.702989
+http://www.lifestudiosinc.com	Life Studios Inc	698 Seymour St, Vancouver, BC, Canada	bakery, store, food, establishment	49.281952	-123.116798	49.281952	-123.116798
+http://www.youtube.com	Foods To Lose Weight: http://www.youtube.com/watch?v=h7CjDKAZX1Q	Las Vegas, NV, United States	food, establishment	36.123734	-115.190998	36.123734	-115.190998
+http://www.royalvan.com	Royal Vancouver Yacht Club	3811 Point Grey Rd, Vancouver, BC, Canada	establishment	49.272704	-123.187827	49.272704	-123.187827
+http://www.wedinvancouver.com
+http://www.modahotel.ca	Moda Hotel	900 Seymour St, Vancouver, BC, Canada	lodging, establishment	49.279444	-123.120483	49.279444	-123.120483
+http://www.averillcreek.ca	Averill Creek Vineyard	6552 N Rd, Duncan, BC, Canada	food, establishment	48.811648	-123.766602	48.811648	-123.766602
+http://www.micaheli.com	Mica Heli Guides Office	207 Mackenzie Ave, Revelstoke, BC, Canada	establishment	50.998606	-118.19566	50.998606	-118.19566
+http://www.averillcreekstore.ca
+http://www.eastkelownacommunityhall.webs.com
+http://www.fodors.com	Fodor's Travel Guide	1745 Broadway, New York, NY, United States	establishment	40.765272	-73.982415	40.765272	-73.982415
+http://www.mapblast.com	Thurgood Marshall High School	1220 Buffalo Run, Missouri City, TX, United States	school, establishment	29.61096	-95.520303	29.61096	-95.520303
+http://www.summerlandchamber.com
+http://www.m.straight.com
+http://www.cvrd.bc.ca	Shawnigan Lake Community Centre	2804 Shawnigan Lake Rd, Shawnigan Lake, BC, Canada	post_office, finance, establishment	48.655001	-123.625084	48.655001	-123.625084
+http://www.mynslc.com	NSLC	119 Commercial St, Dominion, NS, Canada	liquor_store, store, establishment	46.2102	-60.024281	46.2102	-60.024281
+http://www.opentable.com	Fleming's Prime Steakhouse & Wine Bar	25 E Ohio St, Chicago, IL, United States	bar, restaurant, food, establishment	41.892269	-87.62716	41.892269	-87.62716
+http://www.victoriataste.com
+http://www.roaringtwentieswine.com
+http://www.seattlemag.com	Barolo Ristorante	1940 Westlake Ave, Seattle, WA, United States	night_club, bar, restaurant, food, establishment	47.614736	-122.337337	47.614736	-122.337337
+http://www.ediblecommunities.com	Edible Communities	544 Agua Fria St, Santa Fe, NM, United States	establishment	35.686056	-105.947927	35.686056	-105.947927
+http://www.meadowvista.squarespace.com
+http://www.okanaganlife.com	Okanagan Life Magazine	814 Lawrence Ave, Kelowna, BC, Canada	establishment	49.885365	-119.485197	49.885365	-119.485197
+http://www.psychcentral.com	PsychCentral	Civic Dr, Sydney NSW, Australia	health, establishment	-33.915369	151.036759	-33.915369	151.036759
+http://www.aviawest.com	The Rosewood Victoria Inn	595 Michigan St, Victoria, BC, Canada	cafe, lodging, food, establishment	48.417071	-123.369128	48.417071	-123.369128
+http://www.bishopsonline.com	Bishop's	2183 W 4th Ave, Vancouver, BC, Canada	restaurant, food, establishment	49.268304	-123.154663	49.268304	-123.154663
+http://www.greenlivingonline.com	Boo Clothing	1440 Rupert St, North Vancouver, BC, Canada	clothing_store, store, establishment	49.308109	-123.033321	49.308109	-123.033321
+http://www.csrd.bc.ca	Columbia Shuswap Regional District	781 Marine Park Dr, Salmon Arm, BC V1E 4P1, Canada	local_government_office, establishment	50.705115	-119.282062	50.705115	-119.282062
+http://www.notaries.bc.ca	Society Of Notaries Public Of British Columbia	625 Howe St #700, Vancouver, BC, Canada	establishment	49.284186	-123.11779	49.284186	-123.11779
+http://www.benoitswinebar.com	Benoit's Wine Bar	107 2 St E, Revelstoke, BC, Canada	bar, restaurant, food, establishment	50.997614	-118.195403	50.997614	-118.195403
+http://www.corkandfin.ca	Cork & Fin	221 Carrall St, Vancouver, BC, Canada	restaurant, food, establishment	49.283055	-123.104437	49.283055	-123.104437
+http://www.celebritycellarscanada.com
+http://www.us6.campaign-archive1.com
+http://www.karis-society.org	Karis Support Society	1849 Ethel St, Kelowna, BC, Canada	establishment	49.880705	-119.482754	49.880705	-119.482754
+http://www.picachef.com	Pacific Institute Of Culinary Arts	1505 W 2nd Ave, Vancouver, BC, Canada	food, establishment	49.26978	-123.137723	49.26978	-123.137723
+http://www.winemoderation.ca
+http://www.villagevqawines.com	Village VQA Wines Dunbar	3536 41 Ave W, Vancouver, BC, Canada	liquor_store, food, store, establishment	49.234496	-123.183333	49.234496	-123.183333
+http://www.alsbc.ca	ALS Society of BC	Suite 1233-13351 Commerce Pkwy, Richmond, BC, Canada	establishment	49.172001	-123.071776	49.172001	-123.071776
+http://www.moreislandliving.com
+http://www.iwsc.net	International Wine & Spirit Competition	17 Dunsfold Pk/Stovolds Hill, Cranleigh, United Kingdom	liquor_store, store, establishment	51.120049	-0.532078	51.120049	-0.532078
+http://www.bin905.com	Bin 905 Wine & Spirits	2311 4 St SW, Calgary, AB, Canada	liquor_store, store, establishment	51.031968	-114.071806	51.031968	-114.071806
+http://www.shelbyassenheimer.com
+http://www.madmanmckay.ca	Madman McKay's Home Theatre Centre	561 11th Ave, Campbell River, BC, Canada	electronics_store, store, establishment	50.026196	-125.24736	50.026196	-125.24736
+http://www.ancienthillwinery.com	Ancient Hill Winery	4918 Anderson Rd, Kelowna, BC, Canada	food, establishment	49.95601	-119.352207	49.95601	-119.352207
+http://www.vanwinefest.ca
+http://www.videoboost.ca	Videoboost! Communications Group	1661 Burnaby St #603, Vancouver, BC, Canada	establishment	49.284631	-123.139717	49.284631	-123.139717
+http://www.iflyphoto.ca
+http://www.hanksucluelet.com
+http://www.lostateminor.com	瑞星牙醫診所	No. 130, Anbang St, Taiwan	dentist, health, establishment	24.995661	121.497363	24.995661	121.497363
+http://www.covertfarms.ca	Covert Farms	107th St, Oliver, BC, Canada	grocery_or_supermarket, food, store, establishment	49.244948	-119.55408	49.244948	-119.55408
+http://www.bcfarmersmarket.org	Cottonwood Falls Park	199 Carbonate St, Nelson, BC, Canada	park, establishment	49.488005	-117.296251	49.488005	-117.296251
+http://www.vijsrangoli.ca	Vij's Rangoli	1488 W 11 Ave, Vancouver, BC, Canada	restaurant, food, establishment	49.261616	-123.138071	49.261616	-123.138071
+http://www.vicnews.com	Peninsula News Review	9843 Second St, Sidney, BC, Canada	establishment	48.649565	-123.396426	48.649565	-123.396426
+http://www.cloudpockets.com	CloudPockets.com	551 Austin Ave, Coquitlam, BC, Canada	establishment	49.249068	-122.888952	49.249068	-122.888952
+http://www.alberta-liquor-guide.com	Liquor Connection	13248 137 Ave NW, Edmonton, AB, Canada	liquor_store, store, establishment	53.600262	-113.550131	53.600262	-113.550131
+http://www.aviewofthelake.com	A View of the Lake B & B	1877 Horizon Dr, West Kelowna, BC, Canada	lodging, establishment	49.875928	-119.548319	49.875928	-119.548319
+http://www.mivwine.ca
+http://www.shelterrestaurant.com	Shelter Restaurant	601 Campbell St, Tofino, BC, Canada	cafe, restaurant, food, establishment	49.150676	-125.898348	49.150676	-125.898348
+http://www.atlas.nrcan.gc.ca
+http://www.tantalus.ca	Tantalus Vineyards	1670 DeHart Rd, Kelowna, BC, Canada	food, establishment	49.833194	-119.456083	49.833194	-119.456083
+http://www.unconventionalwisdom.ca
+http://www.procreativedesign.ca	ProCreative Design Lab	855 Spokane St, Trail, BC, Canada	establishment	49.09495	-117.708577	49.09495	-117.708577
+http://www.mywinecanada.com
+http://www.cheapbootsforsalesclearance.com
+http://www.godsmountain.com	God's Mountain Estate	4898 Lakeside Rd, Penticton, BC, Canada	food, lodging, establishment	49.421421	-119.571576	49.421421	-119.571576
+http://www.ttb.gov	Taylor, Feil, Harper, Lumsden & Hess, P.C.	3340 Peachtree Rd NE #250, Atlanta, GA, United States	lawyer, establishment	33.84742	-84.37089	33.84742	-84.37089
+http://www.ysios.com	Bodegas Ysios	Camino de La Hoya, s/n, Laguardia, Spain	food, establishment	42.568641	-2.59097	42.568641	-2.59097
+http://www.winealign.com
+http://www.kelownaairport.com	Kelowna International Airport	5533 Airport Way, Kelowna, BC, Canada	airport, transit_station, establishment	49.956928	-119.37873	49.956928	-119.37873
+http://www.boojemedia.com
+http://www.watsonswine.com	Watson's Wine	Shop G11A2, G/F, Discovery Bay Plaza, Discovery Bay, Lantau Island, Hong Kong	liquor_store, food, store, establishment	22.29524	114.016558	22.29524	114.016558
+http://www.host.footeprint.com
+http://www.localpubliceatery.com
+http://www.the15thclub.ca
+http://www.shelterislandmarina.com	Shelter Island Marina & Boatyard Inc.	6911 Graybar Rd, Richmond, BC, Canada	storage, establishment	49.163681	-122.989354	49.163681	-122.989354
+http://www.ediblecanada.com	Edible Canada at the Market - Bistro	1596 Johnston St, Vancouver, BC, Canada	restaurant, food, establishment	49.271673	-123.134635	49.271673	-123.134635
+http://www.mfvwines.com	Meyer Family Vineyards	4287 McLean Creek Rd, Okanagan-Similkameen D, BC, Canada	food, establishment	49.338176	-119.549487	49.338176	-119.549487
+http://www.myliquorstore.ca	Crosstown Liquor Store	568 Abbott St, Vancouver, BC, Canada	liquor_store, store, establishment	49.280139	-123.107478	49.280139	-123.107478
+http://www.hawksworthrestaurant.com	Hawksworth Restaurant	801 W Georgia St, Vancouver, BC, Canada	restaurant, food, establishment	49.283197	-123.11913	49.283197	-123.11913
+http://www.cioppinos.wordpress.com	Cioppino's Mediterranean Grill	1133 Hamilton St, Vancouver, BC, Canada	restaurant, food, establishment	49.275785	-123.121891	49.275785	-123.121891
+http://www.mollom.com	Jugendring Obernkirchen e.V.	Beeker Straße 6, Obernkirchen, Deutschland	establishment	52.26977	9.12583	52.26977	9.12583
+http://www.roospublichouse.com
+http://www.geoffreylundstrom.com
+http://www.w3.org	World Wide Web Consortium	32 Vassar St #32G515, Cambridge, MA, United States	establishment	42.361515	-71.090461	42.361515	-71.090461
+http://www.northshoreliquorstore.com
+http://www.amuseonthevineyard.com	Amusé on the Vineyard	2915 Cameron Taggart Rd, Cowichan Valley B, BC, Canada	restaurant, food, establishment	48.660814	-123.587175	48.660814	-123.587175
+http://www.goodlifevancouver.com	Haute Consulting/Good Life Vancouver	2768 Cranberry Dr, Vancouver, BC, Canada	establishment	49.261674	-123.153505	49.261674	-123.153505
+http://www.rollingdale.youcanbook.me
+http://www.poplargrovecheese.ca
+http://www.orofinovineyards.blogspot.ca
+http://www.carmelisgoatcheese.com	Carmelis Goat Cheese	170 Timberline Rd, Kelowna, BC, Canada	food, store, establishment	49.777363	-119.575384	49.777363	-119.575384
+http://www.libations.ca	Libations Wine & Beer	928 King Edward Ave W, Vancouver, BC, Canada	liquor_store, store, establishment	49.249092	-123.125548	49.249092	-123.125548
+http://www.gokootenays.com
+http://www.fndc.ca	Family Network For Deaf Children	Vancouver, BC, Canada	establishment	49.261226	-123.113927	49.261226	-123.113927
+http://www.vancouverfoodandwine.blogspot.ca
+http://www.customgourmetchef.com
+http://www.nicholvineyard.com	Nichol Vineyard	1285 Smethurst Rd, Naramata, BC, Canada	food, establishment	49.596052	-119.577062	49.596052	-119.577062
+http://www.thebenchmarket.com	The Bench Artisan Food Market	368 Vancouver Ave, Penticton, BC, Canada	meal_takeaway, grocery_or_supermarket, food, store, establishment	49.503039	-119.586833	49.503039	-119.586833
+http://www.desert.org	Osoyoos Desert Society	8711 Main St, Osoyoos, BC, Canada	establishment	49.032967	-119.466886	49.032967	-119.466886
+http://www.raudz.com	Raudz	1560 Water St, Kelowna, BC, Canada	restaurant, food, establishment	49.88577	-119.49673	49.88577	-119.49673
+http://www.aligrawineandspirits.com	Aligra Wine & Spirits	Suite 1423, Phase III, West Edmonton Mall, 8882 170 St NW, Edmonton, AB, Canada	liquor_store, store, establishment	53.523093	-113.628339	53.523093	-113.628339
+http://www.julesbistro.ca	Jules	216 Abbott St, Vancouver, BC, Canada	restaurant, food, establishment	49.283414	-123.106299	49.283414	-123.106299
+http://www.eaglewindrv.ca	Eagle Wind RV Park	26920 52 Ave, Langley, BC, Canada	rv_park, real_estate_agency, travel_agency, campground, park, lodging, establishment	49.093506	-122.473923	49.093506	-122.473923
+http://www.cobbnmva.soup.io
+http://www.tourismbc.com	Fig Tree Bed & Breakfast (The)	413 Mariner Way, Coquitlam, BC, Canada	lodging, establishment	49.245354	-122.815397	49.245354	-122.815397
+http://www.sixacres.ca	Six Acres	203 Carrall St, Vancouver, BC, Canada	restaurant, food, establishment	49.283429	-123.10443	49.283429	-123.10443
+http://www.cagbc.org	Canada Green Building Council	47 Clarence St, Ottawa, ON, Canada	establishment	45.42889	-75.693472	45.42889	-75.693472
+http://www.theoakwood.ca	The Oakwood Canadian Bistro	2741 W 4th Ave, Vancouver, BC, Canada	restaurant, food, establishment	49.268489	-123.167115	49.268489	-123.167115
+http://www.bcferries.com	BC Ferries Tsawwassen Terminal	1 Ferry Causeway, Delta, BC, Canada		49.010001	-123.126182	49.010001	-123.126182
+http://www.thedrinksbusiness.com	A&S Wines	Online & Business Sales Office, 63, Abbotsbury Court, Kings Road, Horsham, United Kingdom	liquor_store, food, store, establishment	51.069994	-0.312947	51.069994	-0.312947
+http://www.villageliquorstore.com
+http://www.lakeshorewineries.ca	St. Hubertus Estate Winery Ltd.	5225 Lakeshore Rd, Kelowna, BC, Canada	food, establishment	49.796405	-119.530627	49.796405	-119.530627
+http://www.internationalsommelier.com	International Sommelier Guild	81 Crossovers St, Toronto, ON, Canada	school, establishment	43.685943	-79.294921	43.685943	-79.294921
+http://www.blackboxx.biz
+http://www.provencevancouver.com
+http://www.paintedboat.com	Painted Boat Resort Marina and Spa	Lagoon Rd, Madeira Park, BC, Canada	restaurant, lodging, food, establishment	49.61873	-124.026636	49.61873	-124.026636
+http://www.ev10.evenue.net
+http://www.merridalecider.com	Merridale Ciderworks Corporation	1230 Merridale Rd, Cobble Hill, BC, Canada	restaurant, food, establishment	48.664312	-123.585833	48.664312	-123.585833
+http://www.atthebeachhouse.inknoise.com
+http://www.hallowitch.tripod.com
+http://www.bistro101.com	Bistro 101	1505 W 2nd Ave, Vancouver, BC, Canada	restaurant, food, establishment	49.269631	-123.138313	49.269631	-123.138313
+http://www.hudsonsonfirst.ca
+http://www.reclineridgewinery.com	Recline Ridge Vineyards & Winery Ltd	2640 Skimikin Lake Rd, Tappen, BC, Canada	liquor_store, food, store, establishment	50.801443	-119.368657	50.801443	-119.368657
+http://www.broadwaywineshop.ca	Broadway International Wine Shop	2752 Broadway W, Vancouver, BC, Canada	liquor_store, food, store, establishment	49.26398	-123.167545	49.26398	-123.167545
+http://www.emagination.ca	Emagination Design	Courtenay, BC, Canada	establishment	49.657881	-124.968248	49.657881	-124.968248
+http://www.cbrands.com	Constellation Brands Inc	207 High Point Dr Bldg 100, Victor, NY, United States	liquor_store, food, store, establishment	43.029708	-77.435198	43.029708	-77.435198
+http://www.markanthony.com	Mark Anthony Group	465 Fraserview Pl, Annacis Island, BC, Canada	restaurant, food, establishment	49.160363	-122.952997	49.160363	-122.952997
+http://www.cibotrattoria.com	Cibo Trattoria	900 Seymour St, Vancouver, BC, Canada	restaurant, food, establishment	49.279371	-123.120521	49.279371	-123.120521
+http://www.adrianphotographers.com
+http://www.vista18.com	Vista 18	740 Burdett Ave, Victoria, BC, Canada	restaurant, food, establishment	48.422088	-123.364044	48.422088	-123.364044
+http://www.summerhill.bc.ca	Summerhill Pyramid Winery	4870 Chute Lake Rd, Kelowna, BC, Canada	restaurant, food, establishment	49.806075	-119.500606	49.806075	-119.500606
+http://www.damali.wpengine.com
+http://www.iconscores.blogspot.ca
+http://www.pacificbreezewinery.com	Pacific Breeze Winery	320 Stewardson Way, New Westminster, BC, Canada	food, establishment	49.202649	-122.928298	49.202649	-122.928298
+http://www.nubas.ca
+http://www.nssdaytrippers.vpweb.com
+http://www.bardinthevalley.com
+http://www.certifiedorganic.bc.ca
+http://www.mercurynews.com	San Jose Mercury News	750 Ridder Park Dr, San Jose, CA, United States	store, establishment	37.376971	-121.900501	37.376971	-121.900501
+http://www.winediva.ca
+http://www.robertmondavi.com	Robert Mondavi Winery	7801 St Helena Hwy, Napa, CA, United States	liquor_store, food, store, establishment	38.441401	-122.409663	38.441401	-122.409663
+http://www.hastingsliquorstore.ca
+http://www.moutchabay.com
+http://www.westminsterparty.com	Westminster Party & Tent Rentals	357 Okanagan Ave E, Penticton, BC, Canada	store, establishment	49.478506	-119.576458	49.478506	-119.576458
+http://www.nitalakelodge.com	Nita Lake Lodge	2131 Lake Placid Rd, Whistler, BC, Canada	restaurant, lodging, food, establishment	50.096314	-122.995543	50.096314	-122.995543
+http://www.tickleberrys.com	Tickleberry's	1207 Main St, Okanagan Falls, BC, Canada	restaurant, food, establishment	49.340946	-119.571566	49.340946	-119.571566
+http://www.obmg.com	Oak Bay Marine Group	1327 Beach Drive, Victoria, BC, Canada	establishment	49.180846	-123.169967	49.180846	-123.169967
+http://www.suephoto.smugmug.com
+http://www.centralcitybrewing.com	Central City Brewing Co Ltd	13450 102 Ave, Surrey, BC, Canada	bar, restaurant, food, establishment	49.187341	-122.850408	49.187341	-122.850408
+http://www.millbistro.ca	The Mill Marine Bistro & Bar	1199 W Cordova St, Vancouver, BC, Canada	restaurant, food, establishment	49.289252	-123.121835	49.289252	-123.121835
+http://www.islandescapades.com	Island Escapades Ltd	163 Fulford-Ganges Rd, Salt Spring Island, BC, Canada	establishment	48.851476	-123.499948	48.851476	-123.499948
+http://www.click.icptrack.com
+http://www.uncorkedokanagan.com	Uncorked Kelowna & Okanagan Fun Wine Tours	1055 Allison Pl, West Kelowna, BC, Canada	food, travel_agency, establishment	49.841533	-119.559909	49.841533	-119.559909
+http://www.fvwa.ca
+http://www.allisonvidug.wordpress.com
+http://www.stubmatic.com
+http://www.shop-canada.com	The Antarctic Connection	766 Carter Notch Rd, Jackson, NH, United States	clothing_store, book_store, store, establishment	44.181247	-71.195407	44.181247	-71.195407
+http://www.wholyroly.flavors.me
+http://www.pidginvancouver.com	Pidgin Restaurant	350 Carrall St, Vancouver, BC, Canada	restaurant, food, establishment	49.281881	-123.104145	49.281881	-123.104145
+http://www.jandbcoffeeco.com	J&B Coffee Co.	2701 26th St, Lubbock, TX, United States	cafe, food, establishment	33.570239	-101.875353	33.570239	-101.875353
+http://www.jenniferarmstrongphotography.zenfolio.com
+http://www.bcwinelover.com
+http://www.cityline.ca
+http://www.bluegrouse.ca
+http://www.dirtyapron.com	Dirty Apron Cooking School	540 Beatty St, Vancouver, BC, Canada	establishment	49.280595	-123.109231	49.280595	-123.109231
+http://www.bc.ctvnews.ca
+http://www.chillwinston.com	Chill Winston	3 Alexander St, Vancouver, BC, Canada	restaurant, food, establishment	49.283544	-123.103983	49.283544	-123.103983
+http://www.coastalbc.com
+http://www.fortlangley.com	Fort Langley Bakery	Suite 6-9110 Glover Rd, Langley, BC, Canada	bakery, store, food, establishment	49.1683	-122.580053	49.1683	-122.580053
+http://www.vqaontario.ca	V Q a Ontario	1 Yonge, ON, Canada	liquor_store, store, establishment	44.583532	-79.866101	44.583532	-79.866101
+http://www.eater.com	Fire Eater A/S	Vølundsvej 17, Hillerød, Denmark	establishment	55.932013	12.264971	55.932013	12.264971
+http://www.ttpsoftware.com
+http://www.thevanillapod.ca	The Vanilla Pod Restaurant at Poplar Grove Winery	425 Middle Bench Rd N, Penticton, BC, Canada	restaurant, food, establishment	49.51339	-119.571466	49.51339	-119.571466
+http://www.greatnorthwestwine.com
+http://www.wellseasoned.ca	Well Seasoned	Suite 302C-20771 Langley Bypass, Langley, BC, Canada	food, store, establishment	49.113971	-122.647846	49.113971	-122.647846
+http://www.taste-restaurant.com	China Taste	197 Boston Post Rd W, Marlborough, MA, United States	restaurant, food, establishment	42.340569	-71.590227	42.340569	-71.590227
+http://www.caffefantastico.com	Caffe Fantastico	965 Kings Rd, Victoria, BC, Canada	food, store, establishment	48.43742	-123.359033	48.43742	-123.359033
+http://www.deckfifty.com
+http://www.stumbleupon.com	Marketing/Consulting	3607 Marriottsville Rd, Randallstown, MD, United States	establishment	39.375881	-76.829049	39.375881	-76.829049
+http://www.downtownsquamish.com
+http://www.alberni.ca
+http://www.upmagazine.com
+http://www.bestwesternwinecountry.com	BEST WESTERN PLUS Wine Country Hotel & Suites	3460 Carrington Rd, West Kelowna, BC, Canada	lodging, establishment	49.838543	-119.609345	49.838543	-119.609345
+http://www.gourmetwarehouse.ca	Gourmet Warehouse	1340 E Hastings St, Vancouver, BC, Canada	home_goods_store, store, establishment	49.281116	-123.076203	49.281116	-123.076203
+http://www.thechefinstead.com
+http://www.themeforest.net	Rostislav Chrobák	Dr. Glazera 1215/15, Horní Suchá, Česká republika	establishment	49.795763	18.48499	49.795763	18.48499
+http://www.hootsuite.com	HootSuite Media, Inc.	5 E 8th Ave, Vancouver, BC, Canada	establishment	49.263869	-123.104318	49.263869	-123.104318
+http://www.themissiontaphouse.com	Mission Tap House	3110 Lakeshore Rd, Kelowna, BC, Canada	bar, restaurant, food, establishment	49.86141	-119.491382	49.86141	-119.491382
+http://www.howtomakegreatwine.com
+http://www.wineyourwaytours.ca	Wine Your Way Tours	Kelowna, BC, Canada	food, establishment	49.887952	-119.496011	49.887952	-119.496011
+http://www.vinovolo.com	Vino Volo	1 Saarinen Cir B-51, Sterling, VA, United States	bar, restaurant, food, establishment	38.952939	-77.448339	38.952939	-77.448339
+http://www.arts.nationalpost.com
+http://www.devinewines.ca	deVine Wines & Spirits	10111 104 St NW, Edmonton, AB, Canada	liquor_store, food, store, establishment	53.541316	-113.499053	53.541316	-113.499053
+http://www.economusee.tourisme-cb.com
+http://www.1fish2fish.ca	1 Fish 2 Fish Seafood Market Inc.	20534 Fraser Hwy, Langley, BC, Canada	food, establishment	49.103928	-122.653405	49.103928	-122.653405
+http://www.vancouversun.com	Canada.com	1510-355 Burrard St, Vancouver, BC, Canada	establishment	49.287636	-123.116291	49.287636	-123.116291
+http://www.superiorfish.ca	Superior Fish Market Ltd	5229 Ladner Trunk Rd Suite A, Ladner, BC, Canada	food, establishment	49.091274	-123.08029	49.091274	-123.08029
+http://www.yanacomoxvalley.com
+http://www.hoteleldoradokelowna.com	Hotel Eldorado Kelowna	500 Cook Rd, Kelowna, BC, Canada	liquor_store, store, bar, restaurant, lodging, food, establishment	49.845674	-119.489555	49.845674	-119.489555
+http://www.gismondionwine.com
+http://www.hornbyislanddiving.com	Hornby Island Diving	10795 Central Rd, Hornby Island, BC, Canada	lodging, establishment	49.496522	-124.67506	49.496522	-124.67506
+http://www.heartwoodstudio.ca	Heartwood Studio	5846 Curry Rd, Duncan, BC, Canada	establishment	48.784261	-123.747082	48.784261	-123.747082
+http://www.shop.roaringtwentieswineco.com
+http://www.okres.bc.ca	Okanagan Reservations Inc	200-304 Martin St, Penticton, BC, Canada	travel_agency, establishment	49.498454	-119.593423	49.498454	-119.593423
+http://www.winerack.com	Wine Rack	4111 Thickson N, Brooklin, ON, Canada	liquor_store, store, establishment	43.925806	-78.929439	43.925806	-78.929439
+http://www.exnihilovineyards.com	Ex Nihilo Vineyards Inc	1525 Camp Rd, Winfield, BC, Canada	food, establishment	50.046501	-119.438443	50.046501	-119.438443
+http://www.choicesmarket.com	Choices Markets Yaletown	1202 Richards St, Vancouver, BC, Canada	grocery_or_supermarket, food, store, establishment	49.275733	-123.124294	49.275733	-123.124294
+http://www.stagewinebar.com	Stage Wine Bar	1307 Gladstone Ave, Victoria, BC, Canada	bar, restaurant, food, establishment	48.430429	-123.344873	48.430429	-123.344873
+http://www.gaming.gov.bc.ca	Gaming Policy & Enforcement Branch	1517 Water St #200, Kelowna, BC, Canada	local_government_office, establishment	49.885943	-119.496463	49.885943	-119.496463
+http://www.clockstruckwine.com
+http://www.bctravelguide.ca	British Columbia Business Broker	600-666 Burrard St, Vancouver, BC, Canada	establishment	49.284936	-123.11911	49.284936	-123.11911
+http://www.blogs.canada.com
+http://www.landhausscherrer.de	Landhaus Scherrer	Elbchaussee 130, Hamburg, Germany	restaurant, food, establishment	53.546146	9.916552	53.546146	9.916552
+http://www.muottasmuragl.ch	Romantik Hotel Muottas Muragl	Punt Muragl 3, Samedan, Schweiz	lodging, establishment	46.521881	9.901952	46.521881	9.901952
+http://www.bandidastaqueria.com	Bandidas Taqueria	2781 Commercial Dr, Vancouver, BC, Canada	restaurant, food, establishment	49.259759	-123.069973	49.259759	-123.069973
+http://www.rogerschocolates.com	Roger's Chocolates	913 Government St, Victoria, BC, Canada	food, store, establishment	48.423917	-123.367955	48.423917	-123.367955
+http://www.westrestaurant.com	West	2881 Granville St, Vancouver, BC, Canada	restaurant, food, establishment	49.260008	-123.138848	49.260008	-123.138848
+http://www.wilsonstours.com	Wilson's Transportation Ltd.	4196 Glanford Ave, Victoria, BC, Canada	establishment	48.480345	-123.391418	48.480345	-123.391418
+http://www.okwineshuttle.ca
+http://www.kalwineandspirits.com
+http://www.wine-emporium.com	Wine Emporium	Suite 500-22259 48 Ave, Langley, BC, Canada	food, establishment	49.089412	-122.60809	49.089412	-122.60809
+http://www.thecobblestone.ca	Cobblestone Inn	3566 Holland Ave, Cobble Hill, BC, Canada	bar, establishment	48.689098	-123.60265	48.689098	-123.60265
+http://www.bogners.ca	Bogner's of Penticton	302 Eckhardt Ave W, Penticton, BC, Canada	restaurant, food, establishment	49.491888	-119.59393	49.491888	-119.59393
+http://www.area27.ca
+http://www.farm2chefs.com
+http://www.lurevictoria.com
+http://www.sardisparkwines.com	Sardis Park Vqa Wine Store	Suite 110g-6640 Vedder Rd, Chilliwack, BC, Canada	food, establishment	49.124465	-121.959141	49.124465	-121.959141
+http://www.bestbeerbc.com	Sailor Hagar's Brew Pub	86 Semisch Ave, North Vancouver, BC, Canada	liquor_store, store, meal_takeaway, bar, restaurant, food, establishment	49.313617	-123.083387	49.313617	-123.083387
+http://www.nhs.uk	NHS	NHS, Blenheim House, Duncombe St, Leeds, West Yorkshire LS1 4PL, UK	point_of_interest, health, establishment	53.7988031	-1.5596709	53.7988031	-1.5596709
+http://www.derekford.com
+http://www.bonfiregrillatthecove.com	Bonfire Restaurant at the Cove	4205 Gellatly Rd, West Kelowna, BC, Canada	restaurant, food, establishment	49.811239	-119.624064	49.811239	-119.624064
+http://www.poppyphotography.ca	Poppy Photography	Victoria, BC, Canada	establishment	48.505753	-123.382976	48.505753	-123.382976
+http://www.metroliquor.com	Metro Liquor - University Heights Shopping Centre	3960 Shelbourne St, Victoria, BC, Canada	liquor_store, food, store, establishment	48.469885	-123.332807	48.469885	-123.332807
+http://www.thompsonokanagan.com	Vernon Visitor Centre	3004 39th Avenue, Vernon, BC, Canada	establishment	50.269947	-119.27165	50.269947	-119.27165
+http://www.stoneboatvineyards.com	Stoneboat Vineyards	356 Orchard Grove Ln, Oliver, BC, Canada	food, establishment	49.138763	-119.565717	49.138763	-119.565717
+http://www.brownstone-restaurant.com	Brownstone Restaurant	118 Victoria St, Kamloops, BC, Canada	restaurant, food, establishment	50.676441	-120.338773	50.676441	-120.338773
+http://www.makeawishbc.ca	Make-A-Wish Foundation of BC and Yukon	112-2025 Broadway West, Vancouver, BC, Canada	establishment	49.263845	-123.150999	49.263845	-123.150999
+http://www.rockwatersecretcoveresort.com	Rockwater Secret Cove Resort	5356 Oles Cove Rd, Halfmoon Bay, BC, Canada	restaurant, lodging, food, spa, health, establishment	49.540243	-123.978343	49.540243	-123.978343
+http://www.thewinebarrel.com
+http://www.nestersliquor.com
+http://www.maenam.ca	Maenam Thai Restaurant	1938 W 4th Ave, Vancouver, BC, Canada	restaurant, food, establishment	49.267975	-123.148897	49.267975	-123.148897
+http://www.themintvictoria.com	The Mint	1414 Douglas St, Victoria, BC, Canada	restaurant, food, establishment	48.42754	-123.364839	48.42754	-123.364839
+http://www.nataliemaclean.com	Murray Estate Wines	Lot 2 Barooga Road, Mulwala NSW, Australia	food, establishment	-35.952511	145.943927	-35.952511	145.943927
+http://www.jamessuckling.com	Maculan	Via Castelletto, 3, Breganze, Vicenza, Italy	food, establishment	45.708289	11.562287	45.708289	11.562287
+http://www.ubcfarm.ubc.ca	UBC Farm	3461 Ross Drive, Vancouver, BC, Canada	food, establishment	49.250699	-123.237457	49.250699	-123.237457
+http://www.cmcsakewine.com
+http://www.thechefandthegrape.com
+http://www.1mbwdesign.com
+http://www.thewesterlyhotel.ca	Top Shelf Liquor Store	1590 Cliffe Ave, Courtenay, BC, Canada	liquor_store, food, store, establishment	49.685391	-124.991988	49.685391	-124.991988
+http://www.andreaswinecellar.tumblr.com
+http://www.blackrockresort.com	Black Rock Oceanfront Resort	596 Marine Dr, Ucluelet, BC, Canada	lodging, spa, health, establishment	48.93755	-125.555967	48.93755	-125.555967
+http://www.seattlebeerweek.com	Hale's Ales Pub	4301 Leary Way NW, Seattle, WA, United States	bar, restaurant, food, establishment	47.659116	-122.365257	47.659116	-122.365257
+http://www.store.nexternal.com
+http://www.bestbootsclearanceus.com
+http://www.eramedia.ca
+http://www.bcmag.ca	Beautiful British Columbia Magazine	3939 Quadra St, Saanich, BC, Canada	establishment	48.465446	-123.360477	48.465446	-123.360477
+http://www.bcliving.ca
+http://www.edwardrossphotography.com	iDoWeddingsAway - Destination Weddings	1110 Centre St N, Calgary, AB, Canada	establishment	51.061983	-114.062392	51.061983	-114.062392
+http://www.bcbusiness.ca	BC Business Magazine	4180 Lougheed Hwy, Burnaby, BC, Canada	establishment	49.266197	-123.012064	49.266197	-123.012064
+http://www.bearfootbistro.com	Bearfoot Bistro	4121 Village Green, Whistler, BC, Canada	restaurant, food, establishment	50.113906	-122.957154	50.113906	-122.957154
+http://www.finevintagewineblog.com
+http://www.topshelfwine.ca
+http://www.blacksagevineyard.ca
+http://www.calgaryfilm.com	Calgary International Film Festival	214 11 Ave SE, Calgary, AB, Canada	establishment	51.042376	-114.059988	51.042376	-114.059988
+http://www.intheglass.wordpress.com
+http://www.deannamccollum.com	Deanna McCollum Photography	2058 Gourman Pl, Victoria, BC, Canada	establishment	48.469473	-123.48691	48.469473	-123.48691
+http://www.capwork.com	Capwork Laboratory Inc	Suite 2222-4500 Kingsway, Burnaby, BC, Canada	store, health, establishment	49.229972	-123.004206	49.229972	-123.004206
+http://www.crestongolf.com	Creston Golf Club	1800 Mallory Rd, Creston, BC, Canada	establishment	49.047565	-116.495852	49.047565	-116.495852
+http://www.andrewpeller.com	Andrew Peller Limited	697 South Service Road, Grimsby, ON, Canada	food, establishment	43.212171	-79.621739	43.212171	-79.621739
+http://www.terroirwineagency.com	Terroir Wines & Spirits	香港新界上水智昌路3號	establishment	22.500572	114.130263	22.500572	114.130263
+http://www.vuw.eventbrite.com
+http://www.littlejumbo.ca	Little Jumbo Restaurant and Bar	Down the Hall, 506 Fort St, Victoria, BC, Canada	restaurant, food, establishment	48.4251	-123.369335	48.4251	-123.369335
+http://www.innfromthecold.org	Inn from the Cold	110-11 Ave SE, Calgary, AB, Canada	establishment	51.042508	-114.062794	51.042508	-114.062794
+http://www.montanagem.com	Montana Gem	637 N 9th St, Columbus, Mt, United States	store, establishment	45.642605	-109.24794	45.642605	-109.24794
+http://www.tourismkelowna.com	Tourism Kelowna	544 Harvey Ave, Kelowna, BC, Canada	establishment	49.8839	-119.49194	49.8839	-119.49194
+http://www.leplateaubistro.ca
+http://www.oceanwise.ca	Havana	1212 Commercial Dr, Vancouver, BC, Canada	restaurant, food, establishment	49.273738	-123.069512	49.273738	-123.069512
+http://www.hillsidewinery.ca	Hillside Winery & Bistro	1350 Naramata Rd, Penticton, BC, Canada	restaurant, food, establishment	49.537595	-119.563555	49.537595	-119.563555
+http://www.liquorandmore.ca
+http://www.langleyadvance.com	Langley Advance News	20353 64 Ave, Langley, BC, Canada	establishment	49.119063	-122.659274	49.119063	-122.659274
+http://www.joeyrestaurants.com	Joey Yorkdale	3401 Dufferin St #305B, Toronto, ON, Canada	restaurant, food, establishment	43.724164	-79.454624	43.724164	-79.454624
+http://www.bcwas.com
+http://www.vcm.bc.ca	Victoria Conservatory Of Music	900 Johnson St, Victoria, BC, Canada	establishment	48.42696	-123.358702	48.42696	-123.358702
+http://www.padellaitalianbistro.com	Padella Italian Bistro	2524 Estevan Ave, Victoria, BC, Canada	restaurant, food, establishment	48.437649	-123.307738	48.437649	-123.307738
+http://www.mlcc.mb.ca	MLCC	1146 Waverley St, Fort Garry, MB, Canada	liquor_store, store, establishment	49.835573	-97.179697	49.835573	-97.179697
+http://www.thedailymeal.com	A.G. Kitchen	269 Columbus Ave, New York, NY, United States	restaurant, food, establishment	40.77766	-73.978329	40.77766	-73.978329
+http://www.winesinniagara.com
+http://www.aurarestaurant.ca	AURA waterfront restaurant + patio	680 Montreal St, Victoria, BC, Canada	restaurant, food, establishment	48.42336	-123.376759	48.42336	-123.376759
+http://www.lombardos.ca	Lombardo's Pizzeria & Restaurant	1641 Commercial Dr, Vancouver, BC, Canada	restaurant, food, establishment	49.270081	-123.070014	49.270081	-123.070014
+http://www.fliwc.com
+http://www.dynamical.biz
+http://www.vanaqua.org	Vancouver Aquarium	845 Avison Way, Vancouver, BC, Canada	aquarium, establishment	49.300796	-123.130929	49.300796	-123.130929
+http://www.onehazelton.com	One Restaurant	116 Yorkville Ave, Toronto, ON, Canada	restaurant, food, establishment	43.670825	-79.393254	43.670825	-79.393254
+http://www.farmatcoventrynews.blogspot.com
+http://www.kettlevalleystation.com	Kettle Valley Station Pub	1070 Eckhardt Ave W, Penticton, BC, Canada	bar, restaurant, food, establishment	49.494899	-119.613272	49.494899	-119.613272
+http://www.shawniganlakevacations.com	Shawnigan Lake Bed and Breakfast	1911 Renfrew Rd, Shawnigan Lake, BC, Canada	lodging, establishment	48.656371	-123.632142	48.656371	-123.632142
+http://www.letsgotransportation.ca	Let's Go Wine Tours	Kelowna, BC, Canada	establishment	49.887952	-119.496011	49.887952	-119.496011
+http://www.mahlehouse.ca	Mahle House Restaurant	2104 Hemer Rd, Nanaimo, BC, Canada	bar, restaurant, food, establishment	49.104628	-123.859511	49.104628	-123.859511
+http://www.kelowna.ca	Apple Bowl Stadium	1555 Burtch Rd, Kelowna, BC, Canada	stadium, establishment	49.886621	-119.45864	49.886621	-119.45864
+http://www.kootenayalpinecheese.com
+http://www.booking.com	InterContinental Berlin	Budapester Straße 2, Berlin, Germany	lodging, spa, health, establishment	52.506939	13.345547	52.506939	13.345547
+http://www.tmdesigntesting.com
+http://www.ateliermagazine.in
+http://www.bcwineshop.com
+http://www.lecrocodilerestaurant.com	Le Crocodile Restaurant	909 Burrard St #100, Vancouver, BC, Canada	restaurant, food, establishment	49.28246	-123.125216	49.28246	-123.125216
+http://www.lakebreeze.ca	Lake Breeze Vineyards	930 Sammet, Naramata, BC, Canada	food, establishment	49.580023	-119.590599	49.580023	-119.590599
+http://www.dogwoodmall.com	Sandpiper Liquor Store	1235 Johnston Rd, White Rock, BC, Canada	liquor_store, store, establishment	49.024583	-122.801328	49.024583	-122.801328
+http://www2.canada.com	Harbour City Star - News	2575 McCullough Rd, Nanaimo, BC, Canada	establishment	49.196702	-123.982701	49.196702	-123.982701
+http://www.jkevindunn.com
+http://www.delicious.com	Joseph Molea, MD, PA	503 S MacDill Ave, Tampa, FL, United States	doctor, health, establishment	27.939479	-82.49358	27.939479	-82.49358
+http://www.travel.yahoo.com	Trekking Collective Co.	Chiang Mai, 3/5 Loy Kroh Road, Soi 1, Tambon Chang Klan,, Ampur Muang, เชียงใหม่, Thailand	travel_agency, establishment	18.783912	98.995013	18.783912	98.995013
+http://www.thewestsidewinetrail.com
+http://www.cancer.ca	Société Canadienne du Cancer (La)	418 Rue Saint Georges, Saint-Jérôme, QC, Canada	establishment	45.77915	-74.002622	45.77915	-74.002622
+http://www.bedandbreakfast.com	BedandBreakfast.com	1011 W 5th St #300, Austin, TX, United States	establishment	30.270187	-97.7553	30.270187	-97.7553
+http://www.grapevinerestaurant.ca	Grapevine Restaurant	1055 Camp Rd, Okanagan Centre, BC, Canada	restaurant, food, establishment	50.055001	-119.440292	50.055001	-119.440292
+http://www.wineandpine.com
+http://www.nlliquor.com	Liquor Store	470 Topsail Rd, St John's, NL, Canada	liquor_store, store, establishment	47.532753	-52.751693	47.532753	-52.751693
+http://www.intermezzowinecellar.com
+http://www.fireflyfinewinesandales.com	Firefly Fine Wines and Ales	2857 Cambie St, Vancouver, BC, Canada	liquor_store, food, store, establishment	49.259857	-123.115278	49.259857	-123.115278
+http://www.appletreebnbkelowna.com	Kelowna Apple Tree Bed & Breakfast	2157 Kaslo Ct, Kelowna, BC, Canada	lodging, establishment	49.87444	-119.467325	49.87444	-119.467325
+http://www.djpro.ca	Sooke Wedding DJ | HiWay Productions	2115 Melrick Pl, Sooke, BC, Canada	night_club, establishment	48.376503	-123.74151	48.376503	-123.74151
+http://www.themoderncafe.ca	Modern Cafe	221 Commercial St, Nanaimo, BC, Canada	restaurant, food, establishment	49.166875	-123.93739	49.166875	-123.93739
+http://www.winebloggersconference.org
+http://www.brotherspub.ca	Brothers Pub & Beer Store	420 Main St, Sicamous, BC, Canada	liquor_store, store, bar, restaurant, food, establishment	50.836376	-118.984702	50.836376	-118.984702
+http://www.us7.campaign-archive1.com
+http://www.italiankitchenvernon.com	Italian Kitchen Catering Company	2916 30th Ave, Vernon, BC, Canada	food, establishment	50.263523	-119.270107	50.263523	-119.270107
+http://www.saskliquor.com	Saskatchewan Liquor and Gaming Authority	503 Nelson Rd, Saskatoon, SK, Canada	liquor_store, store, establishment	52.150747	-106.569247	52.150747	-106.569247
+http://www.ilterrazzo.com	II Terrazzo RISTORANTE	555 Johnson St, Victoria, BC, Canada	restaurant, food, establishment	48.427391	-123.369238	48.427391	-123.369238
+http://www.denmancinemas.com
+http://www.toughcity.com	Tough City Sushi	350 Main St, Tofino, BC, Canada	night_club, bar, restaurant, lodging, food, establishment	49.153947	-125.906535	49.153947	-125.906535
+http://www.sipwines.ca	Sip Wine	11660 Steveston Hwy #1030, Richmond, BC, Canada	food, establishment	49.133199	-123.09639	49.133199	-123.09639
+http://www.uncorked.com	Uncorked Ltd	Exchange Arcade, Broadgate, London, United Kingdom	liquor_store, food, store, establishment	51.519259	-0.079829	51.519259	-0.079829
+http://www.thefortwine.co.com
+http://www.zumbaeren.ch	Pfändler s Gasthof zum Bären GmbH	Kirchstrasse 7, Birmenstorf, Schweiz	restaurant, food, establishment	47.461136	8.247558	47.461136	8.247558
+http://www.tastingroomradio.com
+http://www.urbandiner.ca
+http://www.banffmapleleaf.com	Maple Leaf Grille and Lounge	137 Banff Ave, Banff, AB, Canada	night_club, bar, restaurant, food, establishment	51.176523	-115.571223	51.176523	-115.571223
+http://www.peartreerestaurant.net	The Pear Tree Restaurant	4120 E Hastings, Burnaby, BC, Canada	restaurant, food, establishment	49.280957	-123.01354	49.280957	-123.01354
+http://www.similkameenwine.com
+http://www.liquiditywines.com	Liquidity Wines	4720, Allendale Rd, Okanagan-Similkameen D, BC, Canada	food, establishment	49.324678	-119.547785	49.324678	-119.547785
+http://www.lisanicolemusic.com
+http://www.justjakes.ca	Just Jake's Restaurant	45 Craig St, Duncan, BC, Canada	restaurant, food, establishment	48.777366	-123.708404	48.777366	-123.708404
+http://www.granvilleliquorstore.com	Granville Liquor Store	2658 Granville St, Vancouver, BC, Canada	liquor_store, food, store, establishment	49.262324	-123.138473	49.262324	-123.138473
+http://www.pizzeriaprimastrada.com	Pizzeria Prima Strada	2960 Bridge St, Victoria, BC, Canada	restaurant, food, establishment	48.440051	-123.373536	48.440051	-123.373536
+http://www.winetrails.ca	Bristish Columbia Wine Trails	2250 Camrose St, Penticton, BC, Canada	food, establishment	49.474935	-119.576853	49.474935	-119.576853
+http://www.kettlevalleyrailtrail.com
+http://www.honeycombweb.com
+http://www.cvrr.ca
+http://www.ciaothymebistro.com	CiaoThyme Bistro	4573 Chateau Blvd, Whistler, BC, Canada	restaurant, food, establishment	50.117276	-122.947106	50.117276	-122.947106
+http://www.incontrolsolutions.com
+http://www.wildretreat.com	Clayoquot Wilderness Resort	380 Main St, Tofino, BC, Canada	lodging, establishment	49.153719	-125.904934	49.153719	-125.904934
+http://www.edgeearth.ca
+http://www.road13vineyards.com	Road 13 Vineyards	799 Ponderosa Road, Oliver, BC, Canada	food, establishment	49.126039	-119.592533	49.126039	-119.592533
+http://www.csnwine.com	C S N Wine & Spirits	1716 Centre St NE, Calgary, AB, Canada	liquor_store, store, establishment	51.06789	-114.062404	51.06789	-114.062404
+http://www.michaelpollan.com	Kim S. Ulmer, EAMP - Acupuncture & Chinese Herbal Medicine	3609 1st Ave NW, Seattle, WA, United States	health, establishment	47.653326	-122.357795	47.653326	-122.357795
+http://www.ovinowinery.com	OVINO Winery	1577 Yankee Flats Rd, Salmon Arm, BC, Canada	food, establishment	50.562521	-119.366315	50.562521	-119.366315
+http://www.atlascafe.ca	Atlas Cafe	250 6 St, Courtenay, BC, Canada	cafe, restaurant, food, establishment	49.690401	-124.997221	49.690401	-124.997221
+http://www.cabanagrille.com	Cabana Bar and Grille	3799 Lakeshore Rd, Kelowna, BC, Canada	restaurant, food, establishment	49.845974	-119.487227	49.845974	-119.487227
+http://www.casavino.ca	CasaVino Wine Bar	4873 St Marys St, Radium Hot Springs, BC, Canada	restaurant, food, establishment	50.619872	-116.070757	50.619872	-116.070757
+http://www.provostpictures.com
+http://www.nymag.com	New York Media, LLC - New York Magazine	Level 4, 75 Varick St, New York, NY, United States	establishment	40.723584	-74.006838	40.723584	-74.006838
+http://www.idp.godaddy.com
+http://www.momandmeflowers.com
+http://www.yyc.com	Geopetrol International Ltd	Suite 201-110 Country Hills Landng NW, Calgary, AB, Canada	establishment	51.142364	-114.073889	51.142364	-114.073889
+http://www.bradsdadsland.com	Bradsdadsland Campsite	2105 Shingle Spit Rd, Hornby Island, BC, Canada	campground, park, lodging, establishment	49.534051	-124.710068	49.534051	-124.710068
+http://www.towerhillwines.com	Towerhill Wines	Suite 4-100 Milligan Dr, Okotoks, AB, Canada	liquor_store, store, establishment	50.732285	-113.966595	50.732285	-113.966595
+http://www.hotelrialto.ca	Hotel Rialto	653 Pandora Ave, Victoria, BC, Canada	lodging, establishment	48.427823	-123.364887	48.427823	-123.364887
+http://www.grey-sage-liquor-store.okanagan-falls.amfibi.com
+http://www.calgarystampede.com	Calgary Stampede Store	1410 Olympic Way SE, Calgary, AB, Canada	establishment	51.038749	-114.053279	51.038749	-114.053279
+http://www.summer.skisilverstar.com
+http://www.woodlakerv.com
+http://www.ticketmaster.ca	Ticketmaster	Suite 220-260 Hargrave St, Winnipeg, MB, Canada	store, establishment	49.892127	-97.144399	49.892127	-97.144399
+http://www.bcwineguys.blogspot.ca
+http://www.closdusoleil.us4.list-manage1.com
+http://www.labattoir.ca	L'Abattoir	217 Carrall St, Vancouver, BC, Canada	restaurant, food, establishment	49.283123	-123.104471	49.283123	-123.104471
+http://www.secure2.shadowfax.bc.ca
+http://www.ubercart.org	One Space Studios	2805 Catherine Way, Santa Ana, CA, United States	establishment	33.703924	-117.847553	33.703924	-117.847553
+http://www.pagepointbistro.com	Page Point Bistro	4760 Brenton Page Rd, Chemainus, BC, Canada	restaurant, food, establishment	49.012507	-123.822126	49.012507	-123.822126
+http://www.bostonglobe.com	Boston Globe	170 W Rd # 11, Portsmouth, NH, United States	establishment	43.042975	-70.776798	43.042975	-70.776798
+http://www.fibromyalgiawellspringfoundation.org	Fibromyalgia Well Spring Foundation	Suite 109-20631 Fraser Hwy, Langley, BC, Canada	establishment	49.103351	-122.650156	49.103351	-122.650156
+http://www.canada.dailysecret.com
+http://www.housewine.ca
+http://www.rickpaulettervjournal.blogspot.com
+http://www.tripadvisor.com	Bistro cafe bar G	Šetalište Marka Marojice 21, 20207 Mlini, Dubrovnik/Mlini, Hrvatska	cafe, restaurant, food, establishment	42.622796	18.20309	42.622796	18.20309
+http://www.adobe.com	Adobe Systems Inc	801 N 34th St, Seattle, WA, United States	electronics_store, store, establishment	47.648218	-122.34902	47.648218	-122.34902
+http://www.yelp.ca	Payless Disposal Inc.	24 Fallswater Crescent NE, Calgary, AB, Canada	establishment	51.098461	-113.942037	51.098461	-113.942037
+http://www.wevancouver.com
+http://www.visitor.r20.constantcontact.com
+http://www.grazerestaurant.ca
+http://www.maudehunterspub.ca	Maude Hunter's Pub	3810 Shelbourne St, Victoria, BC, Canada	bar, restaurant, food, establishment	48.462462	-123.333118	48.462462	-123.333118
+http://www.jaunted.com
+http://www.quattrorestaurants.com	Gusto Di Quattro	1 Lonsdale Ave, North Vancouver, BC, Canada	restaurant, food, establishment	49.310558	-123.080291	49.310558	-123.080291
+http://www.primadesign.com	Prima Design Srl	Via delle Conce, 20, Firenze, Italy	establishment	43.768506	11.265418	43.768506	11.265418
+http://www.globalnews.ca	Global Television News	218 Robin Cres, Saskatoon, SK, Canada	establishment	52.157282	-106.684366	52.157282	-106.684366
+http://www.get.adobe.com	Mouse Pad	606 N Division St, Pinehurst, ID, United States	electronics_store, store, establishment	47.544138	-116.228067	47.544138	-116.228067
+http://www.jakewest.ca
+http://www.ottawamagazine.com
+http://www.farmfolkcityfolk.ca	FarmFolk/CityFolk Society	Suite 2fl-1661 Duranleau St, Vancouver, BC, Canada	health, establishment	49.272041	-123.135888	49.272041	-123.135888
+http://www.wiga.ca
+http://www.tourism-langley.com
+http://www.ericharpermusic.com
+http://www.timescolonist.com	Times Colonist	2621 Douglas St, Victoria, BC, Canada	establishment	48.43689	-123.36548	48.43689	-123.36548
+http://www.thedieline.com	E Design Studio	Calz del Valle Alberto Santos 400, Del Valle, San Pedro Garza García, Nuevo Leon, Mexico	establishment	25.652908	-100.361055	25.652908	-100.361055
+http://www.lanasjewelry.com	Lana's Jewelry	29 Hicksville Rd, Massapequa, NY, United States	finance, jewelry_store, store, establishment	40.667656	-73.474918	40.667656	-73.474918
+http://www.aroversrest.com	A Rover's Rest Bed & Breakfast	2660 Balmoral Rd, Blind Bay, BC, Canada	lodging, establishment	50.870978	-119.359245	50.870978	-119.359245
+http://www.pairbistro.ca
+http://www.bcfinewines.ca	Cheryl Lawrence Liquor Agency	88 MacKenzie Ave N, Williams Lake, BC, Canada	food, establishment	52.129687	-122.147047	52.129687	-122.147047
+http://www.themastheadrestaurant.com	The Masthead Restaurant	1705 Cowichan Bay Rd, Cowichan Bay, BC, Canada	restaurant, food, establishment	48.740282	-123.618502	48.740282	-123.618502
+http://www.gipsykings.com
+http://www.bcliquorguys.blogspot.ca
+http://www.waterfrontrestaurant.ca	Waterfront Wines	1180 Sunset Dr, Kelowna, BC, Canada	bar, restaurant, food, establishment	49.894481	-119.496003	49.894481	-119.496003
+http://www.orizee.com
+http://www.kingfisherspa.com	Kingfisher Oceanside Resort and Spa	4330 Island Hwy S, Courtenay, BC, Canada	restaurant, lodging, food, spa, health, establishment	49.631192	-124.919478	49.631192	-124.919478
+http://www.maps.apple.com
+http://www.oliverbonacini.com	Oliver & Bonacini Café Grill	33 Yonge St, Toronto, ON, Canada	restaurant, food, establishment	43.647528	-79.376544	43.647528	-79.376544
+http://www.eat-vancouver.com
+http://www.bit.ly	囍Couple Beauty	Beverley Commercial Centre, 87-105 Chatham Rd S, Hong Kong	clothing_store, store, establishment	22.301405	114.175892	22.301405	114.175892
+http://www.hornbyisland.com	Good Morning B&B	7845 Central Rd, Hornby Island, BC, Canada	lodging, establishment	49.50592	-124.64831	49.50592	-124.64831
+http://www.seasonal56.ca	Seasonal 56	Suite 201-26730 56 Ave, Langley, BC, Canada	restaurant, food, establishment	49.103644	-122.482687	49.103644	-122.482687
+http://www.sparklinghill.com	Sparkling Hill Resort	888 Sparkling Place, Vernon, BC, Canada	lodging, spa, establishment	50.196974	-119.392726	50.196974	-119.392726
+http://www.theloop.ca	Chesler Perlmutter Productions	263 Davenport Rd, Toronto, ON, Canada	establishment	43.67431	-79.398022	43.67431	-79.398022
+http://www.westinwhistler.com	The Westin Resort & Spa, Whistler	4090 Whistler Way, Whistler, BC, Canada	lodging, spa, health, establishment	50.112285	-122.956431	50.112285	-122.956431
+http://www.vancouverisland.travel	Vancouver Island Tourist Services	225 Russell St, Victoria, BC, Canada	establishment	48.42919	-123.387034	48.42919	-123.387034
+http://www.redrooffs.com
+http://www.crosstowncondos.com	CrosstownCondos.com	528 Beatty St, Crosstown Vancouver, BC, Canada	establishment	49.280738	-123.109053	49.280738	-123.109053
+http://www.thebeadtrails.com
+http://www.johannaolson.ca
+http://www.us2.campaign-archive1.com
+http://www.oliver.ca	BC Municipal Govt Sec - SOK -Town of Oliver	35016 97 St, Oliver, BC, Canada	local_government_office, establishment	49.186682	-119.550371	49.186682	-119.550371
+http://www.one-corner.org
+http://www.howlingbluff.ca	Howling Bluff Estate Winery	1086 Three Mile Rd, Penticton, BC, Canada	food, establishment	49.54013	-119.566462	49.54013	-119.566462
+http://www.watermarkbeachresort.com	Watermark Beach Resort Hotel	15 Park Pl, Osoyoos, BC, Canada	lodging, establishment	49.032782	-119.463121	49.032782	-119.463121
+http://www.rusticrootswinery.com	Rustic Roots Winery	2238 Hwy 3 SS 2, Cawston, BC, Canada	food, establishment	49.258095	-118.041656	49.258095	-118.041656
+http://www.wallpaper.com	Wallpaper Magazine	Blue Fin Building, 110 Southwark Street, London, United Kingdom	establishment	51.506233	-0.099947	51.506233	-0.099947
+http://www.youtu.be	Centre Civic les Basses	Carrer del Teide, 20, Barcelona, Spain	establishment	41.430903	2.168688	41.430903	2.168688
+http://www.eventbrite.ca	Destination Atl	Beal Pkwy NE, Fort Walton Beach, FL, United States	store, establishment	30.444712	-86.638428	30.444712	-86.638428
+http://www.alfredsguestservices.com
+http://www.touchofenglish.com	Touch of English Bed & Breakfast	5 Alameda Ct, Kelowna, BC, Canada	lodging, establishment	49.905608	-119.461325	49.905608	-119.461325
+http://www.verjuswinetours.com
+http://www.thevillageatparkroyal.com	Park Royal Shopping Centre	2002 Park Royal S, West Vancouver, BC, Canada	shopping_mall, establishment	49.326316	-123.138398	49.326316	-123.138398
+http://www.okanagan-cottage.ca
+http://www.yewrestaurant.com	YEW seafood + bar	791 W Georgia St, Vancouver, BC, Canada	night_club, bar, restaurant, food, establishment	49.283492	-123.118118	49.283492	-123.118118
+http://www.ramada.com	Ramada Milwaukee Downtown	633 W Michigan St, Milwaukee, WI, United States	lodging, establishment	43.037018	-87.919874	43.037018	-87.919874
+http://www.holidaybeachmotel.ca	Holiday Park Resort	5132 7, Okanagan-Similkameen, Subd. A, BC, Canada	lodging, establishment	49.347011	-119.574168	49.347011	-119.574168
+http://www.shangri-la.com	Shangri-La Hotel, Bangkok	Charoen Krung Rd, Bang Rak, Bangkok, Thailand	restaurant, lodging, food, spa, establishment	13.72089	100.513999	13.72089	100.513999
+http://www.jamieoliver.com	Jamie Oliver Ltd	19-21 Nile St, London, United Kingdom	establishment	51.52933	-0.090795	51.52933	-0.090795
+http://www.winterwineevents.com
+http://www.notable.ca	NOtaBLE - The Restaurant	4611 Bowness Rd NW, Calgary, AB, Canada	bar, restaurant, food, establishment	51.071723	-114.15934	51.071723	-114.15934
+http://www.andrewleongphotography.ca	Andrew Leong Photography	Duncan, BC, Canada	establishment	48.778694	-123.707861	48.778694	-123.707861
+http://www.events.r20.constantcontact.com
+http://www.gulfislandseh.com	Pender Island 03	9894 Canal Rd, South Pender Island, BC, Canada	lodging, establishment	48.751711	-123.198765	48.751711	-123.198765
+http://www.osoyoostimes.com	Osoyoos Times Ltd	8712 Main St, Osoyoos, BC, Canada	establishment	49.032984	-119.468124	49.032984	-119.468124
+http://www.wordpress.org	Gaveltek	301 Clematis St, West Palm Beach, FL, United States	establishment	26.713411	-80.05215	26.713411	-80.05215
+http://www.talvo.ch	Restaurant Talvo by Dalsass	Via Gunels 15, St Moritz, Switzerland	restaurant, food, establishment	46.47851	9.811846	46.47851	9.811846
+http://www.2.bp.blogspot.com
+http://www.blackcloudpinotnoir.wordpress.com
+http://www.ca.news.yahoo.com
+http://www.iconwinesbc.blogspot.ca
+http://www.cedarcreek.bc.ca	CEDARCREEK ESTATE WINERY	5445 Lakeshore Rd, Kelowna, BC, Canada	food, establishment	49.790419	-119.54175	49.790419	-119.54175
+http://www.beloverestaurant.ca
+http://www.demystifiedvine.com
+http://www.alberniheritage.com	McLean Mill National Historic Site	5633 Smith Rd, Port Alberni, BC, Canada	museum, establishment	49.308581	-124.829117	49.308581	-124.829117
+http://www.restaurantcentral.ca
+http://www.islandculinaryservice.ca
+http://www.steamwhistle.ca	Steam Whistle Brewing	255 Bremner Blvd, Toronto, ON, Canada	liquor_store, food, store, establishment	43.640976	-79.385162	43.640976	-79.385162
+http://www.sunpeaksresort.com	Sun Peaks Ski Resort	1280 Alpine Rd, Sun Peaks, BC, Canada	lodging, establishment	50.877177	-119.91001	50.877177	-119.91001
+http://www.wp-events-plugin.com
+http://www.vancouverobserver.com	Surf Sister Surf School	625 Campbell, Tofino, BC, Canada	clothing_store, store, establishment	49.149558	-125.89651	49.149558	-125.89651
+http://www.winebcusa.com
+http://www.vernonmorningstar.com	Vernon Morning Star	4407 25 Ave, Vernon, BC, Canada	establishment	50.257022	-119.304366	50.257022	-119.304366
+http://www.westwoodwines.ca
+http://www.theyellowhouse.ca	Yellow House Restaurant	526 Lawrence Ave, Kelowna, BC, Canada	restaurant, food, establishment	49.885463	-119.492567	49.885463	-119.492567
+http://www.bentonscheese.com	Benton Bros Fine Cheese	3432 Cambie St, Vancouver, BC, Canada	food, store, establishment	49.254516	-123.115014	49.254516	-123.115014
+http://www.auctions.godaddy.com	Edmonton Dragon Boat Racing Club	10296 87 St NW, Edmonton, AB, Canada	establishment	53.54947	-113.470348	53.54947	-113.470348
+http://www.villagegreenhotel.com	Village Green Hotel - Restaurant & Pub	4801 27 St, Vernon, BC, Canada	bar, restaurant, lodging, food, establishment	50.28242	-119.265402	50.28242	-119.265402
+http://www.festinalentefarm.blogspot.ca
+http://www.canadatrails.ca
+http://www.rdos.bc.ca	Okanagan-Similkameen Regional Hospital District	101 Martin St, Penticton, BC, Canada	real_estate_agency, establishment	49.501076	-119.594923	49.501076	-119.594923
+http://www.reifelbirdsanctuary.com	George C. Reifel Bird Sanctuary	5191 Robertson Rd, Delta, BC, Canada	park, establishment	49.100409	-123.194025	49.100409	-123.194025
+http://www.covelakeside.com	The Cove Lakeside Resort	4205 Gellatly Rd, West Kelowna, BC, Canada	lodging, establishment	49.810994	-119.624089	49.810994	-119.624089
+http://www.sylranch.com	See Ya Later Ranch	2575 Green Lake Rd, Okanagan Falls, BC, Canada	food, store, establishment	49.30712	-119.564617	49.30712	-119.564617
+http://www.chrisstenberg.com
+http://www.jancisrobinson.com	Purple Pages	58 Robert St, Dapto NSW, Australia	establishment	-34.496201	150.8007	-34.496201	150.8007
+http://www.sahaliliquorstore.com
+http://www.campagnoloroma.com	Campagnolo Roma	2297 E Hastings St, Vancouver, BC, Canada	restaurant, food, establishment	49.281375	-123.058012	49.281375	-123.058012
+http://www.rosewoodhotels.com	Rosewood Hotels & Resorts	500 Crescent Ct #300, Dallas, TX, United States	establishment	32.795173	-96.804736	32.795173	-96.804736
+http://www.livingwithheart.com
+http://www.bottlejockey.ca	BottleJockey	109-1899 Rosser Ave (Below Joey Restaurant), Burnaby, BC, Canada	liquor_store, store, establishment	49.26674	-123.006932	49.26674	-123.006932
+http://www.mcleansfoods.com	McLean's Specialty Foods	426 Fitzwilliam St, Nanaimo, BC, Canada	grocery_or_supermarket, food, store, establishment	49.165421	-123.942208	49.165421	-123.942208
+http://www.esds.ac.uk	UK Data Archive	Wivenhoe Park, Colchester, United Kingdom	library, establishment	51.876824	0.95318	51.876824	0.95318
+http://www.kag.bc.ca	Kamloops Art Gallery	465 Victoria St #101, Kamloops, BC, Canada	art_gallery, museum, establishment	50.675745	-120.329844	50.675745	-120.329844
+http://www.bestmarriages.ca
+http://www.poppadoms.ca	Poppadoms - Taste India!	948 McCurdy Rd #118, Kelowna, BC, Canada	restaurant, food, establishment	49.901499	-119.405015	49.901499	-119.405015
+http://www.thestablehouse.ca
+http://www.godaddy.com	Go Daddy Group Inc	14455 N Hayden Rd #219, Scottsdale, AZ, United States	establishment	33.617845	-111.908049	33.617845	-111.908049
+http://www.bcmpliquorstore.com	Beverly Corners Liquor Store	2763 Beverly St #102, Duncan, BC, Canada	liquor_store, store, establishment	48.785159	-123.708243	48.785159	-123.708243
+http://www.tugboatgroup.com
+http://www.ferrytravel.com	Ferry Traveller	Suite 301-2250 York Ave, Vancouver, BC, Canada	travel_agency, establishment	49.271706	-123.156319	49.271706	-123.156319
+http://www.chemainustheatrefestival.ca	Chemainus Theatre Festival	9737 Chemainus, North Cowichan, BC, Canada	restaurant, art_gallery, food, establishment	48.920983	-123.716785	48.920983	-123.716785
+http://www.nobleridge.com	Noble Ridge Vineyard & Winery	2320 Oliver Ranch Rd RR 2, Okanagan Falls, BC, Canada	store, restaurant, food, establishment	49.317377	-119.544366	49.317377	-119.544366
+http://www.bravobeerco.com	Bravo Beer Co	3 40340 Tantalus Rd, Squamish, BC, Canada	food, establishment	49.742086	-123.133042	49.742086	-123.133042
+http://www.torontolife.com	Swish By Han	38 Wellington St E, Toronto, ON, Canada	restaurant, food, establishment	43.648553	-79.375161	43.648553	-79.375161
+http://www.antinori.it	Cantinetta Antinori	Jasomirgottstraße 3, Vienna, Austria	restaurant, food, establishment	48.208975	16.371839	48.208975	16.371839
+http://www.ruthschris.com	Ruth's Chris Steak House	2961 Michelson Dr, Irvine, CA, United States	restaurant, food, establishment	33.671828	-117.845726	33.671828	-117.845726
+http://www.pentictonwineinfo.com	British Columbia Wine Information Centre	553 Railway St, Penticton, BC, Canada	food, establishment	49.493577	-119.603361	49.493577	-119.603361
+http://www.circlefarmtour.ca
+http://www.enotecca.ca	Enotecca Winery & Resorts Inc	Suite 305-1168 Hamilton St, Vancouver, BC, Canada	lodging, establishment	49.275126	-123.122159	49.275126	-123.122159
+http://www.bistro161.com	Bistro 161	161 Kenneth St, Duncan, BC, Canada	restaurant, food, establishment	48.778599	-123.709481	48.778599	-123.709481
+http://www.arrowleafcellars.com	Arrowleaf Cellars	1574 Camp, Winfld, Canada	food, establishment	50.045148	-119.438494	50.045148	-119.438494
+http://www.feeds.feedburner.com
+http://www.personalessaypaper.com
+http://www.sippitysup.com
+http://www.vancouverislandbeyondvictoria.com
+http://www.seahorsegrill.com
+http://www.araxi.com	Araxi Restaurant + Bar	4222 Village Square, Whistler, BC, Canada	restaurant, food, establishment	50.114964	-122.955984	50.114964	-122.955984
+http://www.iyarapenticton.com	Iyara Thai Restaurant	2985 Skaha Lake Rd, Penticton, BC, Canada	restaurant, food, establishment	49.462233	-119.588557	49.462233	-119.588557
+http://www.grapevineokanagan.com
+http://www.dundaravewine.com	Dunarave Wine Cellar	2448 Marine Dr, West Vancouver, BC, Canada	liquor_store, food, store, establishment	49.334422	-123.180672	49.334422	-123.180672
+http://www.hideawayliquor.com
+http://www.wines.cowichan
+http://www.housepiccolo.com	House Piccolo	108 Hereford Ave, Saltspring Island,, BC, Canada	restaurant, food, establishment	48.853625	-123.500747	48.853625	-123.500747
+http://www.cheddarbay.com
+http://www.tripadvisor.co.uk	Restaurang Kvarnen	Tjärhovsgatan 4, Stockholm, Sweden	night_club, bar, restaurant, food, establishment	59.31486	18.0742	59.31486	18.0742
+http://www.willwinter.ca
+http://www.rookandrose.com	Rook and Rose Flowers, Victoria, BC	569 Johnson St, Victoria, BC, Canada	florist, store, establishment	48.427509	-123.368144	48.427509	-123.368144
+http://www.eatdrinkbelocal.com
+http://www.hungryforchange.tv	homemadefood.com.au	Cammeray NSW, Australia	food, establishment	-33.822807	151.214615	-33.822807	151.214615
+http://www.bravorestaurant.ca	Bravo Restaurant & Lounge	46224 Yale Rd E, Chilliwack, BC, Canada	bar, restaurant, food, establishment	49.171642	-121.949766	49.171642	-121.949766
+http://www.pointgreygolf.com	Point Grey Golf & Country Club	3350 SW Marine Dr, Vancouver, BC, Canada	establishment	49.223891	-123.184477	49.223891	-123.184477
+http://www.bigwhitemarket.com
+http://www.langleychamber.com	Greater Langley Chamber of Commerce	5761 Glover Rd, Langley, BC, Canada	establishment	49.108431	-122.650895	49.108431	-122.650895
+http://www.crosstownliquorstore.com	Crosstown Liquor Store	568 Abbott St, Vancouver, BC, Canada	liquor_store, store, establishment	49.280139	-123.107478	49.280139	-123.107478
+http://www.crannogales.com	Crannog Ales Ltd	706 Elson Rd, Sorrento, BC, Canada	food, establishment	50.881618	-119.506719	50.881618	-119.506719
+http://www.ninthhol.com	The inn at the ninth hole	5091 20 Ave SE, Salmon Arm, BC, Canada	lodging, establishment	50.685409	-119.226512	50.685409	-119.226512
+http://www.orucuisine.com	Oru Cuisine	1038 Canada Pl, Vancouver, BC, Canada	restaurant, food, establishment	49.28846	-123.116966	49.28846	-123.116966
+http://www.nootkasoundresort.com	Nootka Sound Resort	1392 Seaview Rd, Black Creek, BC, Canada	establishment	49.705055	-126.469116	49.705055	-126.469116
+http://www.cowichanwaves.com
+http://www.southfrasershuttlesandtours.com
+http://www.crittercarewildlife.org	Critter Care Wildlife Society	481 216 St, Langley, BC, Canada	establishment	49.010676	-122.625248	49.010676	-122.625248
+http://www.beachsideforno.com
+http://www.musewinery.ca	Muse Winery	11195 Chalet Rd, North Saanich, BC, Canada	store, restaurant, food, establishment	48.686725	-123.471098	48.686725	-123.471098
+http://www.ctvvancouverisland.ca	CTV Vancouver Island	1420 Broad St, Victoria, BC, Canada	establishment	48.427916	-123.366058	48.427916	-123.366058
+http://www.naramatabench.com	Naramata Bench Wineries Association	1086 Three Mile Rd, Penticton, BC, Canada	food, establishment	49.539467	-119.567893	49.539467	-119.567893
+http://www.onressystems.com	OnRes Systems	145 Keith Rd W #506, North Vancouver, BC, Canada	lodging, establishment	49.27576	-123.12229	49.27576	-123.12229
+http://www.landseaokanagan.com
+http://www.mfvwines.us5.list-manage1.com
+http://www.kelownanow.com
+http://www.smackdabmanteo.com	Wild Apple Restaurant & Lounge	3766 Lakeshore Rd, Kelowna, BC, Canada	restaurant, food, establishment	49.846756	-119.487289	49.846756	-119.487289
+http://www.mjg.ca	Yaletown Brewing Company	1111 Mainland St, Vancouver, BC, Canada	bar, restaurant, food, establishment	49.275489	-123.120894	49.275489	-123.120894
+http://www.tavolavancouver.com	Tavola	1829 Robson St, Vancouver, BC, Canada	restaurant, food, establishment	49.291836	-123.135794	49.291836	-123.135794
+http://www.vineswinemerchants.com	Vines-Riverbend Wine Merchants	2331 Rabbit Hill Rd NW, Edmonton, AB, Canada	liquor_store, store, establishment	53.454768	-113.565538	53.454768	-113.565538
+http://www.kelownaartgallery.com	Kelowna Art Gallery	1315 Water St, Kelowna, BC, Canada	art_gallery, museum, establishment	49.891287	-119.496472	49.891287	-119.496472
+http://www.shamselnel.org
+http://www.jollymillerpub.com	Jolly Miller Pub	5865 Vedder Rd, Chilliwack, BC, Canada	bar, establishment	49.108859	-121.959044	49.108859	-121.959044
+http://www.academyofwine.com
+http://www.okanagansymphony.com	Okanagan Symphony Society	Suite 239-1889 Springfield Rd, Kelowna, BC, Canada	establishment	49.876631	-119.456029	49.876631	-119.456029

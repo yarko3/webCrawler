@@ -102,7 +102,7 @@ public class Crawl {
 	
 	public static void tagFile() throws FileNotFoundException, UnsupportedEncodingException, MalformedURLException
 	{
-		LinkedList<String> list = urlFromFile("data/wineries.txt");
+		LinkedList<String> list = urlFromFile("data/wineryExternals.txt");
 		
 		GooglePlaces client = new GooglePlaces("AIzaSyAjia1NdqXrNmBVVwe8TTmd7YqvX5BYJRA");
 		
@@ -118,14 +118,14 @@ public class Crawl {
 	    	String urlCopy = url;
 	        String p = new URL(urlCopy).getProtocol();
 	        String h = new URL(urlCopy).getHost();
+//	        
+//	        if (!h.contains("www."))
+//    			urlCopy = p + "://www." + h;
+//    		else
+//    			urlCopy = p +"://" + h;
+//	    	
 	        
-	        if (!h.contains("www."))
-    			urlCopy = p + "://www." + h;
-    		else
-    			urlCopy = p +"://" + h;
-	    	
-	        
-	        writer.print(urlCopy);
+	        writer.print(url);
 	    	
 	    	
 		    try
@@ -158,31 +158,31 @@ public class Crawl {
 		        	String address = top.getAddress();
 		        	
 		        	//if ((!address.isEmpty() && address.contains("Canada")) || address.isEmpty())
-//		        	{
-//			        	String name = top.getName();
-//			        	writer.print("\t" + name);
-//			        	
-//			        	if (!address.isEmpty())
-//			        		writer.print("\t" + address + "\t");
-//			        	else
-//			        		writer.print("\t\t");
-//			        	
-//			        	
-//			        	Iterator<String> it = top.getTypes().iterator();
-//						while (it.hasNext())
-//						{
-//							writer.print(it.next());
-//							if (it.hasNext())
-//								writer.print(", ");
-//							
-//						}
-//						
-//						
-//						writer.print("\t" + top.getLatitude() + "\t" + top.getLongitude());
-//						
-//		        	}
+		        	{
+			        	String name = top.getName();
+			        	writer.print("\t" + name);
+			        	
+			        	if (!address.isEmpty())
+			        		writer.print("\t" + address + "\t");
+			        	else
+			        		writer.print("\t\t");
+			        	
+			        	
+			        	Iterator<String> it = top.getTypes().iterator();
+						while (it.hasNext())
+						{
+							writer.print(it.next());
+							if (it.hasNext())
+								writer.print(", ");
+							
+						}
+						
+						
+						writer.print("\t" + top.getLatitude() + "\t" + top.getLongitude());
+						
+		        	}
 		        	
-		        	writer.print("\t" + top.getLatitude() + "\t" + top.getLongitude());
+		        	//writer.print("\t" + top.getLatitude() + "\t" + top.getLongitude());
 	        	}
 		    }
 		    catch (Exception e)
@@ -371,14 +371,15 @@ public class Crawl {
         
         
         
-        while (!wineries.isEmpty())
+        for (int i = 0 ; i < wineries.size(); i++)
         {
+        	
         	count++;
         	traversed = new HashSet<String>();
         	linkSet = new TreeSet<String>();
         	
         	
-        	String url = wineries.removeFirst().toLowerCase();
+        	String url = wineries.get(i).toLowerCase();
 
         	System.out.println("working on " + url);
         	
@@ -405,7 +406,7 @@ public class Crawl {
 		        
 		        String host = new URL(url).getHost().replace("www.", "");
 		        
-		        while (!linkSet.isEmpty() && traversed.size() < 200)
+		        while (!linkSet.isEmpty() && traversed.size() < 1000)
 		        {
 		        	String next = linkSet.first();
 		        	linkSet.remove(next);
@@ -426,50 +427,60 @@ public class Crawl {
 			        	if (traversed.add(next))
 			        		System.out.println("Traversed " + next);
 			        	
-			        	if (!(new URL(next).getHost().contains(host)))
+			        	if (!next.contains(host))
 			        	{
 			        		next = new URL(next).getHost();
 			        		
-			        		//normalize next
-			        		if (!next.contains("www"))
-				        		next = "http://www." + next;
-			        		else
-			        			next = "http://" + next;
-			        		
-			        		//add to 
-			        		//hosts.add(next);
-			        		
-			        		
-			        		if (wineries.contains(next))
+			        		if (!next.isEmpty())
 			        		{
-			        			if (!wineryMap.containsKey(url))
-			        			{
-			        				wineryMap.put(url, new HashSet<String>());
-			        			}
-			        			wineryMap.get(url).add(next);
+				        		//normalize next
+				        		if (!next.contains("www"))
+					        		next = "http://www." + next;
+				        		else
+				        			next = "http://" + next;
+				        		
+				        		//add to 
+				        		//hosts.add(next);
+				        		
+				        		
+				        		if (wineries.contains(next))
+				        		{
+				        			if (!wineryMap.containsKey(url))
+				        			{
+				        				wineryMap.put(url, new HashSet<String>());
+				        			}
+				        			wineryMap.get(url).add(next);
+				        		}
+				        		
+				        		
+				        		//do not need for winery-winery traversal
+//				        		if (!externalMap.containsKey(url))
+//				        			externalMap.put(url, new HashSet<String>());
+//				        		
+//				        		externalMap.get(url).add(next);
 			        		}
-			        		
-			        		
-			        		if (!externalMap.containsKey(url))
-			        			externalMap.put(url, new HashSet<String>());
-			        		
-			        		externalMap.get(url).add(next);
 			        	}
 			        		
 		        	}
 		        }
+		        PrintWriter writer;
 		        
-		        //dump current hosts to file
-		        PrintWriter writer = new PrintWriter("data/edgeSet.txt", "UTF-8");
-		        
-		       
-		        for (String h : externalMap.keySet())
-		        {
-		        	for (String link : externalMap.get(h))
-		        		writer.println(h + " " + link);
-		        }
-		        
-		        writer.close();
+		                
+//		        HashSet<String> externals = new HashSet<String>();
+//		        //dump current hosts to file
+//		        writer = new PrintWriter("data/edgeSet.txt", "UTF-8");
+//		        
+//		       
+//		        for (String h : externalMap.keySet())
+//		        {
+//		        	for (String link : externalMap.get(h))
+//		        	{
+//		        		writer.println(h + " " + link);
+//		        		externals.add(link);
+//		        	}
+//		        }
+//		        
+//		        writer.close();
 		        
 		        
 		        writer = new PrintWriter("data/wineryEdgeSet.txt", "UTF-8");
@@ -483,12 +494,19 @@ public class Crawl {
 		        
 		        writer.close();
 		        
-		        
-		        
+//		        //write externals to file
+//		        writer = new PrintWriter("data/wieryExternals.txt", "UTF-8");
+//		        
+//		        for (String s : externals)
+//		        {
+//		        	writer.println(s);
+//		        }
+//		        
+//		        writer.close();
 	        }
 	        catch (Exception e)
 	        {
-	        	//everything else happened
+	        	e.printStackTrace();
 	        }
         }
         
