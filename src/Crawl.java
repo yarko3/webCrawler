@@ -11,6 +11,7 @@ import java.util.HashSet;
 import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.List;
+import java.util.PriorityQueue;
 import java.util.Scanner;
 import java.util.Set;
 import java.util.TreeSet;
@@ -31,12 +32,13 @@ public class Crawl {
 	
 	public static void main(String[] args) throws FileNotFoundException, UnsupportedEncodingException, MalformedURLException
 	{
-		parseFileForExternals();
+		//parseFileForExternals();
 		//tagFile();
 		//parseFile("data/wineries.txt");
 		//parseWithKnowns();
-		
 		//buildEdgeSet();
+		//rankDegrees();
+		partitionWineries();
 	}
 	
 	public static void buildEdgeSet() throws FileNotFoundException, UnsupportedEncodingException
@@ -344,7 +346,7 @@ public class Crawl {
         //notFound.close();
 	}
 	
-	
+	//USED FOR FINAL SCRUBBING
     public static void parseFileForExternals()
     {
     	//traversed urls
@@ -454,10 +456,10 @@ public class Crawl {
 				        		
 				        		
 				        		//do not need for winery-winery traversal
-//				        		if (!externalMap.containsKey(url))
-//				        			externalMap.put(url, new HashSet<String>());
-//				        		
-//				        		externalMap.get(url).add(next);
+				        		if (!externalMap.containsKey(url))
+				        			externalMap.put(url, new HashSet<String>());
+				        		
+				        		externalMap.get(url).add(next);
 			        		}
 			        	}
 			        		
@@ -466,21 +468,21 @@ public class Crawl {
 		        PrintWriter writer;
 		        
 		                
-//		        HashSet<String> externals = new HashSet<String>();
-//		        //dump current hosts to file
-//		        writer = new PrintWriter("data/edgeSet.txt", "UTF-8");
+		        HashSet<String> externals = new HashSet<String>();
+		        //dump current hosts to file
+		        writer = new PrintWriter("data/edgeSet.txt", "UTF-8");
 //		        
 //		       
-//		        for (String h : externalMap.keySet())
-//		        {
-//		        	for (String link : externalMap.get(h))
-//		        	{
-//		        		writer.println(h + " " + link);
-//		        		externals.add(link);
-//		        	}
-//		        }
-//		        
-//		        writer.close();
+		        for (String h : externalMap.keySet())
+		        {
+		        	for (String link : externalMap.get(h))
+		        	{
+		        		writer.println(h + " " + link);
+		        		externals.add(link);
+		        	}
+		        }
+		        
+		        writer.close();
 		        
 		        
 		        writer = new PrintWriter("data/wineryEdgeSet.txt", "UTF-8");
@@ -494,15 +496,15 @@ public class Crawl {
 		        
 		        writer.close();
 		        
-//		        //write externals to file
-//		        writer = new PrintWriter("data/wieryExternals.txt", "UTF-8");
+		        //write externals to file
+		        writer = new PrintWriter("data/wieryExternals.txt", "UTF-8");
+		        
+		        for (String s : externals)
+		        {
+		        	writer.println(s);
+		        }
 //		        
-//		        for (String s : externals)
-//		        {
-//		        	writer.println(s);
-//		        }
-//		        
-//		        writer.close();
+		        writer.close();
 	        }
 	        catch (Exception e)
 	        {
@@ -571,6 +573,182 @@ public class Crawl {
 		return list;
     }
     
+    private static void rankDegrees() throws FileNotFoundException
+    {
+    	HashMap<String, Integer> inDegree = new HashMap<String, Integer>();
+    	HashMap<String, Integer> outDegree = new HashMap<String, Integer>();
+    	
+    	FileReader file = new FileReader("data/wineryEdgeList.txt");
+    	
+    	Scanner scan = new Scanner(file);
+    	
+    	while (scan.hasNextLine())
+    	{
+    		String a = scan.next();
+    		String b = scan.next();
+    		
+    		//update outDegree
+    		if (!outDegree.containsKey(a))
+    		{
+    			outDegree.put(a, 1);
+    		}
+    		else
+    		{
+    			outDegree.put(a, outDegree.get(a) + 1);
+    		}
+    		
+    		//update inDegree
+
+    		if (!inDegree.containsKey(b))
+    		{
+    			inDegree.put(b, 1);
+    		}
+    		else
+    		{
+    			inDegree.put(b, inDegree.get(b) + 1);
+    		}
+    	}
+    	
+    	scan.close();
+    	
+    	HashMap<Integer, LinkedList<String>> inDegHash = new HashMap<Integer, LinkedList<String>>();
+    	HashMap<Integer, LinkedList<String>> outDegHash = new HashMap<Integer, LinkedList<String>>();
+    	
+    	//place vertices into hashmap
+    	for (String s : inDegree.keySet())
+    	{
+    		int degree = inDegree.get(s);
+    		
+    		if (!inDegHash.containsKey(degree))
+    		{
+    			inDegHash.put(degree, new LinkedList<String>());
+    		}
+    		
+    		inDegHash.get(degree).add(s);
+    		
+    	}
+    	
+    	for (String s : outDegree.keySet())
+    	{
+    		int degree = outDegree.get(s);
+    		
+    		if (!outDegHash.containsKey(degree))
+    		{
+    			outDegHash.put(degree, new LinkedList<String>());
+    		}
+    		
+    		outDegHash.get(degree).add(s);
+    		
+    	}
+    	
+    	PriorityQueue<Integer> inQueue = new PriorityQueue<Integer>();
+    	PriorityQueue<Integer> outQueue = new PriorityQueue<Integer>();
+    	
+    	inQueue.addAll(inDegHash.keySet());
+    	outQueue.addAll(outDegHash.keySet());
+    	
+    	System.out.println("\nOrdered Second Column Degrees: ");
+    	while (!inQueue.isEmpty())
+    	{
+    		int deg = inQueue.remove();
+    		
+    		//System.out.println("Degree : " + deg);
+    		for (String s : inDegHash.get(deg + "\t" + deg))
+    		{
+    			System.out.println(s);
+    		}
+    	}
+    	
+    	System.out.println("Ordered First Column Degrees: ");
+    	while (!outQueue.isEmpty())
+    	{
+    		int deg = outQueue.remove();
+    		//System.out.println("Degree : " + deg);
+    		for (String s : outDegHash.get(deg))
+    		{
+    			System.out.println(deg + "\t" + s);
+    		}
+    	}
+    	
+    }
     
+    private static void partitionWineries() throws FileNotFoundException
+    {
+    	FileReader file = new FileReader("data/edgeList.txt");
+    	
+    	Scanner scan = new Scanner(file);
+    	
+    	HashMap<String, HashSet<String>> externalEdgeSet = new HashMap<String, HashSet<String>>();
+    	HashMap<String, HashSet<String>> wineryEdgeSet = new HashMap<String, HashSet<String>>();
+    	
+    	
+    	HashSet<String> wineries = new HashSet<String>();
+    	
+    	while (scan.hasNextLine())
+    	{
+    		String a = scan.next();
+    		String b = scan.next();
+    		
+    		if (!externalEdgeSet.containsKey(b))
+    		{
+    			externalEdgeSet.put(b, new HashSet<String>());
+    		}
+    		if (!wineryEdgeSet.containsKey(a))
+    		{
+    			wineryEdgeSet.put(a, new HashSet<String>());
+    		}
+    		
+    		wineryEdgeSet.get(a).add(b);
+    		externalEdgeSet.get(b).add(a);
+    		wineries.add(a);
+    	}
+    	
+    	//print all the wineries linked to Twitter
+    	System.out.println("Linked to Twitter: ");
+    	for (String s : externalEdgeSet.get("http://www.facebook.com"))
+    	{
+    		System.out.println(s);
+    	}
+    	int wineryCount = wineries.size();
+    	
+    	wineries.removeAll(externalEdgeSet.get("http://www.facebook.com"));
+    	
+    	System.out.println("\nAll others: ");
+    	for (String s : wineries)
+    	{
+    		System.out.println(s);
+    	}
+    	
+    	//find average external link
+    	double twitterAverage = 0;
+    	double nonAverage = 0;
+    	int twitterCount = 0;
+    	int nonCount = 0;
+    	
+    	for (String winery : wineryEdgeSet.keySet())
+    	{
+    		if (wineries.contains(winery))
+    		{
+    			nonAverage += wineryEdgeSet.get(winery).size();
+    			nonCount++;
+    		}
+    		else
+    		{
+    			twitterAverage += wineryEdgeSet.get(winery).size();
+    			twitterCount++;
+    		}
+    	}
+    	
+//    	twitterAverage = twitterAverage / (wineryCount - wineries.size());
+//    	nonAverage = nonAverage / wineries.size();
+    	
+    	twitterAverage /= twitterCount;
+    	nonAverage /= nonCount;
+    	
+    	System.out.println("Average twitter winery external count: " + twitterAverage);
+    	System.out.println("Average non twitter winery external count: " + nonAverage);
+    	
+    	
+    }
 
 }
