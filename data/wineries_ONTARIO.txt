@@ -27,6 +27,7 @@ http://www.ontario-wine.com
 http://www.colaneriwines.com
 http://www.lakeitfarms.com
 http://www.inniskillin.com
+http://www.crushvqa.com
 http://www.olearywines.com
 http://www.marynissen.com
 http://www.konzelmann.ca
@@ -47,8 +48,10 @@ http://www.strewnwinery.com
 http://www.pillitteri.com
 http://www.frogpondfarm.ca
 http://www.chateaudescharmes.com
+http://www.bigheadwines.ca
 http://www.twosistersvineyards.com
 http://www.100markswines.ca
+http://www.riverviewcellars.com
 http://www.daredevilwines.com
 http://www.20bees.com
 http://www.lindenbaywines.com
@@ -134,6 +137,7 @@ http://www.nyaraicellars.com
 http://www.featherstonewinery.ca
 http://www.vinology.ca
 http://www.thirtybench.com
+http://www.alvento.ca
 http://www.goodearthfoodandwine.com
 http://www.alvento.ca
 http://www.hiddenbench.com
@@ -166,6 +170,7 @@ http://www.harbourestateswinery.com
 http://www.harvestwines.com
 http://www.oakheights.ca
 http://www.birtchfarms.com
+http://www.coffinridge.ca
 http://www.downeysfarm.com
 http://www.scotchblockwinery.com
 http://www.archibalds-estatewinery.on.ca
@@ -174,6 +179,7 @@ http://www.bellamere.com
 http://www.vintageonewines.com
 http://www.thelittlegrapethatcould.com
 http://www.cilentowines.com
+http://www.domaineducervin.com
 http://www.applewoodfarmwinery.com
 http://www.gallo.com
 http://www.georgianhillsvineyards.ca

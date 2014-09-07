@@ -33,12 +33,12 @@ public class Crawl {
 	public static void main(String[] args) throws FileNotFoundException, UnsupportedEncodingException, MalformedURLException
 	{
 		//parseFileForExternals();
-		//tagFile();
+		tagFile();
 		//parseFile("data/wineries.txt");
 		//parseWithKnowns();
 		//buildEdgeSet();
 		//rankDegrees();
-		partitionWineries();
+		//partitionWineries();
 	}
 	
 	public static void buildEdgeSet() throws FileNotFoundException, UnsupportedEncodingException
@@ -104,7 +104,7 @@ public class Crawl {
 	
 	public static void tagFile() throws FileNotFoundException, UnsupportedEncodingException, MalformedURLException
 	{
-		LinkedList<String> list = urlFromFile("data/wineryExternals.txt");
+		LinkedList<String> list = urlFromFile("data/wineries.txt");
 		
 		GooglePlaces client = new GooglePlaces("AIzaSyAjia1NdqXrNmBVVwe8TTmd7YqvX5BYJRA");
 		
@@ -169,6 +169,8 @@ public class Crawl {
 			        	else
 			        		writer.print("\t\t");
 			        	
+			        	//for the winery province tab
+			        	writer.print("\t");
 			        	
 			        	Iterator<String> it = top.getTypes().iterator();
 						while (it.hasNext())
@@ -202,157 +204,13 @@ public class Crawl {
 		
 	}
 	
-	public static void parseWithKnowns()
-	{
-		//fill hashmap with known links
-		LinkedList<String> known = urlFromFile("data/links.txt");
-		HashMap<String, HashSet<String>> hash = new HashMap<String, HashSet<String>>();
-		//PrintWriter notFound = new PrintWriter("data/notFound.txt", "UTF-8");
-		
-		
-		for (String s : known)
-		{
-			if (hash.get(s) == null)
-				hash.put(s, new HashSet<String>());
-			else
-				System.out.println(s + " already exists");
-		}
-		
-		HashSet<String> traversed;
-    	TreeSet<String> linkSet;
-    	HashSet<String> hosts = new HashSet<String>();
-    	
-        //System.out.println("Enter a url to traverse: ");
-        //String url = scan.next();
-        
-        LinkedList<String> list = urlFromFile("data/wineries.txt");
-        int count = 0;
-        
-        while (!list.isEmpty())
-        {
-        	count++;
-        	traversed = new HashSet<String>();
-        	linkSet = new TreeSet<String>();
-        	
-        	
-        	String url = list.removeFirst();
-
-        	System.out.println("working on " + url);
-        	
-	        traversed.add(url);
-	        
-	        try
-	        {
-		        Document doc = Jsoup.connect(url).timeout(0).get();
-		        
-		        
-		        Elements links = doc.select("a[href]");
-		
-		        //print("\nLinks: (%d)", links.size());
-		        for (Element link : links) {
-		            linkSet.add(link.attr("abs:href"));
-		        }
-		        
-		        String urlCopy = url;
-		        String p = new URL(urlCopy).getProtocol();
-		        String h = new URL(urlCopy).getHost();
-		        
-		        if (!h.contains("www."))
-        			urlCopy = p + "://www." + h;
-        		else
-        			urlCopy = p +"://" + h;
-		        
-		        url = new URL(url).getHost();
-		        //hosts.add(url);
-		        
-		        while (!linkSet.isEmpty() && traversed.size() < 100)
-		        {
-		        	String next = linkSet.first();
-		        	linkSet.remove(next);
-		        	
-		        	if (next != "")
-		        	{
-		        		//normalize url
-		        		URL temp = new URL(next);
-		        		next = temp.getProtocol() + "://" + temp.getHost() + temp.getPath();
-		        		
-		        		//internal link, dig deeper
-			        	if (next.contains(url) && !traversed.contains(next))
-			        	{
-			        		traverse(next, linkSet, traversed);
-			        	}
-			        	
-			        	if (traversed.add(next))
-			        		System.out.println("Traversed " + next);
-			        	
-			        	if (!(new URL(next).getHost().contains(url.replace("www.", ""))))
-			        	{
-			        		String host = new URL(next).getHost();
-			        		String protocol = new URL(next).getProtocol();
-			        		
-			        		if (!host.contains("www."))
-			        			host = "http://www." + host;
-			        		else
-			        			host = "http://" + host;
-			        		
-			        		host = host.toLowerCase();
-			        		
-			        		hosts.add(host);
-			        		
-			        		if (hash.get(host) == null)
-				        	{
-				        		System.out.println(host + " not found");
-			        			//notFound.println(urlCopy + " " + host);
-				        	}
-			        		else
-			        			hash.get(host).add(urlCopy);
-			        	}
-		        	}
-		        }
-		       
-		        
-		        
-		        //dump current hash to file
-		        
-		        PrintWriter writer = new PrintWriter("data/resultsKnowns.txt", "UTF-8");
-		   
-		       
-		        for (int i = 0; i < known.size(); i++)
-		        {	
-		        	String k = known.get(i);
-		        	writer.println();
-		        	try
-		        	{
-		        	
-		        	for (String s : hash.get(k))
-		        		writer.print(s + " ");
-		        	}
-		        	catch (Exception e)
-		 	        {
-		 	        	System.out.println("Something happened");
-		 	        	e.printStackTrace();
-		 	        }
-		        	
-		        }
-		        
-		        writer.close();
-	        }
-	        catch (Exception e)
-	        {
-	        	e.printStackTrace();
-	        }
-	        
-        }
-        //notFound.close();
-	}
-	
 	//USED FOR FINAL SCRUBBING
     public static void parseFileForExternals()
     {
     	//traversed urls
     	HashSet<String> traversed;
     	//set of links from the given winery to be traversed
-    	TreeSet<String> linkSet;
+    	TreeSet<myURL> linkSet;
     	//found hosts of externals
     	HashSet<String> hosts = new HashSet<String>();
     	
@@ -365,8 +223,6 @@ public class Crawl {
     	
     
     	
-    	
-    	
         
         LinkedList<String> wineries = urlFromFile("data/wineries.txt");
         int count = 0;
@@ -378,7 +234,7 @@ public class Crawl {
         	
         	count++;
         	traversed = new HashSet<String>();
-        	linkSet = new TreeSet<String>();
+        	linkSet = new TreeSet<myURL>();
         	
         	
         	String url = wineries.get(i).toLowerCase();
@@ -396,7 +252,7 @@ public class Crawl {
 		
 		        //print("\nLinks: (%d)", links.size());
 		        for (Element link : links) {
-		            linkSet.add(link.attr("abs:href"));
+		            linkSet.add(new myURL(link.attr("abs:href"), 0));
 		        }
 		        
 		        
@@ -410,10 +266,16 @@ public class Crawl {
 		        
 		        while (!linkSet.isEmpty() && traversed.size() < 1000)
 		        {
-		        	String next = linkSet.first();
-		        	linkSet.remove(next);
+		        	myURL n = linkSet.first();
 		        	
-		        	if (!next.equals(""))
+		        	String next = n.url;
+		        	
+		        	int depth = n.depth;
+		        	
+		        	linkSet.remove(n);
+		        	
+		        	//link is contains something
+		        	if (!next.equals("") || !next.equals(" "))
 		        	{
 		        		//normalize url
 		        		URL temp = new URL(next.toLowerCase());
@@ -423,7 +285,7 @@ public class Crawl {
 		        		
 			        	if (next.contains(host) && !traversed.contains(next))
 			        	{
-			        		traverse(next, linkSet, traversed);
+			        		traverse(next, linkSet, traversed, depth);
 			        	}
 			    
 			        	if (traversed.add(next))
@@ -517,31 +379,37 @@ public class Crawl {
     }
 
     
-    private static void traverse(String url, TreeSet<String> linkSet, HashSet<String> traversed) throws IOException
+    private static void traverse(String url, TreeSet<myURL> linkSet, HashSet<String> traversed, int depth) throws IOException
     {
-    	try
+    	//choose depth bound to traverse
+    	//if (depth < 1)
     	{
-	    	 Document doc = Jsoup.connect(url).timeout(0).get();
-	         Elements links = doc.select("a[href]");
-	         
-	         
-	         //print("\nLinks: (%d)", links.size());
-	         for (Element link : links) {
-	        	 String next = link.attr("abs:href");
-
-	        	 //normalize url
-	        	 URL temp = new URL(next.toLowerCase());
-	        	 next = temp.getProtocol() + "://" + temp.getHost() + temp.getPath();
-	        	 
-	        	 if (!traversed.contains(next) && next!= "http://www.")
-	        	 {
-	        		 linkSet.add(next);
-	        	 }
-	         }
-    	}
-    	catch (Exception e)
-    	{
-    		//everything else happened
+	    	try
+	    	{
+		    	 Document doc = Jsoup.connect(url).timeout(0).get();
+		         Elements links = doc.select("a[href]");
+		         
+		         
+		         //print("\nLinks: (%d)", links.size());
+		         for (Element link : links) {
+		        	 String next = link.attr("abs:href");
+	
+		        	 //normalize url
+		        	 URL temp = new URL(next.toLowerCase());
+		        	 next = temp.getProtocol() + "://" + temp.getHost() + temp.getPath();
+		        	 
+		        	 myURL n = new myURL(next, depth+1);
+		        	 
+		        	 if (!traversed.contains(next) && next!= "http://www.")
+		        	 {
+		        		 linkSet.add(n);
+		        	 }
+		         }
+	    	}
+	    	catch (Exception e)
+	    	{
+	    		//everything else happened
+	    	}
     	}
     }
 
@@ -749,6 +617,54 @@ public class Crawl {
     	System.out.println("Average non twitter winery external count: " + nonAverage);
     	
     	
+    }
+    
+    static class myURL implements Comparable<myURL>
+    {
+    	@Override
+		public int hashCode() {
+			final int prime = 31;
+			int result = 1;
+			result = prime * result + depth;
+			result = prime * result + ((url == null) ? 0 : url.hashCode());
+			return result;
+		}
+
+		@Override
+		public boolean equals(Object obj) {
+			if (this == obj)
+				return true;
+			if (obj == null)
+				return false;
+			if (getClass() != obj.getClass())
+				return false;
+			myURL other = (myURL) obj;
+			if (depth != other.depth)
+				return false;
+			if (url == null) {
+				if (other.url != null)
+					return false;
+			} else if (!url.equals(other.url))
+				return false;
+			return true;
+		}
+
+		String url;
+    	int depth;
+    	
+    	myURL(String u, int d)
+    	{
+    		url = u;
+    		depth = d;
+    	}
+
+		@Override
+		public int compareTo(myURL arg0) {
+			if (equals(arg0))
+				return 0;
+			else
+				return -1;
+		}
     }
 
 }
