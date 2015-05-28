@@ -1,0 +1,485 @@
+http://www.terroiretsaveurs.com	Gite La Jeanne Claire	303 5e Av, St-Gabriel de Valcartier, QC G0A 4S0, Canada		restaurant, lodging, food, establishment	47.030513	-71.484193
+http://www.passepartout.ca	Le Passe-Partout	167 Boulevard Pierre Laporte, Cowansville, QC J2K 2G3, Canada		lodging, establishment	45.210431	-72.715271
+http://www.alimentsduquebec.com	Aliments Bari Inc	155 Rte De Bureau, Saint-Léonard-d'Aston, QC J0C 1M0, Canada		restaurant, food, establishment	46.08101	-72.360996
+http://www.bestar.jp
+http://www.tourisme.iledorleans.com	Acceuil Touristique De L'Île D'Orléans	490 Côte du Pont, Saint-Pierre-de-l'Île-d'Orléans, QC G0A 4E0, Canada		restaurant, food, establishment	46.87429	-71.098691
+http://www.fppq.ca
+http://www.cotedeslimousins.com	Vignoble Côte Des Limousins	1980 David Bouchard, Roxton Pond, QC J0E 1Z0, Canada		store, establishment	45.416763	-72.610265
+http://www.saison.terroiretsaveurs.com
+http://www.cabaneapierre.com	Cabane à Pierre Beauce Inc	566 2e Rang Frampton, G0R 1M0, Canada		food, establishment	46.445286	-70.812888
+http://www.wsimagazine.com
+http://www.laconsigne.ca	La Consigne	168, Rue Fleury Ouest, Montreal, QC H3L 1T5, Canada		liquor_store, store, establishment	45.546023	-73.66623
+http://www.fetedesvins.ca	Vignoble Rivière du Chêne	Chemin de la Rivière Nord, St-Eustache, QC J7R 0J5, Canada		food, clothing_store, store, establishment	45.563222	-73.974808
+http://www.spa-eastman.com	Spa Eastman	895 Diligences Way, Eastman, QC J0E 1P0, Canada		lodging, establishment	45.324605	-72.338767
+http://www.mozilla.com	Mozilla San Francisco	2 Harrison St, San Francisco, CA 94105, United States		establishment	37.789297	-122.38929
+http://www.fine-cuisine.ca	Restaurant L'Entr-Amis	734 13 Avenue Nord, Sherbrooke, QC J1E 3L7, Canada		food, establishment	45.418876	-71.872333
+http://www.polyboard.ca
+http://www.gptq.ca
+http://www.cidredeglace.org
+http://www.%3cdiv%20id=	Divid AB	Gjuterigatan 9, 553 18 Jönköping, Sweden		establishment	57.77916	14.159027
+http://www.l.facebook.com	shreyasphotography	shreyasphotography, 2nd Cross Rd, Vyalikaval, Kodandarampura, Malleswaram, Bengaluru, Karnataka 560003, India		point_of_interest, establishment	13.0020698	77.5734758
+http://www.tourismebromont.com	Information Touristique De Bromont	15 Boulevard de Bromont, Bromont, QC J2L 2K4, Canada		establishment	45.33241	-72.649349
+http://www.aubergeknowlton.ca	Auberge Knowlton	286 Knowlton Rd, Lac-Brome, QC J0E 1V0, Canada		lodging, establishment	45.216578	-72.510656
+http://www.sculpturesfguenette.com
+http://www.lafoirepaysanne.com
+http://www.vaho-aventure.com	Vaho Aventure	390 Rue Principale, Saint-Jules, QC G0N 1R0, Canada		establishment	46.223815	-70.947568
+http://www.agrolaurentides.qc.ca
+http://www.korrigane.ca	Korrigane	380 Dorchester St, Quebec City, QC G1K 6A7, Canada		restaurant, food, establishment	46.813824	-71.226845
+http://www.tumblr.com	Tumblr Inc.	35 East 21st Street, 6th Floor, E 21st St, Flatiron District, NY 10010, United States		establishment	40.739309	-73.988617
+http://www.inspection.gc.ca	Conception	392 Rte du Fleuve, Beaumont, QC G0R 1C0, Canada		establishment	46.82973	-71.027068
+http://www.orford.com	Mont Orford	4380 Parc Way, Orford, QC J1X 7N9, Canada		establishment	45.318837	-72.217788
+http://www.gg.ca	Rideau Hall	1 Sussex Dr, Ottawa, ON K1A 0A1, Canada		museum, establishment	45.444514	-75.692092
+http://www.hebdosregionaux.ca	Club de soccer de la vallé de l'or	580 7e Rue, Val-d'Or, QC J9P 3P3, Canada		establishment	48.096474	-77.791264
+http://www.rendezvousdespapilles.qc.ca
+http://www.cidremystique.com
+http://www.cartv.gouv.qc.ca
+http://www.laroutedesvins.ca
+http://www.spabolton.com	Spa Des Chutes De Bolton Inc	883 Route Missisquoi, Bolton-Est, QC J0E 1G0, Canada		spa, establishment	45.200356	-72.354586
+http://www.golfbeauceville.net	Club de Golf Beauceville	721 Golf Rd, Beauceville, QC G5X 2T8, Canada		gym, health, establishment	46.261162	-70.76959
+http://www.domainepinnacle.com	Domaine Pinacle	Rue Miner, Cowansville, QC J2K 3Y6, Canada		food, store, establishment	45.197398	-72.750647
+http://www.theglobeandmail.com	The Globe	444 Front St W, Toronto, ON M5V 2S9, Canada		establishment	43.642588	-79.395395
+http://www.cepdargent.com	Vignoble Le Cep d'Argent	1257 Rivière Way, Magog, QC J1X 3W5, Canada		food, establishment	45.291319	-72.056042
+http://www.website.ws	American Babbitt Bearing	12433 Robert E Lee Rd, Houston, TX 77044, United States		car_repair, establishment	29.843279	-95.211909
+http://www.taigaweb.com	Taiga web communications	44 Hatley Way, Compton, QC J0B 1L0, Canada		establishment	45.239	-71.82952
+http://www.lepleasant.com	Le Pleasant Hôtel & Café	1 Pleasant St, Sutton, QC J0E 2K0, Canada		food, lodging, establishment	45.107139	-72.614864
+http://www.atoutvenant.com	A Tout Venant B & B et Massothérapie	20 Rue Bellevue, Magog, QC J1X 3H2, Canada		lodging, establishment	45.263749	-72.154969
+http://www.xgestion.com	Xgestion Inc.	CP 474, Plessisville, QC G6L 3M2, Canada		establishment	46.21881	-71.770625
+http://www.gfapyro.com	Concept Fiatlux Inc	2000 Rue Dandurand, Montreal, QC H2G 1Y9, Canada		establishment	45.540587	-73.584419
+http://www.circuitdupaysan.com
+http://www.tvr9.com
+http://www.statcounter.com	All 4 Seasons Realty, LLC	Oregon City, OR 97045, United States		establishment	45.357343	-122.606758
+http://www.facebook.com	晶寶臭臭鍋https://www.facebook.com/hotjingbao	No. 100, Section 3, Tanxing Rd, Tanzi District, Taichung City, Taiwan 427		restaurant, food, establishment	24.211716	120.701824
+http://www.awb.ca	Auberge & Spa West Brome	128 Route 139 South, West Brome, QC J0E 2P0, Canada		restaurant, lodging, food, spa, establishment	45.179502	-72.664453
+http://www.enroute.aircanada.com
+http://www.bestgetaways.ca
+http://www.google.ca	Cheap SEO Services in Guntur	D-No: 4-22-53/A, Goutham Nagar 2nd Line,Koretipadu, Guntur, Andhra Pradesh 522007, India		establishment	16.318093	80.432236
+http://www.jeanlouisemond.com
+http://www.saragnat.com
+http://www.samyrabbat.com
+http://www.golfdebeauce.com	Club De Golf De Beauce Inc	1425 Rang Saint Étienne Nord, Sainte-Marie, QC SAINTE-MARIE, Canada		gym, health, establishment	46.464802	-71.059854
+http://www.escapades.tv
+http://www.vimeo.com	Hungry Man	1-2 Herbal Hill, London EC1R 5EF, United Kingdom		establishment	51.522262	-0.108348
+http://www.divinparadis.com	Divin Paradis	105 Rue Saint-Charles Est, Longueuil, QC J4H 1B2, Canada		liquor_store, store, establishment	45.542243	-73.507309
+http://www.noah-spa.com	Noah-Spa	Rue Boisé du Vigneron, Scott, QC G0S 3G0, Canada		spa, establishment	46.506191	-71.053562
+http://www.985fm.ca	Laurier	40 Boulevard Haussmann, 75009 Paris, France		restaurant, food, establishment	48.873441	2.332132
+http://www.laveniseverte.com	La Venise Verte B&B	58 Victoria St, Lac-Brome, QC J0E 1V0, Canada		lodging, establishment	45.220704	-72.513338
+http://www.brcglobalstandards.com	B R C Global Standards	21 Dartmouth St, London SW1H 9BP, United Kingdom		health, establishment	51.50037	-0.131865
+http://www.aspm.ca
+http://www.papineau.ca
+http://www.lestmartinbromont.com	Le St-Martin Bromont Hôtel et Suites	111 Boulevard du Carrefour, Bromont, QC J2L 3L1, Canada		lodging, establishment	45.334601	-72.651137
+http://www.goo.gl	offer make造堡手工漢堡	No. 26, Lane 150, Wenhua Rd, Xitun District, Taichung City, Taiwan 407		bar, restaurant, food, establishment	24.183115	120.646803
+http://www.ubishops.ca	Bishop's University	2600 College St, Sherbrooke, QC J1M 0C8, Canada		university, establishment	45.366136	-71.847472
+http://www.domaineduradar.com	Domaine du Radar	50 Rang Sainte Catherine, Saint-Sylvestre, QC G0S 3C0, Canada		campground, park, lodging, establishment	46.32017	-71.146187
+http://www.boston.com	Boston.Com	135 William T Morrissey Blvd, Boston, MA 02125, United States		establishment	42.315845	-71.048642
+http://www.panneaubleu.com
+http://www.vinquebec.com	Arome Grillade Et Fruit De Mer	3 Boulevard du Casino, Gatineau, QC J8Y 6W3, Canada		restaurant, food, establishment	45.44692	-75.725516
+http://www.saint-antoine.com	Auberge Saint-Antoine	8 St Antoine St, Quebec City, QC G1K 4C9, Canada		lodging, establishment	46.814575	-71.202242
+http://www.ducsdemontrichard.com	Dukes of Montrichard	388 , Alfred Desrochers, Orford, QC J1X 6J4, Canada		establishment	45.324442	-72.163305
+http://www.pasquier.qc.ca	Pasquier Tout En Fraicheur	87 Boulevard Saint Luc, Saint-Luc, QC J2W 1E2, Canada		grocery_or_supermarket, food, store, establishment	45.342559	-73.272532
+http://www.regionrougemont.info
+http://www.levergeratipaul.com	Le Verger à Ti-Paul Inc	260 Rang du Bas-Saint-Jacques, Saint-Elzear, QC G0S 2J0, Canada		food, establishment	46.415025	-71.073833
+http://www.francoischartier.ca
+http://www.bohappach.com
+http://www.noticiasmontreal.com
+http://www.cyberpresse.ca	Buonanotte	3518 St Laurent Blvd, Montreal, QC H2X 2V2, Canada		bar, restaurant, food, establishment	45.51312	-73.571
+http://www.sainthenrigeneralstore.com
+http://www.pgparty.com
+http://www.routedesvinsdelestrie.com
+http://www.alcoolsduterroir.com	Vignoble Rivière du Chêne	Chemin de la Rivière Nord, St-Eustache, QC J7R 0J5, Canada		food, clothing_store, store, establishment	45.563222	-73.974808
+http://www.superc.ca	Super C Atwater	147 Avenue Atwater, Montreal, QC H3J 2J4, Canada		grocery_or_supermarket, food, store, establishment	45.479864	-73.576031
+http://www.volaillesauxgrainsdores.com
+http://www.cafedubistrot.com	Le Café Du Bistrot	198 Rue Principale, Saint-Andre-Avellin, QC J0V 1W0, Canada		restaurant, food, establishment	45.730152	-75.055865
+http://www.cannebergesduchapiteau.com
+http://www.festivaldesvins.ca	Ile des Moulins	Canada		establishment	45.692257	-73.635381
+http://www.facebook.ca	Fun&Sport Club	I. P. Pavlova, 984 01 Lučenec, Slovakia		bowling_alley, bar, establishment	48.318366	19.676889
+http://www.myvirtualpaper.com	Virtual Paper	1010 de Serigny #202, Longueuil, QC J4K 5G7, Canada		establishment	45.523522	-73.522884
+http://www.estrimont.ca	Estrimont Suites & Spa	44 Auberge Ave, Orford, QC J1X 6J3, Canada		lodging, spa, establishment	45.306144	-72.164195
+http://www.rouville.qc.ca
+http://www.educalcool.qc.ca
+http://www.canadianwinetrail.com
+http://www.lapommeduquebec.ca	Fédération des producteurs de pommes du Québec	555 Boulevard Roland-Therrien #365, Longueuil, QC J4H 3Y9, Canada		establishment	45.545417	-73.491319
+http://www.brasseriedunham.com	Brasserie Dunham	3809 Rue Principale, Dunham, QC J0E 1M0, Canada		bar, restaurant, food, establishment	45.129817	-72.800677
+http://www.alpagasdesappalaches.com	Alpagas des Appalaches	Saint-Elzéar, QC G0S 2J0, Canada		food, clothing_store, store, establishment	46.373938	-71.10094
+http://www.atripack.com
+http://www.peilcc.ca	Prince Edward Island Liquor Control Commission	355 University Ave, Charlottetown, PE C1A 4M7, Canada		liquor_store, store, establishment	46.242887	-63.134413
+http://www.hotelstchristophe.com
+http://www.auberge-de-la-tour.com
+http://www.noire-et-blanche.ca	Noire & Blanche Microbrasserie	196 St Eustache St, St-Eustache, QC J7R 2L7, Canada		bar, restaurant, food, establishment	45.558253	-73.894149
+http://www.babooncreation.com	Baboon Création	5333 Casgrain Ave #1204, Montreal, QC H2T 1X3, Canada		establishment	45.501357	-73.556668
+http://www.leveil.com	L Eveil	2004 Rue Sainte-Hélène, Longueuil, QC J4K 3T3, Canada		establishment	45.514426	-73.488276
+http://www.maps.google.ca	Horlick Levitt	100 Sheppard Ave E, North York, ON M2N 6N5, Canada		lawyer, establishment	43.763231	-79.405424
+http://www.cibl1015.com	CIBL 101,5	2 St Catherine St E, Montreal, H2X 1K4, Canada		establishment	45.509991	-73.563599
+http://www.cheminduterroir.com	Vignoble Rivière du Chêne	Chemin de la Rivière Nord, St-Eustache, QC J7R 0J5, Canada		food, clothing_store, store, establishment	45.563222	-73.974808
+http://www.orfordexpress.com	Orford Express Inc	Sherbrooke, QC, Canada		establishment	45.398855	-71.906064
+http://www.permacultureinternationale.org
+http://www.aubergelakeviewinn.com	Auberge Lakeview Inn	50 Rue Victoria, Knowlton, QC J0E 1V0, Canada		lodging, establishment	45.220398	-72.512689
+http://www.notabletravels.com
+http://www.massifdusud.net	Massif du Sud	1989 Massif-du-Sud Rd, St-Philémon, QC G0R 4A0, Canada		establishment	46.621383	-70.489569
+http://www.anekdotes.com
+http://www.canardsdulacbrome.com	Canards Du Lac Brome	40 Centre Way, Knowlton, QC J0E 1V0, Canada		establishment	45.222359	-72.531673
+http://www.theatreduganoue.com	Théâtre du Ganoue	3805 8e Rue, Saint-Prosper-De-Dorchester, QC G0M 1Y0, Canada		establishment	46.252444	-70.474236
+http://www.millerzoo.ca
+http://www.basseslaurentides.com	Bureau d'accueil touristique des Basses-Laurentides	600 Rue Dubois, Saint-Eustache, QC J7P 5L2, Canada		establishment	45.579307	-73.883439
+http://www.ripplecove.com	Ripplecove Lakefront Hotel	700 Ripple Cove, Ayer's Cliff, QC J0B 1C0, Canada		bar, restaurant, lodging, food, establishment	45.177806	-72.05065
+http://www.chapiteauxvip.com
+http://www.twitter.com	Specialty Boards	610 Canal Dr, Carolina Beach, NC 28428, United States		establishment	34.041619	-77.889755
+http://www.pubsirjoseph.com	Pub Sir Joseph	4902 St Laurent Blvd, Montreal, QC H2T 1R5, Canada		bar, establishment	45.52211	-73.59102
+http://www.avril.ca	Avril	1185 Tremblay Way, Longueuil, QC J4N 1R4, Canada		restaurant, grocery_or_supermarket, store, food, health, establishment	45.537706	-73.465711
+http://www.bbamouretamitie.com	Amour et Amitié	30 Hatley St, Magog, QC J1X 3G4, Canada		lodging, establishment	45.263831	-72.154732
+http://www.bbausautdulit.com
+http://www.wordpress-fr.net	Agelana	74 Rue du Ménil, 92600 Asnières-sur-Seine, France		establishment	48.920415	2.284394
+http://www.carone.ca	Carone Wines	75 Roy Ave, Lanoraie, QC J0K 1E0, Canada		food, establishment	45.969343	-73.215357
+http://www.flickr.com	Märchenhafte Keramik	Unterneuses 22, 96138 Burgebrach, Germany		establishment	49.824919	10.780355
+http://www.routedesvins.com
+http://www.daysinncowansville.com
+http://www.municipalite.yamachiche.qc.ca
+http://www.askitak.com
+http://www.autodromechaudiere.ca
+http://www.link.parmail.ca
+http://www.buvezentous.com	Les Passions de Manon	1660 des Cascades, Saint-Hyacinthe, QC J2S 3H8, Canada		grocery_or_supermarket, food, store, establishment	45.624249	-72.94629
+http://www.ledevoir.com	Le Devoir	2050 Rue de Bleury, Montreal, QC H3A 3M9, Canada		establishment	45.507528	-73.569834
+http://www.iga.net	IGA	13155 Sherbrooke St E, Pointe-aux-Trembles, QC H1A 1B9, Canada		grocery_or_supermarket, food, store, establishment	45.657683	-73.509213
+http://www.domainest-jacques-boutique.com
+http://www.marchechampetrerigaud.com	Bleuetière Erablière Au Fin Délice	1106 Chemin Saint Henri, Très-Saint-Rédempteur, QC J0P 1P1, Canada		establishment	45.431835	-74.326184
+http://www.llpx.ca
+http://www.jardinsdangele.com	Fleuriste Les Jardins D'Angèle	38 Montée Robert, Saint-Basile-le-Grand, QC J3N 1L7, Canada		florist, store, establishment	45.526716	-73.287329
+http://www.radio-canada.ca	Radio Canada	40 Rue La Boétie, 75008 Paris, France		establishment	48.873735	2.31425
+http://www.tourisme-saintpauldabbotsford.com
+http://www.cinlb.org	Centre d'Interprétation de la Nature du Lac Boivin	700 Drummond St, Granby, QC J2H 0K6, Canada		establishment	45.415149	-72.684238
+http://www.matthieubinette.com
+http://www.marchespublics-mtl.com	Atwater Market	138 Avenue Atwater, Montreal, QC H4C 2H6, Canada		food, establishment	45.47956	-73.576748
+http://www.atmosphair.com	Parachutisme Atmosphair	1600 Rue de l'Aéroport, St-Jean-Chrysostome, QC G6Z 2L2, Canada		establishment	46.685071	-71.150937
+http://www.agritourismguide.ca
+http://www.lerefletdulac.com	Journal Le Reflet Du Lac	101 Du Moulin Rue, Magog, QC, Canada		establishment	45.26983	-72.159472
+http://www.ploggsolutions.com
+http://www.yanmarchildon.tumblr.com
+http://www.laction.com	Journal l'action	342 Rue Beaudry Nord, Joliette, QC J6E 6A6, Canada		establishment	46.022883	-73.454836
+http://www.lespetitscailloux.com	Les Petits Cailloux	625 Rang de la Montagne, Saint-Paul-d'Abbotsford, QC J0E 1A0, Canada		food, establishment	45.455264	-72.888611
+http://www.bonjourvoyage.com
+http://www.pacmusee.qc.ca	Pointe-à-Callière Museum Shop	150 St Paul St W, Montreal, QC H2Y 1Z6, Canada		store, establishment	45.502948	-73.555048
+http://www.anhydra.ca	Anhydra	1878 Power St, Drummondville, QC J2C, Canada		food, establishment	45.877003	-72.519142
+http://www.fromagiersdelatableronde.com	Fromagiers De La Table Ronde (Les)	317 Sainte-Sophie Boul, Sainte-Sophie, QC, Canada		food, store, establishment	45.836171	-73.844974
+http://www.apnmag.com
+http://www.destinationbeauce.com	Bureau d'information touristique de La Nouvelle-Beauce	901 Boulevard Vachon Nord, Sainte-Marie, QC G6E 1M3, Canada		establishment	46.449155	-71.03079
+http://www.golfstgeorges.com	Club De Golf St-Georges	11450 90e Rue, Saint-Georges, QC G5Y 5C4, Canada		establishment	46.192658	-70.608348
+http://www.salonvinsfromages.ca
+http://www.hotelsvillegia.com	Manoir des Sables	90, Avenue Gardens, Orford, QC J1X 6M6, Canada		restaurant, lodging, food, spa, establishment	45.315092	-72.164236
+http://www.linkedin.com	http://www.linkedin.com/in/zztwp	703 S Throckmorton St, Sherman, TX 75090, United States		school, establishment	33.632211	-96.599269
+http://www.canardgouteux.com	Canard Goûteux	4 Rue Blanchet, Victoriaville, QC G6S 0L4, Canada		food, establishment	46.051806	-71.900282
+http://www.cantonsdelest.com	Tourisme Cantons-de-l'Est	20 Don-Bosco St S, Sherbrooke, QC J1L 1W4, Canada		establishment	45.395242	-71.946711
+http://www.gerbesdangelica.com	Route des Gerbes d'Angelica	6015 Rang Saint Vincent, Mirabel, QC J7N 2T5, Canada		home_goods_store, store, establishment	45.580053	-74.157875
+http://www.maroutedescidres.com
+http://www.chezbaptiste.com	Bar Chez Baptiste	1045 Mt Royal Ave E, Montreal, QC H2J 1X7, Canada		bar, restaurant, food, establishment	45.527933	-73.579433
+http://www.lesplantonsaetp.com	Les Plantons A et P inc.	1054 rang 1 Ouest, Ste-Christine, QC J0H 1H0, Canada		home_goods_store, store, establishment	45.615753	-72.46878
+http://www.balnea.ca	Balnea Spa	319 ch. Lac Gale, Bromont, Quebec J2L 2S5, Canada, Canada		spa, establishment	45.263969	-72.689813
+http://www.vortexsolution.com	Vortex Solution	Montreal, QC, Canada		establishment	45.53313	-73.617064
+http://www.acomba.net
+http://www.lenvoleefantastique.com
+http://www.sofiericher.com
+http://www.prixdupublic.com
+http://www.nbliquor.com	Alcool NB Liquor Dieppe	513 Rue Regis, Dieppe, NB E1A 1Y2, Canada		liquor_store, store, establishment	46.098004	-64.756497
+http://www.festival-sportif.com
+http://www.ungava-gin.com
+http://www.foodiepages.ca
+http://www.festivalwestern.qc.ca	Festivité Western St-Victor (Beauce) Inc	130 Parc St, Saint-Victor, QC G0M, Canada		establishment	46.148791	-70.902207
+http://www.artofeating.com
+http://www.mapaq.gouv.qc.ca	Ministère de l'Agriculture des Pêcheries et de l'Alimentation	201 Crémazie Est, Montreal, QC H2M 1L4, Canada		establishment	45.543958	-73.640427
+http://www.rythmefm.com	Rythme FM 93 7 98 1	3720 Industriel Boul, Sherbrooke, QC, Canada		establishment	45.402606	-71.96318
+http://www.galeriesduvieuxfort.ca	Centre Commercial Les Galeries Du Vieux Fort	7777 Rive Boul S, Levis, QC, Canada		shopping_mall, establishment	46.816118	-71.146994
+http://www.tourisme-monteregie.qc.ca	Bureau d'information Maison du tourisme de la Montérégie	8940 Boulevard Leduc, Brossard, QC J4Y 0G4, Canada		establishment	45.449797	-73.441608
+http://www.ancestralknowltonbb.com	Ancestral Knowlton B&B	402 Knowlton Rd, Lac-Brome, QC J0E 1V0, Canada		lodging, establishment	45.216781	-72.520964
+http://www.monteregieweb.com	Journal Le Soleil de Salaberry-de-Valleyfield	20 Rue Académie, Salaberry-De-Valleyfield, QC J6T 6M9, Canada		establishment	45.255809	-74.128045
+http://www.lcbo.com	LCBO	10 Scrivener Square, Toronto, ON M4W 3Y9, Canada		liquor_store, food, store, establishment	43.680828	-79.390469
+http://www.chocomotive.ca	Chocomotive	502 Notre Dame St, Montebello, QC J0V 1L0, Canada		store, cafe, food, establishment	45.650052	-74.942835
+http://www.village-des-defricheurs.qc.ca	Village des Défricheurs	3821 8e Rue, Saint-Prosper-De-Dorchester, QC G0M 1Y0, Canada		establishment	46.261188	-70.460838
+http://www.chezmariebernard.weebly.com
+http://www.bbsutton.com	Gîte Vert Le Mont B&B	18 Maple St, Sutton, QC J0E 2K0, Canada		lodging, establishment	45.106892	-72.612621
+http://www.agriconseils.qc.ca	Réseau Agriconseils Centre du Québec	1940 rue des Pins, Nicolet, QC J3T 1Z9, Canada		establishment	46.238866	-72.597163
+http://www.circuitdupaysan.ca
+http://www.blog.jyst.us
+http://www.larouteaccessible.com
+http://www.ancestrale.com	L'Ancestrale B&B	200 Abbott St, Magog, QC J1X 2H5, Canada		lodging, establishment	45.269264	-72.153884
+http://www.olawebstudio.com
+http://www.savori.ca	SAVORI	777 Boulevard Lebourgneuf, Quebec City, QC G2J 1C3, Canada		liquor_store, store, establishment	46.841283	-71.280587
+http://www.lacavadepyrene.com
+http://www.chic-choc.ca
+http://www.ranchdespins.com
+http://www.ats-sea.agr.gc.ca
+http://www.nitromedia.ca	NitroMedia.ca	Rimouski, Québec, Canada		establishment	48.441178	-68.523349
+http://www.bbmagogorford.com
+http://www.tva.canoe.ca	TVA Nouvelles	1600 Boulevard de Maisonneuve Est, Montreal, QC H2L 2B2, Canada		establishment	45.522142	-73.554728
+http://www.goutezlanaudiere.ca
+http://www.lasuccursale.com	La Succursale	3188 Masson St, Montreal, QC H1Y 1Y1, Canada		restaurant, food, establishment	45.550195	-73.573624
+http://www.hotelorford.com	Hotel Du Parc Orford	1259 Montagne Way, Orford (Québec), QC J1X 6X9, Canada		lodging, establishment	45.314835	-72.178117
+http://www.fliwc.com
+http://www.productionsexceptionailes.com
+http://www.granbyexpress.com	Maison Des Familles De Granby Et Région (La)	162 Rue St Charles S, Granby, QC J2G 7A4, Canada		establishment	45.397773	-72.734993
+http://www.optimeasy.com	Conception Optimeasy Inc.	2355 Rue King Ouest, Sherbrooke, QC J1J 2G6, Canada		establishment	45.39854	-71.93052
+http://www.champy.ca
+http://www.google.com	Hotel Las Rampas	Av. Adolfo López Mateos 20, Las Playas, 39390 Acapulco de Juárez, Guerrero, Mexico		lodging, establishment	16.841251	-99.914034
+http://www.theatrehv.com	Théâtre de l'Hôtel de Ville	843 Ave Du Palais, Saint-Georges, QC, Canada		lodging, establishment	46.307383	-70.879926
+http://www.fetedesvendanges.com	Fete Des Vendanges Magog Orford	204 Rue Saint-Patrice Ouest, Magog, QC J1X 1W3, Canada		establishment	45.266589	-72.149149
+http://www.fr-ca.facebook.com
+http://www.vlancom.com
+http://www.festivalbeaucerondelerable.com	Festival De L'Erable	2385 Boulevard Dionne, Saint-Georges, QC G5Y 3X6, Canada		establishment	46.112716	-70.673323
+http://www.festivalcineseverin.org
+http://www.wineaccess.ca
+http://www.studio-plume.org
+http://www.estrieplus.com
+http://www.vinalies-china.com
+http://www.woodstockenbeauce.qc.ca	Consult'Art	1191 Avenue de Montigny, Quebec, QC G1S 3T8, Canada		establishment	46.788975	-71.247296
+http://www.megavolt.ca	MEGAVOLT	184 Longueuil St, Saint-Jean-sur-Richelieu, QC J3B 6P1, Canada		establishment	45.305466	-73.255224
+http://www.latableduchef.ca	Restaurant La Table Du Chef	11, rue Victoria, Sherbrooke, QC J1H 3H8, Canada		restaurant, food, establishment	45.398999	-71.906501
+http://www.symposiumvallee.e-monsite.com
+http://www.bieresetsaveurs.com
+http://www.topselction.co.uk
+http://www.aubergepetitenation.org	Auberge Petite-Nation	35 Principale St, Saint-André-Avellin, QC J0V 1W0, Canada		lodging, establishment	45.720406	-75.056987
+http://www.tablesetrelaisduterroir.com
+http://www.montsutton.com	Mont Sutton Inc.	79 Principale St S, Sutton, QC J0E 2K0, Canada		establishment	45.10073	-72.621348
+http://www.coteau-st-paul.com
+http://www.fr.webcams.travel
+http://www.rose.ca	Rose Drummond	210 Boulevard Lemire Ouest, Drummondville, QC J2B 8A9, Canada		cafe, food, florist, store, establishment	45.890164	-72.545283
+http://www.marchevicto.com	Marché De Solidarité Régionale De Victoriaville	930 Rue Notre-Dame Est, Victoriaville, QC G6P 4B9, Canada		grocery_or_supermarket, food, store, establishment	46.067551	-71.939353
+http://www.helgasermat.com
+http://www.hit-parade.com	Sébastien et Aurore Ladruze Artistes Magiciens (Close-up et Grandes Illusions)	Branches, France		establishment	47.889305	3.481407
+http://www.cledeschampsdunham.com
+http://www.cancer.ca	Société Canadienne du Cancer (La)	418 St Georges St, Saint-Jérôme, QC J7Z 5B1, Canada		establishment	45.77915	-74.002622
+http://www.lejournaldejoliette.canoe.ca	Journal De Joliette (Le)	1075 Boulevard Firestone, Joliette, QC J6E 6X6, Canada		establishment	46.033925	-73.42773
+http://www.blogue.saq.com
+http://www.atelierverreterre.com
+http://www.marchepublicgranby.ca
+http://www.cidervinegar.com	Gingras Vinegar	1132 La Grande Caroline, Rougemont, QC J0L 1M0, Canada		food, establishment	45.450824	-73.030229
+http://www.nlliquor.com	Liquor Store	470 Topsail Rd, St John's, NL A1E 2C3, Canada		liquor_store, store, establishment	47.532753	-52.751693
+http://www.apple.com	Apple Incorporated	1 Infinite Loop, Cupertino, CA 95014, United States		establishment	37.331793	-122.029584
+http://www.recettesricaneux.blogspot.ca
+http://www.escapadesmemphremagog.com	Escapades Memphrémagog	2400 Rue Principale Ouest, Magog, QC J1X 0J1, Canada		travel_agency, establishment	45.281152	-72.186194
+http://www.marchevieuxport.com	Marché du Vieux-Port de Québec	160 Quai Saint-André, Quebec City, G1K 3Y2, Canada		grocery_or_supermarket, food, store, establishment	46.817944	-71.209279
+http://www.auxvergerspetit.com	Les Vergers Petit et fils	1020 Montagne Way, Mont-Saint-Hilaire, QC J3G 4S6, Canada		food, establishment	45.533581	-73.158978
+http://www.vinalies-internationales.com	Vínotéka VÝBORNÉ VÍNO	Vranovská 57, 080 06 Prešov - Nižná Šebastová, Slovakia		liquor_store, food, store, establishment	49.023542	21.281764
+http://www.vignobledelabauge.ca
+http://www.opera.com	Opera Software	Gjerdrums vei 19, 0484 Oslo, Norway		establishment	59.956433	10.764589
+http://www.createursdesaveurs.com
+http://www.maisoncourtemanche.com	Maison Courtemanche inc	374 Palais St, Saint-Jérôme, QC J7Z 1Y1, Canada		restaurant, food, establishment	45.777929	-73.998697
+http://www.etoilesurlelac.ca	Hotel & Spa Etoile-sur-le-Lac	1200 Principale St W, Magog, QC J1X 2B8, Canada		lodging, establishment	45.271486	-72.163471
+http://www.cidreduquebec.com
+http://www.mondialcidresdeglace.com
+http://www.festivent.net
+http://www.morena-food.com	Morena Epicerie Traiteur Inc	1038 Cartier Ave, Quebec City, QC G1R 2S4, Canada		grocery_or_supermarket, food, store, establishment	46.803753	-71.226177
+http://www.destinationsherbrooke.com	Information Touristique	785 Rue King Ouest, Sherbrooke, QC J1H 1R8, Canada		establishment	45.39847	-71.89906
+http://www.museemariusbarbeau.com	Marius-Barbeau Museum	139 Sainte Christine Rue, Saint-Joseph-de-Beauce, QC G0S 2V0, Canada		museum, establishment	46.311	-70.881912
+http://www.miellerielunedemiel.com	Miellerie Lunede Miel	252 3e Rang Est, Stoke, QC J0B 3G0, Canada		establishment	45.467782	-71.845502
+http://www.petitcanon.org
+http://www.foursquare.com	Lüleburgaz Kayalı Petrol	Dere Mahallesi, Edirne Caddesi, No:4, Lüleburgaz, (Kapalı Spor Salonu karşısı), 39750 Kırklareli, Turkey		convenience_store, food, store, car_wash, car_repair, gas_station, establishment	41.408456	27.343747
+http://www.hebergia.ca
+http://www.aubergedk.com	Auberge D&K Sutton Inn	27 Rue Principale Sud St, Sutton, QC J0E 2K0, Canada		lodging, establishment	45.105286	-72.615262
+http://www.filierebio.qc.ca
+http://www.tourisme-sainte-marie.ca	Tourisme Sainte-Marie	270 Avenue Marguerite-Bourgeoys, Sainte-Marie, QC G6E 3Z3, Canada		travel_agency, establishment	46.438534	-71.021503
+http://www.lithiummarketing.com
+http://www.restopubstandre.com
+http://www.vinsdumonde.com	Vins du Monde	29 Rue Marbeuf, 75008 Paris, France		establishment	48.86921	2.304433
+http://www.lapetitenation.com
+http://www.agrireseau.qc.ca	Coopérative Agricole Profid'Or	839 Rue Papineau, Joliette, QC J6E 2L6, Canada		hardware_store, store, establishment	46.027048	-73.455538
+http://www.sanctuairedebeauvoir.qc.ca	Sanctuaire du Sacré-Coeur de Beauvoir	Côte de Beauvoir, Sherbrooke, QC J1C 0B8, Canada		church, place_of_worship, establishment	45.457914	-71.909035
+http://www.hire72.com
+http://www.marchestau.com	Les Marchés d'Aliments Naturels TAU Inc	4238 St Denis St, Montreal, QC H2J 2K8, Canada		food, store, establishment	45.522011	-73.578796
+http://www.laterre.ca	La Terre de Chez Nous	555 Boulevard Roland-Therrien, Longueuil, QC J4H 3Y9, Canada		establishment	45.545204	-73.490681
+http://www.domainealheritage.com	Le Domaine à l'Héritage	1955 Chemin de la Côte de Liesse #210, Montreal, QC H4N 3A8, Canada		park, establishment	45.525926	-73.65402
+http://www.ville-saintes.fr	Mairie	Square André Maudet, 17100 Saintes, France		city_hall, local_government_office, establishment	45.744079	-0.633076
+http://www.walmart.ca	Wal-Mart	9499 137 Ave NW, Edmonton, AB T5E 6K9, Canada		grocery_or_supermarket, food, store, establishment	53.597611	-113.487563
+http://www.levegetarien.com	Le Végétarien	1100 Boulevard Saint-Joseph, Drummondville, QC, Canada		grocery_or_supermarket, food, store, establishment	45.888071	-72.505355
+http://www.divineolive.com
+http://www.boisset.fr	Grands Vins Jean Claude Boisset	rue des frères Montgolfier, 21700 Nuits-Saint-Georges, France		food, establishment	47.129091	4.96134
+http://www.mapquest.com	Harris Township Jr Baseball	52005 Currant Rd, Granger, IN 46530, United States		establishment	41.738933	-86.129733
+http://www.lespassiondemanon.com
+http://www.hotelchateaulaurier.com	Hôtel Château Laurier Québec	1220 Place George V Quest, Québec, G1R 5B8, Canada		lodging, establishment	46.806541	-71.215036
+http://www.esarts.com	Atelier Es Arts 1987 Inc	354 Dufresne St, Saint-Théodore-d'Acton, QC J0H 1Z0, Canada		store, establishment	45.685544	-72.582497
+http://www.francoiscouture.ca
+http://www.levacetvicaire.ca
+http://www.economusees.com	Chocomotive	502 Notre Dame St, Montebello, QC J0V 1L0, Canada		store, cafe, food, establishment	45.650052	-74.942835
+http://www.tourismecoeurmonteregie.ca	Centre local de développement au Coeur de la Montérégie	500 Rue Desjardins, Marieville, QC J3M 1E1, Canada		finance, establishment	45.433465	-73.150449
+http://www.villageminiaturebaillargeon.com
+http://www.keroul.qc.ca
+http://www.velovolant.com
+http://www.provigo.ca	Provigo	3421 Avenue du Parc, Montreal, QC H2X 2H6, Canada		grocery_or_supermarket, food, store, establishment	45.508913	-73.571711
+http://www.prebiotiquesnaturels.com
+http://www.vignerons-du-quebec.com
+http://www.zoodegranby.com	Zoo de Granby	1050 Boulevard David Bouchard Nord, Granby, QC J2G 5P3, Canada		zoo, establishment	45.419611	-72.723071
+http://www.saq.com	SAQ	705 Boulevard de la Carrière, Hull, QC J8Y 6W6, Canada		liquor_store, store, casino, establishment	45.450376	-75.728951
+http://www.saint-georges.ca	Ville de Saint-Georges	11700 Boulevard Lacroix, Saint-Georges, QC G5Y 1L3, Canada		city_hall, local_government_office, establishment	46.122982	-70.67109
+http://www.hebergementsutton.ca
+http://www.tripadvisor.fr	l'o a la bouche	centre Alpha, 06450, France		restaurant, food, establishment	44.112732	7.287368
+http://www.extremetracking.com	Servsafe Stars Solutions	11901 International Dr, Orlando, FL 32821, United States		food, establishment	28.390789	-81.467552
+http://www.maniatyn.com	Le Domaine Tomali-Maniatyn	377 Maple St, Sutton, QC J0E 2K0, Canada		lodging, establishment	45.105858	-72.581447
+http://www.ladestinee.ca	Destinée La	1495 Rivière Way, Magog, QC J1X 3W5, Canada		lodging, establishment	45.296493	-72.054493
+http://www.aubergequilliams.com
+http://www.74.54.206.194
+http://www.framptonbrasse.com	Frampton Brasse	430,5e-et-6e Rang, Frampton, QC G0R 1M0, Canada		food, establishment	46.484066	-70.788861
+http://www.aventureinukshuk.com	Aventure Plein Air Inukshuk	39 Rue Laurentienne, Saint-Etienne-De-Lauzon, QC G6J 1H8, Canada		establishment	46.648405	-71.294626
+http://www.citeboomers.com	Productions Boomers	2280 Rue Laurier, Longueuil, QC J4J 5A7, Canada		health, establishment	45.532628	-73.470508
+http://www.restaurantlore.com	Restaurant Lo Ré Fine Cuisine Du Marché	17 Rue Peel, Sherbrooke, QC J1H 4K1, Canada		restaurant, food, establishment	45.400009	-71.89352
+http://www.coupedesnations.ca
+http://www.forgesurbaines.com	Forges Urbaines inc	226 Rue Young, Montreal, QC H3C 2G1, Canada		establishment	45.493317	-73.559245
+http://www.tourisme-memphremagog.com	Bureau d'information touristique de Memphrémagog	2911 Milletta Way, Magog, QC J1X 0R4, Canada		establishment	45.291428	-72.213436
+http://www.adobe.com	Adobe Systems Inc	801 N 34th St, Seattle, WA 98103, United States		electronics_store, store, establishment	47.648218	-122.34902
+http://www.phase3conceptiongraphique.com
+http://www.krop.com	KROP	Marszałka Józefa Piłsudskiego 62, 48-303 Nysa, Poland		clothing_store, store, establishment	50.452693	17.357658
+http://www.veloroutedelachaudiere.com	Véloroute de la Chaudière Secteur de la Nouvelle-Beauce (La)	700 Rue Notre Dame Nord, Sainte-Marie, QC G6E 2K9, Canada		establishment	46.443944	-71.033405
+http://www.tourismerougemont.com	Municipalité De Rougemont	61 Chemin de Marieville, Rougemont, QC J0L 1M0, Canada		city_hall, local_government_office, establishment	45.444013	-73.071542
+http://www.pralinecaramel.com	Praline Et Caramel	Boulevard Antoine Séguin, St-Eustache, QC J7P 0E1, Canada		restaurant, food, establishment	45.577126	-73.89384
+http://www.lacuillereagouter.com
+http://www.lemarchedessaveurs.com	Marché Des Saveurs Du Québec	280 Place du Marche du Nord, Montreal, QC H2S 1A1, Canada		liquor_store, grocery_or_supermarket, food, store, establishment	45.536065	-73.613978
+http://www.fromagerieterroirbellechasse.com	Fromagerie du Terroir de Bellechasse Inc (La)	585 St Vallier Rd, St-Vallier, QC G0R 4J0, Canada		food, store, establishment	46.900952	-70.806225
+http://www.publiciterre.org
+http://www.loblawstores.ca
+http://www.creationveronique.ca
+http://www.espritdecorps.biz	Esprit de Corps Inc	257 Rue Saint-Ferdinand, Montreal, QC H4C 2S6, Canada		establishment	45.475643	-73.583366
+http://www.brasseursdutemps.com	Les Brasseurs du Temps	170 Montcalm St, Gatineau, QC J8X 2M2, Canada		bar, restaurant, food, establishment	45.429887	-75.726812
+http://www.persephoneproductions.org
+http://wwww.bleulavande.ca
+http://www.fromagestguillaume.com
+http://www.sepaq.com	Société des établissements de plein air du Québec (SÉPAQ)	700 Boulevard Lebourgneuf, Quebec, QC G2J 1E2, Canada		hospital, establishment	46.843484	-71.280409
+http://www.fromageriedupresbytã¨re.com
+http://www.fouillez-tout.com
+http://www.louiselemire.ca
+http://www.goutezlequebec.com
+http://www.montagnard.qc.ca	Hôtel & Condos Le Montagnard	264 Maple St, Sutton, QC J0E 2K0, Canada		lodging, establishment	45.106069	-72.586783
+http://www.grondair.qc.ca	Grondair	2075 112 Rte, Saint-Frederic, QC G0N 1P0, Canada		establishment	46.296198	-70.975237
+http://www.mygfsi.com
+http://www.vinsduquebec.com	Vignoble Rivière du Chêne	Chemin de la Rivière Nord, St-Eustache, QC J7R 0J5, Canada		food, clothing_store, store, establishment	45.563222	-73.974808
+http://www.bcliquorstores.com	BC Liquor Stores	768 Bute St, Vancouver, BC V6E 4H6, Canada		liquor_store, store, establishment	49.28639	-123.125811
+http://www.lapresse.ca	La Presse	7 Rue Saint-Jacques, Montreal, QC H2Y 1K9, Canada		establishment	45.506319	-73.556543
+http://www.splashgrafix.com	Conception Web Splashgrafix Inc	2345 Rue des Roseaux, Marieville, QC J3M 0B7, Canada		establishment	45.43071	-73.143881
+http://www.youtube.com	Foods To Lose Weight: http://www.youtube.com/watch?v=h7CjDKAZX1Q	Las Vegas, NV, United States		food, establishment	36.123734	-115.190998
+http://www.ecocertcanada.com	Ecocert Canada	71 Rue Saint Onésime, Levis, QC G6V 5Z4, Canada		establishment	46.801107	-71.180969
+http://www.produits-regionaux.qc.ca	Marché Publique Drummondville	445 Rue Saint-Jean, Drummondville, QC J2B 5L7, Canada		food, establishment	45.875352	-72.486059
+http://www.closdauphinais.com
+http://www.advvq.com
+http://www.fondissimo.ca	Restaurant Fondissimo	276 Principale St E, Magog, QC J1X 4X5, Canada		restaurant, food, establishment	45.262698	-72.13922
+http://www.pistescyclables.ca
+http://www.virtu-ose.com	Virtu-Ose	5100 Boulevard Hébert, Salaberry-De-Valleyfield, QC J6S 6B4, Canada		establishment	45.287813	-74.049725
+http://www.labergerie.ca	Gite La Bergerie	373 Morgan Ch, Sutton, QC, Canada		lodging, establishment	45.079674	-72.603278
+http://www.metro.ca	Metro	3221 Derry Rd W, Mississauga, ON L5N 7L7, Canada		grocery_or_supermarket, food, store, establishment	43.583546	-79.778689
+http://www.myspace.com	M.A.C MAKE-UP ARTIST & FACIALS "Looks Matter Inc" www.myspace.com/looksmatterinc	Hollywood, FL, United States		establishment	26.260084	-80.177159
+http://www.bit.ly	囍Couple Beauty	Beverley Commercial Centre, 87-105 Chatham Rd S, Hong Kong		clothing_store, store, establishment	22.301405	114.175892
+http://www.heleneleveillee.ca
+http://www.domainetaschereau.com	Domaine Taschereau-Parc Nature	700 Notre Dame St N, Sainte-Marie, QC G6E 2K9, Canada		establishment	46.4439	-71.032968
+http://www.obergedupignon.com	O'Berge du Pignon	4805 rue Foster, Waterloo, ON, Canada		lodging, establishment	45.343081	-72.51601
+http://www.mynslc.com	NSLC	119 Commercial St, Dominion, NS B1G, Canada		liquor_store, store, establishment	46.2102	-60.024281
+http://www.jasminecuisine.blogspot.com
+http://www.labauge.com	Vignoble de la Bauge	155 Des Erables Ave, Brigham, QC, Canada		food, establishment	45.233772	-72.855372
+http://www.manoirhovey.com	Manoir Hovey	575 Hovey St, North Hatley, QC J0B 2C0, Canada		restaurant, lodging, food, establishment	45.268117	-71.990774
+http://www.tourdebeauce.com	Grand Prix Cycliste Beauce	8585 Boulevard Lacroix, Saint-Georges, QC G5Y 5L6, Canada		establishment	46.133832	-70.69774
+http://www.brome-missisquoi.ca	MRC Brome-Missisquoi Transport Adapté	749 Rue Principale, Cowansville, QC J2K 1J8, Canada		local_government_office, establishment	45.209403	-72.722908
+http://www.ville.dunham.qc.ca	Dunham Hôtel de ville	3777 Rue Principale, Dunham, QC J0E, Canada		city_hall, local_government_office, establishment	45.131165	-72.800318
+http://www.auberge-appalaches.com	Bureau d'information Maison du tourisme de la Montérégie	8940 Boulevard Leduc, Brossard, QC J4Y 0G4, Canada		establishment	45.449797	-73.441608
+http://www.vasilnikovart.com
+http://www.aubergealtitude.com
+http://www.chateaubromont.com	Domaine Château-Bromont	90 Rue Stanstead, Bromont, QC J2L 1K6, Canada		lodging, spa, health, establishment	45.303568	-72.63807
+http://www.crq.ca	Corporation Des Restaurateurs De Québec	305 Boulevard René Lévesque Ouest, Quebec, QC G1S 1S1, Canada		establishment	46.802453	-71.22981
+http://www.aubergedujolivent.com	Auberge du Joli Vent	667 CH Bondville, Lac-Brome, QC J0E 1R0, Canada		restaurant, lodging, food, establishment	45.275954	-72.513411
+http://www.deltahotels.com	Delta Saguenay Hotel and Conference Centre	2675 Royaume Blvd, Saguenay, QC G7S 4S9, Canada		lodging, establishment	48.405331	-71.170344
+http://www.tourismebm.qc.ca
+http://www.youtu.be	Centre Civic les Basses	Carrer del Teide, 20, 08031 Barcelona, Barcelona, Spain		establishment	41.430903	2.168688
+http://www.naturesciences.qc.ca	Musée de la Nature et des Sciences	225 Rue Frontenac, Sherbrooke, QC J1H 1K1, Canada		museum, establishment	45.403333	-71.895418
+http://www.ricaneux.com	Vin Artisanal Le Ricaneux Enr	5540 Rang Sud-Est, Saint-Charles-de-Bellechasse, QC G0R 2T0, Canada		food, establishment	46.805281	-70.895623
+http://www.laurentides.com	Tourisme Laurentides	Boulevard Lachapelle, Saint-Jerome, QC, Canada		establishment	45.763048	-73.988478
+http://www.fr.wikipedia.org	Chambres d'hôtes chez Chantal et Gérard JAMIN	46 Vau Saint-Jacques St, 79200 Parthenay, France		lodging, establishment	46.650461	-0.250158
+http://www.lanaudiere.ca	Tourisme De Lanaudiere	3568 Rue Church, Rawdon, QC J0K 1S0, Canada		establishment	46.041485	-73.7029
+http://www.iledorleans.com	Île d'Orléans	Part Of, Saint-François, QC, Canada		establishment	47.013469	-70.83534
+http://www.addthis.com	AddThis	1595 Spring Hill Rd #300, Vienna, VA 22182, United States		establishment	38.926172	-77.245195
+http://www.latableedespionniers.com
+http://www.lanoraie.ca
+http://www.mediamachine.ca
+http://www.janehellerphotography.com
+http://www.lalouche.ca
+http://www.caronewines.tumblr.com
+http://www.hotelleriechampetre.com	Hotellerie Champetre	Suite 208, 467 Notre-Dame St, Repentigny, QC J6A 2T3, Canada		lodging, establishment	45.740081	-73.44573
+http://www.routedesvins4monts.qc.ca
+http://www.elfeabulles.com
+http://www.n141.com	N141.com	42 Rue du Nord, 16100 Cognac, France		establishment	45.696222	-0.320069
+http://www.iwsc.net	International Wine & Spirit Competition	17 Dunsfold Pk/Stovolds Hill, Cranleigh GU6 8TB, United Kingdom		liquor_store, store, establishment	51.120049	-0.532078
+http://www.unionlibre.com	UNION LIBRE cidre & vin	1047 Bruce St, Dunham, QC J0E 1M0, Canada		food, establishment	45.109286	-72.856575
+http://www.ovascene.com	Ovascène	Sainte-Marie, QC, Canada		school, establishment	46.454764	-71.02932
+http://www.sculpturescynthiahrousselle.com
+http://www.pages.globetrotter.net
+http://www.protegez-vous.ca	Solutek	36 Rue Angus Nord, East Angus, QC J0B 1R0, Canada		electronics_store, store, establishment	45.483408	-71.659746
+http://www.clairepoire.ca
+http://www.a20minutes.com	Office du Tourisme et des Congrès du Haut Richelieu	31 Frontenac St, St-Jean-Sur-Richelieu, QC, Canada		establishment	45.302555	-73.253555
+http://www.youblisher.com	Istek Ozel Baris Anaokulu	Bağdat Cad. Çiftehavuzlar No:246 34730 Göztepe-istanbul, 34730 İstanbul, Turkey		school, establishment	40.972632	29.057292
+http://www.panoratours.com
+http://www.lesmatinsdevictoria.com	Les Matins de Victoria	950 Western St, Waterloo, QC J0E 2N0, Canada		lodging, establishment	45.351533	-72.51685
+http://www.restaurantgagnon.ca	Auberge Ste Catherine de Hatley	2 Rue la Grande, Sainte-Catherine-de-Hatley, QC J0B 1W0, Canada		restaurant, lodging, food, establishment	45.250559	-72.047796
+http://www.usatoday.com	USA Today	7950 Jones Branch Dr, McLean, VA 22102, United States		establishment	38.93223	-77.219167
+http://www.espacemcchef.com
+http://www.quebecvrai.org	Québec Vrai	4895 Boulevard des Forges, Trois-Rivieres, QC G8Y 4Z3, Canada		establishment	46.361093	-72.59295
+http://www.bieresetplaisirs.com	Microbrasserie Aux Fous Brassant	262 Lafontaine St, Rivière-du-Loup, QC G5R 3A8, Canada		bar, restaurant, food, establishment	47.833962	-69.537235
+http://www.festivalcouleursdumonde.com	Festival Couleurs du Monde	270 Avenue Marguerite-Bourgeoys, Sainte-Marie, QC G6E 3B9, Canada		establishment	46.438534	-71.021503
+http://www.produitscamelus.com
+http://www.golfdorchester.com	Club De Golf Dorchester Inc	29 route 275 N, Frampton, QC G0R 1M0, Canada		establishment	46.48574	-70.836074
+http://www.mediavore.ca
+http://www.unefleur.ca	Une Fleur au Bord de L'Eau	90 Drummond St, Granby, QC J2G 2S6, Canada		lodging, establishment	45.398077	-72.714941
+http://www.sadcpapineau.ca	SADC de Papineau	565 Avenue de Buckingham, Gatineau, QC J8L 2H2, Canada		finance, establishment	45.585335	-75.416159
+http://www.windows.microsoft.com	Microsoft Corporation	205 108th Ave NE #400, Bellevue, WA 98004, United States		establishment	47.612388	-122.196741
+http://www.auguste-restaurant.com	Auguste Restaurant	82 Wellington St N, Sherbrooke, QC J1H 5B8, Canada		restaurant, food, establishment	45.402769	-71.89102
+http://www.oboisdormant.qc.ca	Gite Ô Bois Dormant	205 Abbott St, Magog, QC J1X 2H4, Canada		lodging, establishment	45.269281	-72.154139
+http://www.rosesdrummond.com
+http://www.marcheoutaouais.com	Marché de solidarité régionale de l'Outaouais (MSRO)	41 Rue Frontenac, Gatineau, QC J8X 1Y9, Canada		food, establishment	45.428988	-75.719165
+http://www.godaddy.com	Go Daddy Group Inc	14455 N Hayden Rd #219, Scottsdale, AZ 85260, United States		establishment	33.617845	-111.908049
+http://www.jardinmobile.com	Le Jardin Mobile	2800 Avenue St-Jean-Baptiste, Quebec City, QC G2E 6J5, Canada		grocery_or_supermarket, food, store, establishment	46.805737	-71.334722
+http://www.bbhillhouse.com
+http://www.vignoblenordet.com	Nordet Vignoble & Cidrerie (Le)	991 Chemin des Îles, Pintendre, QC G6C 1B5, Canada		food, establishment	46.724659	-71.13027
+http://www.tourisme-bellechasse.com
+http://www.chambrecommerce.com	Chambre De Commerce Et D'Industrie St-Eustache	67 Boulevard Industriel, Saint-Eustache, QC J7R 5B9, Canada		establishment	45.569841	-73.921199
+http://www.hudsonfarmersmarket.org	Hudson Farmer's Market	103 N Main St, Hudson, OH 44236, United States		grocery_or_supermarket, food, store, establishment	41.241541	-81.440404
+http://www.montorignal.com	Station de Ski Mont Orignal	158 Rang du Mont-Orignal, Lac-Etchemin, QC G0R 1S0, Canada		establishment	46.409944	-70.582617
+http://www.francoischartier.com
+http://www.smvcanada.ca
+http://www.terroirsquebec.com	Terroirs Québec	3585 Rue Lévis, Sainte-Catherine, QC J5C 1T2, Canada		establishment	45.388182	-73.55223
+http://www.regiscanuel.ca
+http://www.chezlepicier.com	Chez L'Épicier	311 St Paul St E, Montreal, QC H2Y 1H3, Canada		bar, restaurant, food, establishment	45.508776	-73.551902
+http://www.caitya.com
+http://www.marchefermier.ca
+http://www.infosutton.com	Bureau d'accueil touristique de Sutton	24A, rue Principale S., Sutton, QC J0E 2K0, Canada		establishment	45.105748	-72.615018
+http://www.graph-e-web.com	Graph-é-Web	75 Rue de l'Anse, Montmagny, QC G5V 1G9, Canada		establishment	46.982314	-70.560207
+http://www.nikitotek.com	Place Nikitotek	Sherbrooke, QC, Canada		park, establishment	45.405674	-71.892042
+http://www.jeanbrillant.com
+http://www.stefanecotephoto.com
+http://www.voyou.com	Voyou	99 Émilien Marcoux St, Blainville, QC J7C, Canada		establishment	45.673898	-73.903954
+http://www.monapps.net
+http://www.maps.google.com	Smithsonian National Air and Space Museum	600 Independence Ave SW, Washington, DC 20560, United States		museum, establishment	38.88816	-77.019868
+http://www.vicesetversa.com	Vices & Versa	6631 St-Laurent Boulevard, Montreal, QC H2S 3C5, Canada		bar, restaurant, food, establishment	45.531386	-73.610564
+http://www.pectine.ca	Parc Maritime de Saint-Laurent	120 Chalouperie Way, Saint-Laurent-de-l'Île-d'Orléans, QC G0A 3Z0, Canada		establishment	46.859115	-71.014002
+http://www.fairmont.fr	Fairmont Le Château Frontenac	1 Rue des Carrières, Québec, QC G1R 4P5, Canada		lodging, establishment	46.811978	-71.20501
+http://www.routedesvinsquebec.com	Vignoble Rivière du Chêne	Chemin de la Rivière Nord, St-Eustache, QC J7R 0J5, Canada		food, clothing_store, store, establishment	45.563222	-73.974808
+http://www.scanvin.no	Scan-vin AS	Hillevågsveien 100, 4016 Stavanger, Norway		establishment	58.942442	5.746436
+http://www.bergeriesurlelac.ca
+http://www.pinterest.com	Joseph K. Levene Fine Art, Ltd.	25 Central Park West, New York, NY 10023, United States		art_gallery, establishment	40.770279	-73.980478
+http://www.vignobleleroyer.com
+http://www.thesunchronicle.com	The Sun Chronicle	34 S Main St, Attleboro, MA 02703, United States		establishment	41.943541	-71.284104
+http://www.bruleriedescantons.com	Brûlerie Des Cantons Inc	4 Rue Beauchesne, Warwick, QC J0A 1M0, Canada		cafe, food, establishment	45.954144	-71.990265
+http://www.metiers-d-art.qc.ca	Salon des Métiers d'Art du Québec	Montreal, QC, Canada		establishment	45.4987	-73.5651
+http://www.va-voir.ca
+http://www.outdoorlodge.ca	Outdoor Lodge Glen Sutton	1351 Chemin de la Vallée Missisquoi, Glen Sutton, QC J0E 2K0, Canada		establishment	45.040204	-72.547493
+http://www.easterntownships.org	Commission Scolaire Eastern Townships	340 Rue Saint Jean Bosco, Magog, QC J1X 1K9, Canada		school, establishment	45.269026	-72.135275
+http://www.festivalfolkvinsdunham.com
+http://www.imgec.trivago.com
+http://www.chaudiereappalaches.com	Bureau d'information touristique / Tourisme Chaudière-Appalaches	800 Autoroute Jean-Lesage, Saint-Nicolas, QC G7A 1E3, Canada		establishment	46.698125	-71.299273
+http://www.plus.google.com	Adana Stor ve Zebra Perde Tamir, Montaj Servisi	Süleyman Demirel Blv, Adana, Turkey		establishment	37.054374	35.28839
+http://www.capricesdevictoria.qc.ca	Gîte Les Caprices de Victoria B&B	63 Principale Nord St, Sutton, QC J0E 2K0, Canada		lodging, establishment	45.111499	-72.619731
+http://www.unionpaysanne.com	Union Paysanne	899, Succ Bureau-Chef, Lachute, QC J8H 4G5, Canada		health, establishment	45.656962	-74.333323
+http://www.buchandel.com
+http://www.atelierglobart.com
+http://www.ici.radio-canada.ca	Service Canada Centre	Service Canada Centre, 157 Water St, Campbellton, NB E3N 3L3, Canada		point_of_interest, establishment	48.0070931	-66.6761872
+http://www.adonisproducts.com	Marché Adonis Sauvé	2001 Sauvé St W, Montreal, QC H4N 3L6, Canada		grocery_or_supermarket, food, store, establishment	45.534673	-73.666082
+http://www.beveragecompetition.com	Old St Andrews Ltd	153 Main Rd, Biggin Hill, Kent TN16 3JP, United Kingdom		establishment	51.313894	0.033558
+http://www.passionatefoodie.blogspot.ca
+http://www.leoncourville.com	Rue Léon Blum	Rue Léon Blum, 51170 Fismes, France		route	49.30826829999999	3.6937842
+http://www.bleulavande.ca	Bleu Lavande	891 Chemin Narrow (Route 247), Stanstead (Fitch Bay), QC J0B 3E0, Canada		establishment	45.086126	-72.188801
+http://www.lecypres.ca	The Cypress	592 Chemin Lakeside, Lac-Brome, QC J0E 1R0, Canada		lodging, establishment	45.270119	-72.498353
+http://www.cbleue.com
+http://www.vtele.ca	V Interactions	85 St Paul St W, Montreal, QC H2Y 3V4, Canada		establishment	45.504744	-73.554461
+http://www.expobassinchaudiere.com
+http://www.hudson-village.info
+http://www.henrietta-antony.com	Henrietta Antony Inc.	4192 St Catherine, Westmount (Montreal), QC H3Z 1P4, Canada		home_goods_store, store, establishment	45.486208	-73.587625
+http://www.jyst.us
+http://www.tourismeoutaouais.com	Tourisme Outaouais	103 Laurier St, Gatineau, QC J8X 3V8, Canada		travel_agency, establishment	45.431925	-75.709983

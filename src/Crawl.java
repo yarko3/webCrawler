@@ -32,8 +32,8 @@ public class Crawl {
 	
 	public static void main(String[] args) throws FileNotFoundException, UnsupportedEncodingException, MalformedURLException
 	{
-		//parseFileForExternals();
-		tagFile();
+		parseFileForExternals();
+		//tagFile();
 		//parseFile("data/wineries.txt");
 		//parseWithKnowns();
 		//buildEdgeSet();
@@ -104,12 +104,11 @@ public class Crawl {
 	
 	public static void tagFile() throws FileNotFoundException, UnsupportedEncodingException, MalformedURLException
 	{
-		LinkedList<String> list = urlFromFile("data/wineries.txt");
+		LinkedList<String> list = urlFromFile("data/canada/wineryExternals.txt");
 		
 		GooglePlaces client = new GooglePlaces("AIzaSyAjia1NdqXrNmBVVwe8TTmd7YqvX5BYJRA");
 		
-		
-		PrintWriter writer = new PrintWriter("data/taggedWineries.txt", "UTF-8");
+		PrintWriter writer = new PrintWriter("data/canada/taggedExternals.txt", "UTF-8");
         
 	    int l = 0;
 	    int count = 0;
@@ -133,7 +132,6 @@ public class Crawl {
 		    try
 		    {
 		    	
-		    	url = new URL(url).getHost();
 		    	
 //	        	String url = list.get(l);
 //	        	System.out.println(count);
@@ -141,7 +139,7 @@ public class Crawl {
 //	        	l++;
 //	        	count++;
 	        	
-	        	List<Place> places = client.getPlacesByQuery(url, 1);
+	        	List<Place> places = client.getPlacesByQuery(h, 1);
 	        	
 //	        	if (!url.contains("www"))
 //        			writer.print("http://www." + url);
@@ -211,36 +209,30 @@ public class Crawl {
     	HashSet<String> traversed;
     	//set of links from the given winery to be traversed
     	TreeSet<myURL> linkSet;
-    	//found hosts of externals
-    	HashSet<String> hosts = new HashSet<String>();
-    	
+
     	
     	//store winery adjacency list
     	HashMap<String, Set<String>> wineryMap = new HashMap<String, Set<String>>();
     	
     	//store regular adjacency list
     	HashMap<String, Set<String>> externalMap = new HashMap<String, Set<String>>();
-    	
     
-    	
         
-        LinkedList<String> wineries = urlFromFile("data/wineries.txt");
-        int count = 0;
-        
-        
-        
+        LinkedList<String> wineries = urlFromFile("data/Oregon/wineries.txt");
+
+        //for every winery
         for (int i = 0 ; i < wineries.size(); i++)
         {
-        	
-        	count++;
+        	//a set of traversed urls
         	traversed = new HashSet<String>();
+        	//
         	linkSet = new TreeSet<myURL>();
         	
-        	
+        	//winery url
         	String url = wineries.get(i).toLowerCase();
 
         	System.out.println("working on " + url);
-        	
+        	//add to traversed
 	        traversed.add(url);
 	        
 	        try
@@ -249,9 +241,18 @@ public class Crawl {
 		        
 		        
 		        Elements links = doc.select("a[href]");
-		
-		        //print("\nLinks: (%d)", links.size());
+
+		        //add every link to linkSet
 		        for (Element link : links) {
+		        	//the link
+		        	String temp = link.attr("abs:href");
+		        	//if it ends with something I don't wanna load
+		        	if (temp.endsWith(".img") || temp.endsWith(".jpg") ||
+		        			temp.endsWith(".pdf") || temp.endsWith(".jpeg") ||
+		        			temp.endsWith(".png") || temp.endsWith(".gif"))
+		        		continue;
+		        	
+		        	//otherwise add it to our list to be traversed
 		            linkSet.add(new myURL(link.attr("abs:href"), 0));
 		        }
 		        
@@ -262,35 +263,39 @@ public class Crawl {
 //		        else
 //		        	url = "http://www." + new URL(url).getHost();
 		        
+		        //winery host
 		        String host = new URL(url).getHost().replace("www.", "");
 		        
+		        //while we still have links to traverse and we haven't traversed 1000 pages,
 		        while (!linkSet.isEmpty() && traversed.size() < 1000)
 		        {
+		        	//link to be traversed next
 		        	myURL n = linkSet.first();
-		        	
+		        	//get the url
 		        	String next = n.url;
-		        	
+		        	//get the current depth of traversal
 		        	int depth = n.depth;
-		        	
+		        	//remove the link currently being traversed
 		        	linkSet.remove(n);
 		        	
-		        	//link is contains something
+		        	//link contains something
 		        	if (!next.equals("") || !next.equals(" "))
 		        	{
 		        		//normalize url
 		        		URL temp = new URL(next.toLowerCase());
 		        		next = temp.getProtocol() + "://" + temp.getHost() + temp.getPath();
 		        		
-		        		
-		        		
+		        		//if this is an internal page and we haven't seen it before, traverse it
 			        	if (next.contains(host) && !traversed.contains(next))
 			        	{
 			        		traverse(next, linkSet, traversed, depth);
-			        	}
-			    
-			        	if (traversed.add(next))
+			        		
+			        		//add it to traversed list
+			        		traversed.add(next);
 			        		System.out.println("Traversed " + next);
+			        	}
 			        	
+			        	//this is not an internal page
 			        	if (!next.contains(host))
 			        	{
 			        		next = new URL(next).getHost();
@@ -303,10 +308,7 @@ public class Crawl {
 				        		else
 				        			next = "http://" + next;
 				        		
-				        		//add to 
-				        		//hosts.add(next);
-				        		
-				        		
+				        		//if this is a winery from our list, add it to wineryMap
 				        		if (wineries.contains(next))
 				        		{
 				        			if (!wineryMap.containsKey(url))
@@ -332,7 +334,7 @@ public class Crawl {
 		                
 		        HashSet<String> externals = new HashSet<String>();
 		        //dump current hosts to file
-		        writer = new PrintWriter("data/edgeSet.txt", "UTF-8");
+		        writer = new PrintWriter("data/Oregon/edgeSet.txt", "UTF-8");
 //		        
 //		       
 		        for (String h : externalMap.keySet())
@@ -347,7 +349,7 @@ public class Crawl {
 		        writer.close();
 		        
 		        
-		        writer = new PrintWriter("data/wineryEdgeSet.txt", "UTF-8");
+		        writer = new PrintWriter("data/Oregon/wineryEdgeSet.txt", "UTF-8");
 		        
 			       
 		        for (String h : wineryMap.keySet())
@@ -359,7 +361,7 @@ public class Crawl {
 		        writer.close();
 		        
 		        //write externals to file
-		        writer = new PrintWriter("data/wieryExternals.txt", "UTF-8");
+		        writer = new PrintWriter("data/Oregon/wineryExternals.txt", "UTF-8");
 		        
 		        for (String s : externals)
 		        {
@@ -394,6 +396,13 @@ public class Crawl {
 		         for (Element link : links) {
 		        	 String next = link.attr("abs:href");
 	
+		        	
+		        	//if it ends with something I don't wanna load
+		        	if (next.endsWith(".img") || next.endsWith(".jpg") ||
+		        			next.endsWith(".pdf") || next.endsWith(".jpeg") ||
+		        			next.endsWith(".png") || next.endsWith(".gif"))
+		        		continue;
+		        	 
 		        	 //normalize url
 		        	 URL temp = new URL(next.toLowerCase());
 		        	 next = temp.getProtocol() + "://" + temp.getHost() + temp.getPath();

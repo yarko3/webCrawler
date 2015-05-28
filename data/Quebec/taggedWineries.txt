@@ -1,0 +1,77 @@
+http://www.ricaneux.com	Vin Artisanal Le Ricaneux Enr	5540 Rang Sud-Est, Saint-Charles-de-Bellechasse, QC G0R 2T0, Canada		food, establishment	46.805281	-70.895623
+http://www.closstecroix.ca	Vignoble Clos Ste-Croix Pierre-Paul Jodoin	3734 Rue Principale, Dunham, QC J0E 1M0, Canada		liquor_store, store, establishment	45.132703	-72.800813
+http://www.vignobledufaubourg.com	Vignoble du Faubourg	479 Des Bourgault Rue, Saint-Jean-Port-Joli, QC, Canada		food, establishment	47.191787	-70.273848
+http://www.marathonien.qc.ca	Vignoble du marathonien	318, route 202, Havelock, QC J0S 2C0, Canada		liquor_store, food, store, establishment	45.044919	-73.794071
+http://www.domainedesmeteores.com
+http://www.vs-p.ca
+http://www.cotedeslimousins.com	Vignoble Côte Des Limousins	1980 David Bouchard, Roxton Pond, QC J0E 1Z0, Canada		store, establishment	45.416763	-72.610265
+http://www.isledebacchus.com	Isle de Bacchus	Chemin Royal, QC G0A 4E0, Canada		establishment	46.884742	-71.079985
+http://www.vignoblekobloth.com	Vignoble Kobloth	905 Le Grand Boulevard Ouest, St-Bruno, QC J3V 4P6, Canada		establishment	45.507271	-73.33729
+http://www.lespetitscailloux.com	Les Petits Cailloux	625 Rang de la Montagne, Saint-Paul-d'Abbotsford, QC J0E 1A0, Canada		food, establishment	45.455264	-72.888611
+http://www.domainelesbromes.com
+http://www.eulalie.ca	Vignoble Sainte-Eulalie	895, rang des Ormes, Sainte-Eulalie, QC G0Z 1E0, Canada		food, establishment	46.143242	-72.206126
+http://www.valcaudalies.com
+http://www.vignoblegavet.com	Vignoble Les Côtes Du Gavet	1690 Aqueduc Way, Tingwick, QC J0A 1L0, Canada		food, store, establishment	45.904523	-71.988097
+http://www.cassismonna.com	Cassis Monna & filles, ÉCONOMUSÉE	721 Royal Ch, Saint-Pierre, QC, Canada		liquor_store, food, store, establishment	46.876827	-71.093924
+http://www.cotedevaudreuil.com	Vignoble Côte De Vaudreuil	2692 Route Harwood, Vaudreuil-Dorion, QC J7V 8P2, Canada		food, establishment	45.414486	-74.097638
+http://www.vignoblecarone.com	Carone Wines	75 Roy Ave, Lanoraie, QC J0K 1E0, Canada		food, establishment	45.969343	-73.215357
+http://www.antolinobrongo.com	Cidrerie Antolino Brongo	1840 Rang du Domaine, Saint-Joseph-du-Lac, QC J0N 1M0, Canada		food, establishment	45.529324	-74.048844
+http://www.cotesdardoise.com	Domaine des Côtes D'Ardoise 2010	889 Bruce Rue, Dunham, QC, Canada		food, establishment	45.11367	-72.846562
+http://www.cassisperignon.com
+http://www.bouchard-champagne.com	Domaine Bouchard-Champagne	23 Chemin des Vingt, Saint-Mathieu-de-Beloeil, QC J3G 0E8, Canada		establishment	45.565402	-73.285851
+http://www.domainepinnacle.com	Domaine Pinacle	Rue Miner, Cowansville, QC J2K 3Y6, Canada		food, store, establishment	45.197398	-72.750647
+http://www.cepdargent.com	Vignoble Le Cep d'Argent	1257 Rivière Way, Magog, QC J1X 3W5, Canada		food, establishment	45.291319	-72.056042
+http://www.domainemarguerite.com	Domaine de la source a Marguerite	3788 Royal Way, Sainte-Famille, QC G0A 3P0, Canada		food, establishment	46.965997	-70.966461
+http://www.lesfraiseslouishebert.com	Fraises Louis Hébert (Les)	978 Chemin de la 4 Ligne, Saint-Valentin, QC J0J 2E0, Canada		grocery_or_supermarket, food, store, establishment	45.128686	-73.315942
+http://www.domaineduridge.com	Domaine Du Ridge	205 ch Ridge, Saint-Armand, QC J0J 1T0, Canada		food, establishment	45.072742	-72.934921
+http://www.haltedespelerins.com	Halte Des Pèlerins	693 Sanctuaire Way, Sherbrooke, QC J1H 0E1, Canada		food, establishment	45.443534	-71.890386
+http://www.vignoblenordet.com	Nordet Vignoble & Cidrerie (Le)	991 Chemin des Îles, Pintendre, QC G6C 1B5, Canada		food, establishment	46.724659	-71.13027
+http://www.appleicewine.com
+http://www.lacacheamaxime.com	La Cache à Maxime	265 Drouin St, Sainte-Marie, QC G6E 3M8, Canada		food, night_club, clothing_store, store, bar, spa, establishment	46.506741	-71.055238
+http://www.coteauxdutremblay.ca
+http://www.vergerspedneault.com	Cidrerie Verger Pedneault	3384 Des Coudriers Ch, L'Isle-aux-Coudres, QC, Canada		food, establishment	47.421981	-70.376242
+http://www.domainelesbrome.com	Domaine Les Brome	285 Chemin Brome, Lac-Brome, QC J0E 1S0, Canada		food, establishment	45.262218	-72.588728
+http://www.cidrerievergerpetit.com
+http://www.lesmoutsdepom.com	Moûts De Pom (Les)	169 Rg 2 O, St-françois-xavier-de-brompton, QC J0B 2V0, Canada		store, establishment	45.554659	-72.019887
+http://www.domaineorleans.com	Domaine Orléans	285 Chemin Royal, Saint-Pierre-Ile-D'Orleans, QC G0A 4E0, Canada		food, establishment	46.869534	-71.105758
+http://www.casabreton.com	Verger et Vignoble Casa Breton	270 Chemin Jean Guérin Ouest, Saint-Henri, QC G0R 3E0, Canada		food, establishment	46.667531	-71.09172
+http://www.orpailleur.ca	Vignoble de L'Orpailleur Inc	1086 Bruce, Dunham, QC, Canada		food, establishment	45.109438	-72.858517
+http://www.saragnat.com
+http://www.artisansduterroir.ca	Vignoble Artisans Du Terroir	1150 de la Montagne Rang, Saint-Paul-d'Abbotsford, QC, Canada		food, establishment	45.461848	-72.886388
+http://www.rochedesbrises.com	Restaurant La Roche des Brises	2007 Principal Way, Saint-Joseph-du-Lac, QC J0N 1M0, Canada		restaurant, food, establishment	45.543726	-74.020319
+http://www.vignobleilebouchard.com
+http://www.clementlariviere.com	Verger Cidrerie Larivière	777 route 139, Saint-Théodore-d'Acton, QC J0H 1Z0, Canada		food, establishment	45.698986	-72.545227
+http://www.cidreriebilodeau.qc.ca	Cidrerie Bilodeau	2200 ROYAL CH, Saint-Pierre, QC G0A 4E0, Canada		establishment	46.913451	-71.040326
+http://www.vindeglace.com	Chapelle Ste Agnès	2565 Chemin Scenic, Sutton, QC J0E 2K0, Canada		establishment	45.023808	-72.582536
+http://www.laromanceduvin.ca	Romance Du Vin (La)	108 Chemin du Bas de la Rivière, Rigaud, QC J0P 1P0, Canada		restaurant, food, establishment	45.48818	-74.296207
+http://www.duminot.com	Cidrerie du Minot Inc.	376 Covey Hill Way, Hemmingford, QC J0L 1H0, Canada		food, clothing_store, store, establishment	45.019621	-73.621962
+http://www.lesmurmures.ca
+http://www.vignoblecarpinteri.com	Vignoble Carpinteri Inc	3141 Chemin du Pont Couvert, Saint-Ulric, QC G0J 3H0, Canada		food, lodging, establishment	48.770588	-67.684708
+http://www.vignobledelardennais.com	Vignoble Domaine De L'Ardennais	158 Ridge Ch, Stanbridge, QC, Canada		food, establishment	45.084391	-72.935406
+http://www.vergerpommalefun.com	Verger Gervais-Labelle	1673 Chemin Principal, Saint-Joseph-Du-Lac, QC J0N 1M0, Canada		food, establishment	45.543471	-74.020113
+http://www.vignobleriviereduchene.ca	Vignoble Rivière du Chêne	Chemin de la Rivière Nord, St-Eustache, QC J7R 0J5, Canada		food, clothing_store, store, establishment	45.563222	-73.974808
+http://www.leduc-piedimonte.com
+http://www.lesvergerslafrance.com	Vergers Lafrance (Les)	1473 Principal Ch, Saint-Joseph-du-Lac, QC, Canada		food, establishment	45.541929	-74.013622
+http://www.lesvergersdelacolline.com	Les Vergers de la Colline	5 Route 137, Ste-Cécile de Milton, QC J0E 2C0, Canada		clothing_store, store, restaurant, food, establishment	45.483424	-72.759531
+http://www.chateautailleferlafon.ca	Château Taillefer Lafon	1500 Montée Champagne, Laval, QC H7X 3Z8, Canada		food, establishment	45.551092	-73.82331
+http://www.vignobledulac.com	Vignoble le Domaine du Lac	421 Rue Principale, Saint-Mathieu-De-Rioux, QC G0L 3T0, Canada		food, establishment	47.844461	-69.3863
+http://www.lespervenches.com	Vignoble Les Pervenches	150 Boulais Ch, Rainville, QC, Canada		food, establishment	45.254286	-72.940533
+http://www.lacidrerieduvillage.com	La Cidrerie du Village	La Cidrerie du Village, 509 Principale, Rougemont, QC J0L 1M0		museum, point_of_interest, establishment	45.4424599	-73.0623347
+http://www.negondos.com	Vignobles des Négondos	Rang Saint Vincent, Mirabel, QC J7N 2T6, Canada		restaurant, food, establishment	45.583236	-74.153087
+http://www.vignobleleroyer.com
+http://www.domainesteinbach.com
+http://www.de-lavoie.com	Domaine De Lavoie	100 Montagne Way, Rougemont, QC J0L 1M0, Canada		establishment	45.451012	-73.074452
+http://www.passiondoree.com	passion doree	267 Chemin de Saint-Dominique, St-Pie, QC J0H 1W0, Canada		restaurant, food, establishment	45.527636	-72.872271
+http://www.vignoblelangegardien.com	Domaine L'Ange Gardien Vignobles Et Vergers Inc	6869 Royale Ave, L'Ange-Gardien, QC G0A 2K0, Canada		food, establishment	46.925573	-71.070954
+http://www.vignobledomainebresee.com	Vignoble Domaine Bresee	303 Chemin Draper Hill, Sutton, J0E 2K0, Canada		food, establishment	45.148836	-72.613127
+http://www.vergerboutin.com	Cidrerie Verger Léo Boutin	710 Rang de la Montagne, Mont-Saint-Grégoire, QC, Canada		food, establishment	45.361048	-73.131382
+http://www.domainest-jacques.ca
+http://www.quebecvino.com
+http://www.coteau-st-paul.com
+http://www.labauge.com	Vignoble de la Bauge	155 Des Erables Ave, Brigham, QC, Canada		food, establishment	45.233772	-72.855372
+http://www.valleedelaframboise.com	La Vallée de la Framboise Inc.	34 Lauzier Rd, Val-Brillant, QC G0J 3L0, Canada		food, establishment	48.531565	-67.558382
+http://www.domainemont-vezeau.com	DOMAINE DU MONT-VÉZEAU	365 Route 321, Ripon, QC J0V 1V0, Canada		food, establishment	45.834554	-75.062268
+http://www.vergerlacroix.ca	Verger Lacroix & Cidrerie	649, Chemin Principal RR 22, St-Joseph-du-Lac, QC J0N 1M0, Canada		food, establishment	45.525271	-73.994513
+http://www.fermeguyrivest.com	Ferme Guy Rivest	1305 Laliberté Way, Rawdon, QC J0K 1S0, Canada		establishment	46.05706	-73.633307
+http://www.domainefelibre.com	Domaine Félibre	740 ch Bean, Stanstead, QC J0B 3E0, Canada		food, establishment	45.040534	-71.964319
+http://www.boisset.com	Grands Vins Jean Claude Boisset	rue des frères Montgolfier, 21700 Nuits-Saint-Georges, France		food, establishment	47.129091	4.96134
