@@ -1,6 +1,8 @@
 
+import java.io.BufferedWriter;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.io.UnsupportedEncodingException;
@@ -237,7 +239,7 @@ public class Crawl {
 	        
 	        try
 	        {
-		        Document doc = Jsoup.connect(url).timeout(0).get();
+		        Document doc = Jsoup.connect(url).timeout(8000).get();
 		        
 		        
 		        Elements links = doc.select("a[href]");
@@ -246,6 +248,8 @@ public class Crawl {
 		        for (Element link : links) {
 		        	//the link
 		        	String temp = link.attr("abs:href");
+		        	temp = temp.trim();
+		        	
 		        	//if it ends with something I don't wanna load
 		        	if (temp.endsWith(".img") || temp.endsWith(".jpg") ||
 		        			temp.endsWith(".pdf") || temp.endsWith(".jpeg") ||
@@ -289,10 +293,6 @@ public class Crawl {
 			        	if (next.contains(host) && !traversed.contains(next))
 			        	{
 			        		traverse(next, linkSet, traversed, depth);
-			        		
-			        		//add it to traversed list
-			        		traversed.add(next);
-			        		System.out.println("Traversed " + next);
 			        	}
 			        	
 			        	//this is not an internal page
@@ -329,6 +329,11 @@ public class Crawl {
 			        		
 		        	}
 		        }
+		        
+		        //if we went over 1000 internal pages, print in failed URL
+		        if (traversed.size() >= 1000)
+		        	printFailedURL(url+" over 1000 internal pages found", "data/Oregon/failedURLs.txt");
+		        
 		        PrintWriter writer;
 		        
 		                
@@ -372,30 +377,43 @@ public class Crawl {
 	        }
 	        catch (Exception e)
 	        {
+	        	//print url
 	        	e.printStackTrace();
+	        	printFailedURL(url, "data/Oregon/failedURLs.txt");
 	        }
         }
-        
-        
-
     }
 
-    
+    private static void printFailedURL(String url, String path)
+    {
+    	PrintWriter out = null;
+		try {
+			out = new PrintWriter(new BufferedWriter(new FileWriter(path, true)));
+			out.println(url);
+		    out.close();
+		} catch (IOException e1) {
+			// TODO Auto-generated catch block
+			e1.printStackTrace();
+		}
+    }
     private static void traverse(String url, TreeSet<myURL> linkSet, HashSet<String> traversed, int depth) throws IOException
     {
+    	
+    	
     	//choose depth bound to traverse
     	//if (depth < 1)
     	{
 	    	try
 	    	{
-		    	 Document doc = Jsoup.connect(url).timeout(0).get();
+		    	 Document doc = Jsoup.connect(url).timeout(8000).get();
 		         Elements links = doc.select("a[href]");
 		         
 		         
 		         //print("\nLinks: (%d)", links.size());
 		         for (Element link : links) {
 		        	 String next = link.attr("abs:href");
-	
+		        	 
+		        	 next = next.trim();
 		        	
 		        	//if it ends with something I don't wanna load
 		        	if (next.endsWith(".img") || next.endsWith(".jpg") ||
@@ -409,7 +427,7 @@ public class Crawl {
 		        	 
 		        	 myURL n = new myURL(next, depth+1);
 		        	 
-		        	 if (!traversed.contains(next) && next!= "http://www.")
+		        	 if (!traversed.contains(next) && !next.equals("http://www."))
 		        	 {
 		        		 linkSet.add(n);
 		        	 }
@@ -418,7 +436,14 @@ public class Crawl {
 	    	catch (Exception e)
 	    	{
 	    		//everything else happened
+	    		e.printStackTrace();
+	    		//write to file the url that caused exception? too many
+
 	    	}
+	    	
+	    	//add it to traversed list
+    		traversed.add(url);
+    		System.out.println("Traversed " + url);
     	}
     }
 
