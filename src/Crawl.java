@@ -16,7 +16,6 @@ import java.util.List;
 import java.util.PriorityQueue;
 import java.util.Scanner;
 import java.util.Set;
-import java.util.TreeSet;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
@@ -210,8 +209,11 @@ public class Crawl {
     	//traversed urls
     	HashSet<String> traversed;
     	//set of links from the given winery to be traversed
-    	TreeSet<myURL> linkSet;
+    	PrioritySet linkSet;
 
+    	//get a set of URLs to be checked against but not traversed
+    	System.out.println("Trying to load feeder file (not a big deal if we don't have one)");
+    	LinkedList<String> feederWineries = urlFromFile("data/feeder.txt");
     	
     	//store winery adjacency list
     	HashMap<String, Set<String>> wineryMap = new HashMap<String, Set<String>>();
@@ -220,7 +222,7 @@ public class Crawl {
     	HashMap<String, Set<String>> externalMap = new HashMap<String, Set<String>>();
     
         
-        LinkedList<String> wineries = urlFromFile("data/Oregon/wineries.txt");
+        LinkedList<String> wineries = urlFromFile("data/wineries.txt");
 
         //for every winery
         for (int i = 0 ; i < wineries.size(); i++)
@@ -228,7 +230,7 @@ public class Crawl {
         	//a set of traversed urls
         	traversed = new HashSet<String>();
         	//
-        	linkSet = new TreeSet<myURL>();
+        	linkSet = new PrioritySet();
         	
         	//winery url
         	String url = wineries.get(i).toLowerCase();
@@ -253,7 +255,8 @@ public class Crawl {
 		        	//if it ends with something I don't wanna load
 		        	if (temp.endsWith(".img") || temp.endsWith(".jpg") ||
 		        			temp.endsWith(".pdf") || temp.endsWith(".jpeg") ||
-		        			temp.endsWith(".png") || temp.endsWith(".gif"))
+		        			temp.endsWith(".png") || temp.endsWith(".gif") || 
+		        			temp.equals(""))
 		        		continue;
 		        	
 		        	//otherwise add it to our list to be traversed
@@ -274,13 +277,14 @@ public class Crawl {
 		        while (!linkSet.isEmpty() && traversed.size() < 1000)
 		        {
 		        	//link to be traversed next
-		        	myURL n = linkSet.first();
+		        	myURL n = linkSet.remove();
 		        	//get the url
-		        	String next = n.url;
+		        	String next = n.getUrl();
 		        	//get the current depth of traversal
-		        	int depth = n.depth;
-		        	//remove the link currently being traversed
-		        	linkSet.remove(n);
+		        	int depth = n.getDepth();
+		        	
+		        	
+		        	
 		        	
 		        	//link contains something
 		        	if (!next.equals("") || !next.equals(" "))
@@ -293,6 +297,8 @@ public class Crawl {
 			        	if (next.contains(host) && !traversed.contains(next))
 			        	{
 			        		traverse(next, linkSet, traversed, depth);
+			        		System.out.println("URL depth: " + n.getDepth());
+			        		
 			        	}
 			        	
 			        	//this is not an internal page
@@ -309,7 +315,7 @@ public class Crawl {
 				        			next = "http://" + next;
 				        		
 				        		//if this is a winery from our list, add it to wineryMap
-				        		if (wineries.contains(next))
+				        		if (wineries.contains(next) || feederWineries.contains(next))
 				        		{
 				        			if (!wineryMap.containsKey(url))
 				        			{
@@ -332,14 +338,14 @@ public class Crawl {
 		        
 		        //if we went over 1000 internal pages, print in failed URL
 		        if (traversed.size() >= 1000)
-		        	printFailedURL(url+" over 1000 internal pages found", "data/Oregon/failedURLs.txt");
+		        	printFailedURL(url+" over 1000 internal pages found", "data/failedURLs.txt");
 		        
 		        PrintWriter writer;
 		        
 		                
 		        HashSet<String> externals = new HashSet<String>();
 		        //dump current hosts to file
-		        writer = new PrintWriter("data/Oregon/edgeSet.txt", "UTF-8");
+		        writer = new PrintWriter("data/edgeSet.txt", "UTF-8");
 //		        
 //		       
 		        for (String h : externalMap.keySet())
@@ -354,7 +360,7 @@ public class Crawl {
 		        writer.close();
 		        
 		        
-		        writer = new PrintWriter("data/Oregon/wineryEdgeSet.txt", "UTF-8");
+		        writer = new PrintWriter("data/wineryEdgeSet.txt", "UTF-8");
 		        
 			       
 		        for (String h : wineryMap.keySet())
@@ -366,7 +372,7 @@ public class Crawl {
 		        writer.close();
 		        
 		        //write externals to file
-		        writer = new PrintWriter("data/Oregon/wineryExternals.txt", "UTF-8");
+		        writer = new PrintWriter("data/wineryExternals.txt", "UTF-8");
 		        
 		        for (String s : externals)
 		        {
@@ -379,7 +385,7 @@ public class Crawl {
 	        {
 	        	//print url
 	        	e.printStackTrace();
-	        	printFailedURL(url, "data/Oregon/failedURLs.txt");
+	        	printFailedURL(url, "data/failedURLs.txt");
 	        }
         }
     }
@@ -396,7 +402,7 @@ public class Crawl {
 			e1.printStackTrace();
 		}
     }
-    private static void traverse(String url, TreeSet<myURL> linkSet, HashSet<String> traversed, int depth) throws IOException
+    private static void traverse(String url, PrioritySet linkSet, HashSet<String> traversed, int depth) throws IOException
     {
     	
     	
@@ -418,7 +424,8 @@ public class Crawl {
 		        	//if it ends with something I don't wanna load
 		        	if (next.endsWith(".img") || next.endsWith(".jpg") ||
 		        			next.endsWith(".pdf") || next.endsWith(".jpeg") ||
-		        			next.endsWith(".png") || next.endsWith(".gif"))
+		        			next.endsWith(".png") || next.endsWith(".gif") ||
+		        			next.equals(""))
 		        		continue;
 		        	 
 		        	 //normalize url
@@ -454,17 +461,12 @@ public class Crawl {
     	FileReader file = null;
 		try {
 			file = new FileReader(filename);
-		} catch (FileNotFoundException e) {
-			System.out.println("File " + filename + " could not be found.");
-			e.printStackTrace();
-		}
-
-		Scanner scan = new Scanner(file);
-
-		while (scan.hasNextLine()) {
-			list.add(scan.nextLine().toLowerCase());
-		}
-		try {
+		
+			Scanner scan = new Scanner(file);
+	
+			while (scan.hasNextLine()) {
+				list.add(scan.nextLine().toLowerCase());
+			}
 			scan.close();
 			file.close();
 		} catch (IOException e) {
@@ -653,52 +655,5 @@ public class Crawl {
     	
     }
     
-    static class myURL implements Comparable<myURL>
-    {
-    	@Override
-		public int hashCode() {
-			final int prime = 31;
-			int result = 1;
-			result = prime * result + depth;
-			result = prime * result + ((url == null) ? 0 : url.hashCode());
-			return result;
-		}
-
-		@Override
-		public boolean equals(Object obj) {
-			if (this == obj)
-				return true;
-			if (obj == null)
-				return false;
-			if (getClass() != obj.getClass())
-				return false;
-			myURL other = (myURL) obj;
-			if (depth != other.depth)
-				return false;
-			if (url == null) {
-				if (other.url != null)
-					return false;
-			} else if (!url.equals(other.url))
-				return false;
-			return true;
-		}
-
-		String url;
-    	int depth;
-    	
-    	myURL(String u, int d)
-    	{
-    		url = u;
-    		depth = d;
-    	}
-
-		@Override
-		public int compareTo(myURL arg0) {
-			if (equals(arg0))
-				return 0;
-			else
-				return -1;
-		}
-    }
-
 }
+    
